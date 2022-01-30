@@ -1,0 +1,180 @@
+{
+  "json_version": 3,
+  "name": "Sana Targets",
+  "blueprint_name": "Hero Target",
+  "hint_order_index": 8,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643572788,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "6"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "NEIGHBULA"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "PET, HORSE"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<color=\"red\"><b>END PHASE</b></color>\nYou may destroy 1 Constellation. If you do, you may play 1 card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"To YAGOO it may concern, it has come to my attention that there is a knead for steed.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Tsukumo Sana, letter to YAGOO"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/neighbula.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643572794,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "10"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "YATAGARASU"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "PET, GOD"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<color=\"green\"><b>START PHASE</b></color>\r\nYou may salvage 1 Constellation or draw 1 card.\r\n<color=\"red\"><b>END PHASE</b></color>\r\nYou may destroy a Constellation. If you do, Yatagarasu deals 1 target 3 cold damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Bawk! Bawk! Bawk! Bawk! What? It's the language of the gods!\" "
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Tsukumo Sana"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/yatagarasu.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643572780,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "6"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SANA'S LIMITER"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, RELIC"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Other hero targets are immune to melee damage dealt by Tsukumo Sana.\r\nIf this card would take damage, you may destroy any number of Constellations. If you do, this card regains 1 HP for each Constellation destroyed this way."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"It holds back my powers, without it I would grow too big and destroy the Earth!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Tsukumo Sana"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/limiter.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    }
+  ]
+}

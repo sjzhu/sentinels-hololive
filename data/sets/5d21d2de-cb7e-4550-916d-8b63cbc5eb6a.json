@@ -1,0 +1,1146 @@
+{
+  "json_version": 3,
+  "name": "Sana Deck",
+  "blueprint_name": "Council Card",
+  "hint_order_index": 7,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470554,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Astrology"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "AQUARIUS"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, CONSTELLATION"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, draw a card.\r\nWhen this card is destroyed, a hero target regains 3 HP.\r\n<b>POWER</b>: Destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "The futurist Aquarius, friendly and inventive, but rebellious and erratic."
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/aquarius.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470673,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Astrology"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "ARIES"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, CONSTELLATION"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, draw a card.\r\nWhen this card is destroyed, a hero may discover an Ongoing.\r\n<b>POWER</b>: Destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "The vigorous Aries, adventurous and enthusiastic, but selfish and impatient."
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/aries.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643391347,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Tsukumo Sana"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "BEEG!"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Tsukumo Sana's HP has no maximum value.\r\n+1 HP recovery for Tsukumo Sana.\r\n<b>POWER</b>: Tsukumo Sana regains 2 HP."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"In my human form, Sana is 169 cm tall, but I'm actually 16978400000000 cm tall!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/beeg.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470829,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Tsukumo Sana"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "BLESSINGS OF SPACE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "-1 damage dealt to ally characters.\nEach ally may draw a card.\n<color=\"green\"><b>START PHASE</b></color>\r\nDestroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Look at the little humans, so tiny, so incredible!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/blessingsofspace.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470689,
+      "details":
+      [
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "CANCER"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, CONSTELLATION"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, draw a card.\r\nWhen this card is destroyed, a hero character may deal 1 target 3 cold damage.\n<b>POWER</b>: Destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "The romantic Cancer, kind and sympathetic, but sensible and clingy."
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Astrology"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/cancer.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470707,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Astrology"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "CAPRICORN"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, CONSTELLATION"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, draw a card.\r\nWhen this card is destroyed, a hero may draw a card and play a card.\n<b>POWER</b>: Destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "The practical Capricorn, ambitious and disciplined, but rigid and pessimistic."
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/capricorn.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643391145,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Tsukumo Sana"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "CELESTIAL BODY"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After a Constellation is destroyed, Tsukumo Sana may deal 1 target 2 cold damage.\n<color=\"red\"><b>END PHASE</b></color>\nYou may play or discover a Constellation. If you do, Tsukumo Sana deals each target 1 melee damage.\r"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I'm from Aus-I mean Space Australia!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/celestialbody.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470865,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "CONTINGENCY PLAN"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "The first time each turn Sana's Limiter would be dealt damage, you may redirect it to Tsukumo Sana.\r\n<color=\"purple\"><b>POWER PHASE</b></color>\nYou may use an additional power this phase."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"If it comes to it, 'they' have the power to stop you\" "
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/contingencyplan.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470883,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Tsukumo Sana"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "COSMIC PRESENCE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After a Constellation enters play, Tsukumo Sana gains 2 HP.\r\n<b>POWER</b>: Discover or salvage a Constellation."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"To give you an idea of my true size, my boobas are the size of Jupiter, each.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/cosmicpresence.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470719,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Astrology"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "GEMINI"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, CONSTELLATION"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, draw a card.\r\nWhen another constellation is destroyed, you may destroy this card and play that constellation from the trash."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "The youthful Gemini, communicative and versatile, but moody and superficial"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/gemini.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643391723,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After Tsukumo Sana is dealt psychic damage, draw a card.\r\n<b>POWER</b>: You may discard a card. If you do, you may discover an Ongoing."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "KNOWLEDGE OF THE ANCIENT ONES",
+            "text_size": "3.5"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"The only way to save the void is to validate the existence of space.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- IRyS, Speaker of the Council"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/knowledge.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470737,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Astrology"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "LEO"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, CONSTELLATION"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, draw a card.\r\nWhen this card is destroyed, a hero may deal each non-hero target 2 melee damage.\n<b>POWER</b>: Destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "The magnanimous Leo, generous and caring, but pompous and patronizing"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/leo.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470747,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, draw a card.\r\nWhen this card is destroyed, each hero may draw a card and discard a card.\n<b>POWER</b>: Destroy this card."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "LIBRA"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, CONSTELLATION"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "The just Libra, charming and charismatic, but shallow and indecisive"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Astrology"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/libra.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470757,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Astrology"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "PISCES"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, draw a card.\r\nWhen this card is destroyed, a hero may deal 4 psychic damage to the villain target with the highest HP.\n<b>POWER</b>: Destroy this card."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, CONSTELLATION"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "The emotive Pisces, selfless and intuitive, but secretive and weak-willed."
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/pisces.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470767,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Astrology"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SAGITTARIUS"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, draw a card.\r\nWhen this card is destroyed, a hero may deal 1 target 2 fixed fire damage.\n<b>POWER</b>: Destroy this card."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, CONSTELLATION"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "The intellectual Sagittarius, optimistic and honest, but impatient and reckless"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/sagittarius.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643325987,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Tsukumo Sana"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SANA IS BEEG!"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Tsukumo Sana regains 3 HP.\r\nTsukumo Sana deals 1 target 3 melee damage, +1 damage for every 10 HP Tsukumo Sana currently has."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"BeeeeeeGGG Sana!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/sanaisbeeg.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643325973,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Tsukumo Sana"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SANA LANDING"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, GREETING"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Draw 2 cards.\r\nDiscover a Constellation."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Sana has landed!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/sanalanding.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470781,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Astrology"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SCORPIO"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, CONSTELLATION"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, draw a card.\r\nWhen this card is destroyed, a hero may destroy any number of targets with 3 or fewer HP.\n<b>POWER</b>: Destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "The intense Scorpio, determined and passionate, but compulsive and obsessive."
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/scorpio.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470900,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": " - Tsukumo Sana"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SNEEZE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "<color=\"red\">SUDDENLY</color>, ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "If Sana's Limiter is in play, Tsukumo Sana deals 3 fixed psychic damage to it.\r\nTsukumo Sana deals each target 2 melee damage.\r\nDraw a card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Faufau, I did it again... Can you fix the Earth?\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/sneeze.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -1.3"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470792,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Astrology"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "TAURUS"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, CONSTELLATION"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, draw a card.\r\nWhen this card is destroyed, a hero may draw 3 cards.\n<b>POWER</b>: Destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "The strong Taurus, patient and loyal, but jealous and inflexible"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/taurus.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643574362,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Tsukumo Sana"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "THE COUNCIL - SPACE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">+1 to HP recovery by hero targets.\r\nThe first time each turn damage is redirected from a hero target, that hero target gains 1 HP.\r\n<b>POWER</b>: Choose a hero target, redirect the next damage dealt to that target to Tsukumo Sana.</align>"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"This room is too small, can't we get some more space?\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "holocouncil.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643325897,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Tsukumo Sana gains 3 HP.\r\nTsukumo Sana deals each target 1 melee damage, +1 damage for every 10 HP Tsukumo Sana currently has."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "UNCONTROLLABLE GROWTH",
+            "text_size": "4.4"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"There will be no void once I grow over everything!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Tsukumo Sana"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/uncontrollablegrowth.png",
+            "img_offset": "0, -1"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643470807,
+      "details":
+      [
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "VIRGO"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, CONSTELLATION"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, draw a card.\r\nWhen this card is destroyed, all hero targets regain 1 HP.\n<b>POWER</b>: Destroy this card."
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Sana/virgo.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    }
+  ]
+}

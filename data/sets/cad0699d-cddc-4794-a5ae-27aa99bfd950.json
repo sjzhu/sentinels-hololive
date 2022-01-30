@@ -1,0 +1,812 @@
+{
+  "json_version": 3,
+  "name": "Mumei Deck",
+  "blueprint_name": "Council Card",
+  "hint_order_index": 5,
+  "items":
+  [
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643391835,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz and Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "ADVENTURER'S GEAR"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Any hero may use this card's power.\r\n<b>POWER</b>: Reveal the top card of 2 hero decks. Play one of them and discard the rest."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Let's goooo Mumei!\"\n\"Yes! Where are we going?\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/adventuringgear.jpg",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643391525,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "ADVENTURE JOURNAL"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, RELIC"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">Whenever you discard a card, you may put it under this card instead of in your trash.\n<b>POWER</b>: Play a card from under this card.</align>"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I keep a record of the things I learn about people, in case I forget.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/adventurejournal.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643391500,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "BERRIES"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Any hero may use this card's powers.\r\n<b>POWER</b>: Your hero character regains 1 HP.\r\n<b>POWER</b>: Collect one card. Destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Here! Berries!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/berries.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, 3"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 4,
+      "last_modification_date_unix": 1643391865,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "BLESSING OF CIVILIZATION",
+            "text_size": "4.7"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Each ally may collect an Item or use a power on an Item."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I'm always protecting you from afar.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/blessingofciv.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643391487,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "DAGGER"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "Item"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Any hero may use this card's powers.\r\n<b>POWER</b>: Your hero character deals up to 3 targets 1 projectile damage each.\r\n<b>POWER</b>: Your hero character deals 1 target 1 projectile damage 3 times. Destroy this card.."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Daggers. The best weapon for an adventurer, stabbing, throwing and doubling up as a knife.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/dagger.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643261893,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "FEARS OF MANKIND"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "The first time each turn a hero discards a card, you may use a power."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I'm here to guide you guys, I just forgot to where.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/fearsofmankind.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643469148,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ouro Kronii"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "GUARDIAN OF CIVILIZATION",
+            "text_size": "4.5"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "You may redirect the first damage dealt each turn to the lowest HP hero target to Nanashi Mumei. If you do, you may draw a card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"She had many names, Guardian, Goddess, Athena. She forgot them all, now we just call her Mumei.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/guardianofcivilization.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643391468,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "HAND LAMP"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Play with the top card of the environment deck revealed.\r\nAny hero may use this power.\r\n<b>POWER</b>: Discard the top card of the environment deck, if it was not a target, you may draw 1 card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Light the way, show the path.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/handlamp.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643261928,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "HELPFUL HAND"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "The first time each turn another hero uses a power on one of your Items, they may increase one of that power's numbers by 1."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I'm here to help, I think...\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/helpinghand.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1643469189,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "LOST IN ADVENTURE"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "You may bury a non-indestructible Environment card. If you do, play the top card of the Environment deck.\nYou may play a card."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Let's go on an adventure, Friend!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/lostinadventure.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 4,
+      "last_modification_date_unix": 1643261950,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "OH HELLO!"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, GREETING"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Draw 2 cards and discard a card.\r\nYou may play or discover an Item."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Hi.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/ohi.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643469233,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "OWL HOOD"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "-1 damage dealt to Nanashi Mumei\r\n<b>POWER</b>: Until your next START PHASE, Nanashi Mumei is immune to damage from environment targets."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Who?\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/owlhood.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643391450,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SHE FORGOR"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "During your turn, your powers may be used more than once.\r\n<color=\"purple\"><b>POWER PHASE</b></color>\r\nYou may use an additional power this phase."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Have I used this one?\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/she forgor.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1643469270,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Destroy a card in your play area.\nDraw a card.\nPlay a card."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SHORT ATTENTION SPAN"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "<color=\"red\">SUDDENLY</color>, ONE-SHOT"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I need to... Oh, look at that!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/shortattentionspan.png",
+            "img_fit_mode": "stretch"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643574351,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "The first time each turn a hero uses a power from another hero's card, they may draw a card.\r\nAfter you discard any number of cards, you may draw 1 card.\r\n<b>POWER</b>: Discard 1 card and draw 1 card."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "THE COUNCIL - CIVILIZATION",
+            "text_size": "4.4"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Oh, I'm not Civilization, I just guard it. So it's not my fault.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "holocouncil.jpg",
+            "img_fit_mode": "stretch"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643391399,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/vengefulnature.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "VENGEFUL NATURE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>REACTION</b>: Nanashi Mumei deals the attacker 2 projectile damage. You may discard a card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Thank you. You have given me a purpose. I am eternally grateful. :)\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei, upon being killed"
+          }
+        }
+      ]
+    }
+  ]
+}

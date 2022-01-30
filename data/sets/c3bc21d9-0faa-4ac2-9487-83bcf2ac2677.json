@@ -1,0 +1,441 @@
+{
+  "json_version": 3,
+  "name": "Council Character Cards",
+  "blueprint_name": "Hero Character Card",
+  "hint_order_index": 1,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643161324,
+      "details":
+      [
+        {
+          "name": "HP Number",
+          "data":
+          {
+            "value": "27"
+          }
+        },
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "value": "kronii.png"
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "value": "kronii logo.png"
+          }
+        },
+        {
+          "name": "Power Name",
+          "data":
+          {
+            "value": "Temporal Strike"
+          }
+        },
+        {
+          "name": "Power Panel",
+          "data":
+          {
+            "value": "<b>POWER: </b>Ouro Kronii deals 1 target X damage, where X is the number of cards you have played this turn."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "HERO, COUNCIL"
+          }
+        },
+        {
+          "name": "Incap Power Name",
+          "data":
+          {
+            "value": "Tell me I'm okay"
+          }
+        },
+        {
+          "name": "Incap Powers",
+          "data":
+          {
+            "value": " - A hero may skip a phase on their next turn.\n - A hero may repeat a phase on their next turn.\n - A hero may play a card"
+          }
+        },
+        {
+          "name": "Incap Art",
+          "data":
+          {
+            "value": "incap.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643239039,
+      "details":
+      [
+        {
+          "name": "HP Number",
+          "data":
+          {
+            "value": "25"
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "value": "baelzlogo.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "value": "baelzCCart.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "HERO, COUNCIL"
+          }
+        },
+        {
+          "name": "Power Name",
+          "data":
+          {
+            "value": "Chaos Incarnate"
+          }
+        },
+        {
+          "name": "Power Panel",
+          "data":
+          {
+            "value": "<b>POWER: </b>You may choose a hero to play the top card of their deck. If you chose an ally, draw a card."
+          }
+        },
+        {
+          "name": "Incap Power Name",
+          "data":
+          {
+            "value": "Ded Rat"
+          }
+        },
+        {
+          "name": "Incap Art",
+          "data":
+          {
+            "value": "incapbaelz.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Incap Powers",
+          "data":
+          {
+            "value": "- Discard the top card of a deck.\r\n- Play the top card of a deck.\r\n- Discover a One-Shot from a deck."
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643242863,
+      "details":
+      [
+        {
+          "name": "HP Number",
+          "data":
+          {
+            "value": "23"
+          }
+        },
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "value": "IRyS/iryscc.jpg"
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "value": "IRyS/iryslogo.png"
+          }
+        },
+        {
+          "name": "Power Name",
+          "data":
+          {
+            "value": "Emissary of Hope"
+          }
+        },
+        {
+          "name": "Power Panel",
+          "data":
+          {
+            "value": "<b>POWER: </b>Activate a HOPE or DESPAIR effect in play."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "HERO"
+          }
+        },
+        {
+          "name": "Incap Power Name",
+          "data":
+          {
+            "value": "Unloved Half-Demon"
+          }
+        },
+        {
+          "name": "Incap Art",
+          "data":
+          {
+            "value": "IRyS/incap.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Incap Powers",
+          "data":
+          {
+            "value": "- 1 target deals itself 1 infernal and 1 radiant damage\r\n- One hero uses a power\r\n- One hero draws a card"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643257729,
+      "details":
+      [
+        {
+          "name": "HP Number",
+          "data":
+          {
+            "value": "27"
+          }
+        },
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "value": "Mumei/mumeicc.png"
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "value": "Mumei/blankname.png"
+          }
+        },
+        {
+          "name": "Power Name",
+          "data":
+          {
+            "value": "Guardian of Civilization"
+          }
+        },
+        {
+          "name": "Power Panel",
+          "data":
+          {
+            "value": "<b>POWER: </b>Another hero may use a power on one of your Items. If you control no Items, you may discover an Item."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "HERO, COUNCIL"
+          }
+        },
+        {
+          "name": "Incap Power Name",
+          "data":
+          {
+            "value": "Retired Guardian"
+          }
+        },
+        {
+          "name": "Incap Art",
+          "data":
+          {
+            "value": "Mumei/incap.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Incap Powers",
+          "data":
+          {
+            "value": "- A hero plays an Item card\r\n- A hero uses a power on an Item they control\r\n- A hero draws a card"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643573222,
+      "details":
+      [
+        {
+          "name": "HP Number",
+          "data":
+          {
+            "value": "35"
+          }
+        },
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "value": "Sana/sanacc.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "value": "Mumei/blankname.png"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "HERO, COUNCIL"
+          }
+        },
+        {
+          "name": "Power Name",
+          "data":
+          {
+            "value": "Space Incarnate"
+          }
+        },
+        {
+          "name": "Power Panel",
+          "data":
+          {
+            "value": "<b>POWER: </b>You may summon or play Sana's Limiter. Tsukumo Sana deal each target 1 melee damage."
+          }
+        },
+        {
+          "name": "Incap Power Name",
+          "data":
+          {
+            "value": "Solitary Space"
+          }
+        },
+        {
+          "name": "Incap Art",
+          "data":
+          {
+            "value": "Sana/incap.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Incap Powers",
+          "data":
+          {
+            "value": "- Destroy an environment card, then each target deals itself 1 fixed melee damage.\r\n- A hero target deals 1 target 2 cold damage.\r\n- A hero plays an Ongoing.",
+            "text_size": "3.3"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643337590,
+      "details":
+      [
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "value": "Fauna/faunacc.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "value": "Fauna/logo.png"
+          }
+        },
+        {
+          "name": "Power Name",
+          "data":
+          {
+            "value": "Mother Nature"
+          }
+        },
+        {
+          "name": "Power Panel",
+          "data":
+          {
+            "value": "<b>POWER: </b>Discover a Sapling. Draw a card."
+          }
+        },
+        {
+          "name": "Incap Power Name",
+          "data":
+          {
+            "value": "Angy Mother"
+          }
+        },
+        {
+          "name": "Incap Art",
+          "data":
+          {
+            "value": "Fauna/incap.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Incap Powers",
+          "data":
+          {
+            "value": "- An environment target deals 1 target 2 melee damage.\r\n- Choose a target, until your next turn, that target is immune to damage dealt by environment targets.\r\n- Destroy an environment card.",
+            "text_size": "3.2"
+          }
+        },
+        {
+          "name": "HP Number",
+          "data":
+          {
+            "value": "31"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "HERO, COUNCIL"
+          }
+        }
+      ]
+    }
+  ]
+}

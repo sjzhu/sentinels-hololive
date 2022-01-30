@@ -1,0 +1,560 @@
+{
+  "json_version": 3,
+  "name": "Fauna Deck",
+  "blueprint_name": "Council Card",
+  "hint_order_index": 9,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643335743,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "BLESSINGS OF NATURE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, your allies each regain 1 HP.\r\nIf a hero character would be dealt damage, they may redirect that damage to a Sapling instead.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nDestroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Nature is full of gifts for humankind\" "
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Fauna/blessingsofnature.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643335754,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": " - Ceres Fauna"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "CIRCLE OF LIFE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Destroy an environment card.\r\nYou may salvage or play a Sapling"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Nature is a cycle. Life, death and rebirth\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Fauna/circleoflife.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643335766,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ceres Fauna"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "DECAY AND REGROWTH"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "You may destroy a Sapling.\r\nIf you do, destroy an Ongoing and salvage a card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Everything that dies grows again!\" "
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Fauna/decayandregrowth.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643335779,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ceres Fauna"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "FOOD CHAIN"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "+1 damage dealt by Saplings\r\n<color=\"green\"><b>START PHASE</b></color>\r\nYou may destroy or discard a Sapling. If you did not, destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"This is a natural part of nature.\" "
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Fauna/foodchain.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643335799,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ceres Fauna"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "GOLDEN APPLE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, RELIC"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<color=\"green\"><b>START PHASE</b></color>\r\nEach hero may discard a card. X targets regain 2 HP, where X is the number of cards discarded this way.\r\n<color=\"red\"><b>END PHASE</b></color>\r\nCeres Fauna may deal herself up to 2 fixed psychic damage. Salvage a number of Saplings equal to the damage taken this way."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Come on, get a bite!\" "
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Fauna/goldenapple.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643472745,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ceres Fauna"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "KONFAUNA!"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, GREETING"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Draw 1 card.\r\nEither discover an Ongoing or shuffle your trash into your deck."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Konfauna!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Fauna/konfauna.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, 1"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643335833,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "MOTHER NATURE'S ORDERS",
+            "text_size": "4.5"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Play this next to an environment target.\r\n-1 damage dealt by that target.\r\nRedirect damage dealt by that target to the highest HP villain.\r\n<color=\"red\"><b>END PHASE</b></color>\r\nYou may destroy or discard a Sapling. If you do not, destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"They do as she seiso!\" "
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Fauna/mothernaturesorders.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643335848,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ceres Fauna"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "NATURE'S REGROWTH"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After a Sapling is dealt damage, it may regain 1 HP.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nYou may destroy or discard a Sapling. If you did not, destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"As long as I'm around, Nature will grow anew!\" "
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Fauna/naturesregrowth.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643335858,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ceres Fauna"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "TAKEN BY NATURE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Bury a villain target with 5 or fewer HP.\r\nDiscover a Sapling.\r\nCeres Fauna deals that Sapling 2 fixed infernal damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Naughty Saplings must be punished.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Fauna/takenbynature.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643574375,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ceres Fauna"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "THE COUNCIL - NATURE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "-1 damage dealt by environment targets to hero targets.\r\nThe first time each turn a non-villain target is destroyed, you may draw a card.\r\n<b>POWER</b>: Choose a hero target with 3 or fewer HP. That target regains 3 HP."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Nature would be growing fine if not for civilization's interference.\" "
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "holocouncil.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1643335873,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "WRATH OF NATURE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "The first time each turn a non-Villain target is destroyed, each Sapling may deal 1 infernal damage to the villain with the highest HP."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Nature is scary!\" "
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Fauna/wrathofnature.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    }
+  ]
+}

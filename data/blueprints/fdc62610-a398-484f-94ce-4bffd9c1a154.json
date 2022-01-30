@@ -1,0 +1,301 @@
+{
+  "json_version": 3,
+  "name": "Hero Target",
+  "type": "card",
+  "layout_size_mm": "63.5, 88.9",
+  "main_panel_name": "number",
+  "hint_order_index": 2,
+  "front_layers":
+  [
+    {
+      "name": "default",
+      "panels":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "layout_position": "58.63508, 83.83025",
+            "layout_size": "10.61748, 6.384136",
+            "panel_type": "text",
+            "value": "HP"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "layout_position": "56.89395, 82.49879",
+            "layout_size": "10.41263, 10.89059",
+            "panel_type": "icon",
+            "value": "Character/CornerHP",
+            "color": "#FFFFFFFF"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "layout_position": "43.60215, 2.811512",
+            "layout_size": "36.96954, 2.706064",
+            "panel_type": "text",
+            "value": "Text",
+            "text_size": "2",
+            "text_font": "Arial Bold"
+          }
+        },
+        {
+          "name": "Attribution Back Border",
+          "data":
+          {
+            "layout_position": "43.60215, 2.811512",
+            "layout_size": "36.96954, 2.706064",
+            "panel_type": "procedural",
+            "value": "Text",
+            "text_size": "2",
+            "text_font": "Arial Bold",
+            "color": "#000000FF",
+            "procedural_border": "0.3"
+          }
+        },
+        {
+          "name": "Attribution Backing Fill",
+          "data":
+          {
+            "layout_position": "43.60215, 2.811512",
+            "layout_size": "36.96954, 2.706064",
+            "panel_type": "procedural",
+            "value": "Text",
+            "text_size": "2",
+            "text_font": "Arial Bold",
+            "color": "#FFCB26FF"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "layout_position": "31.28215, 6.086443",
+            "layout_size": "54.53983, 5.721086",
+            "panel_type": "text",
+            "value": "Text",
+            "text_size": "2",
+            "text_font": "Arial Bold Italic"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "layout_position": "23.68952, 37.32831",
+            "layout_size": "37.28762, 3.537794",
+            "panel_type": "text",
+            "value": "KEYWORDS",
+            "text_size": "2.5",
+            "text_alignment_h": "left",
+            "text_font": "Arial Bold"
+          }
+        },
+        {
+          "name": "Keyword Backing Border",
+          "data":
+          {
+            "layout_position": "23.48468, 37.32831",
+            "layout_size": "37.6973, 3.537794",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#000000FF",
+            "procedural_border": "0.3"
+          }
+        },
+        {
+          "name": "Keyword Backing Fill",
+          "data":
+          {
+            "layout_position": "23.48468, 37.32831",
+            "layout_size": "37.6973, 3.537794",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#FFCB26FF"
+          }
+        },
+        {
+          "name": "Card Art Border",
+          "data":
+          {
+            "layout_position": "31.85398, 58.90132",
+            "layout_size": "60.67385, 42.94101",
+            "panel_type": "procedural",
+            "value": "Text",
+            "procedural_border": "0.3"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "layout_position": "31.85398, 58.90132",
+            "layout_size": "60.67385, 42.94101",
+            "panel_type": "image",
+            "value": "Text",
+            "img_fit_mode": "center"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "layout_position": "31.38612, 83.12781",
+            "layout_size": "52.8764, 5.10193",
+            "panel_type": "text",
+            "value": "Card Name",
+            "text_outline_size": "2",
+            "color": "#FFCB26FF",
+            "background_color": "#01010100",
+            "text_font": "Calibri Bold"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "layout_position": "31.57181, 21.98412",
+            "layout_size": "52.7578, 25.0655",
+            "panel_type": "text",
+            "value": "<align=\"left\">Rules Text</align>",
+            "color": "#000000FF",
+            "text_alignment_h": "left",
+            "text_alignment_v": "top",
+            "text_size": "2.4"
+          }
+        },
+        {
+          "name": "Text Backing Border",
+          "data":
+          {
+            "layout_position": "31.41586, 47.71577",
+            "layout_size": "53.90144, 77.56846",
+            "panel_type": "procedural",
+            "value": "Text",
+            "procedural_border": "0.3",
+            "color": "#000000FF"
+          }
+        },
+        {
+          "name": "Text Backing Fill",
+          "data":
+          {
+            "layout_position": "31.41586, 47.71577",
+            "layout_size": "53.90144, 77.56846",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#FFFFFFFF"
+          }
+        },
+        {
+          "name": "Text Backing Shadow",
+          "data":
+          {
+            "layout_position": "30.6881, 48.13164",
+            "layout_size": "53.90144, 77.56846",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#000000FF"
+          }
+        },
+        {
+          "name": "Flavor Text Back Border",
+          "data":
+          {
+            "layout_position": "31.54206, 6.086443",
+            "layout_size": "56.72312, 7",
+            "panel_type": "procedural",
+            "value": "Text",
+            "procedural_radius": "5",
+            "color": "#000000FF",
+            "procedural_border": "0.4"
+          }
+        },
+        {
+          "name": "Flavor Text Backing Fill",
+          "data":
+          {
+            "layout_position": "31.54206, 6.086443",
+            "layout_size": "56.72312, 7",
+            "panel_type": "procedural",
+            "value": "Text",
+            "procedural_radius": "5",
+            "color": "#FFEDA6FF"
+          }
+        },
+        {
+          "name": "Backing Color",
+          "data":
+          {
+            "layout_position": "31.77326, 44.53114",
+            "layout_size": "60.55418, 86.11538",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "procedural_radius": "0.8",
+            "color": "#3DA8E2FF",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "Card Border",
+          "data":
+          {
+            "layout_position": "31.75, 44.45",
+            "layout_size": "63.5, 88.9",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "procedural_radius": "2",
+            "color": "#000000FF",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale",
+            "procedural_border": "1.7"
+          }
+        }
+      ]
+    }
+  ],
+  "back_layers":
+  [
+    {
+      "name": "default",
+      "panels":
+      [
+        {
+          "name": "back_color",
+          "data":
+          {
+            "layout_position": "31.75, 44.45",
+            "layout_size": "63.5, 88.9",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "color": "#000000FF",
+            "panel_editable": "False",
+            "procedural_radius": "2",
+            "layout_constraint_v": "scale",
+            "layout_constraint_h": "scale",
+            "procedural_border": "1"
+          }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "layout_position": "31.80199, 44.39802",
+            "layout_size": "63.273, 88.79014",
+            "panel_type": "image",
+            "value": "Text",
+            "img_mask_radius": "2",
+            "img_fit_mode": "stretch"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "json_version": 3,
+  "export_image_format": "png",
+  "image_height_px": "1024",
+  "export_scale_override": "1.5",
+  "export_images": "True",
+  "export_pdf": "False",
+  "export_tts": "False",
+  "export_tts_grid_size": "8, 6",
+  "export_tts_max_size": "4096",
+  "export_tts_force_max_size": "False"
+}

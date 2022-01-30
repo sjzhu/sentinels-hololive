@@ -1,0 +1,233 @@
+{
+  "json_version": 3,
+  "name": "Hero Character Card",
+  "type": "card",
+  "layout_size_mm": "70, 120",
+  "main_panel_name": "number",
+  "hint_order_index": 3,
+  "front_layers":
+  [
+    {
+      "name": "default",
+      "panels":
+      [
+        {
+          "name": "HP Number",
+          "data":
+          {
+            "layout_position": "62.23502, 32.21198",
+            "layout_size": "20, 8.529954",
+            "panel_type": "text",
+            "value": "HP",
+            "text_size": "4",
+            "color": "#000000FF"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "layout_position": "61.82027, 32.48848",
+            "layout_size": "20.82949, 8.529954",
+            "panel_type": "icon",
+            "value": "Character/HP",
+            "text_size": "2.5",
+            "color": "#FFFFFFFF"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "layout_position": "45.64516, 31.79724",
+            "layout_size": "20, 3",
+            "panel_type": "text",
+            "value": "KEYWORDS",
+            "text_size": "2.5",
+            "color": "#FFFFFFFF"
+          }
+        },
+        {
+          "name": "Keywords Backing",
+          "data":
+          {
+            "layout_position": "45, 32",
+            "layout_size": "30, 3",
+            "panel_type": "procedural",
+            "value": "Text",
+            "text_size": "2.5",
+            "color": "#000000FF"
+          }
+        },
+        {
+          "name": "Power Name",
+          "data":
+          {
+            "layout_position": "35, 27",
+            "layout_size": "58, 4",
+            "panel_type": "text",
+            "value": "Power Name",
+            "text_alignment_h": "left",
+            "text_alignment_v": "top",
+            "text_size": "3.5",
+            "text_outline_size": "3",
+            "color": "#FFFFFFFF",
+            "text_font": "Arial Bold"
+          }
+        },
+        {
+          "name": "Power Panel",
+          "data":
+          {
+            "layout_position": "35, 15",
+            "layout_size": "58, 18",
+            "panel_type": "text",
+            "value": "<b>POWER: </b>Power text",
+            "text_alignment_h": "left",
+            "text_alignment_v": "top",
+            "text_size": "3.1"
+          }
+        },
+        {
+          "name": "Power Panel Border",
+          "data":
+          {
+            "layout_position": "35, 18",
+            "layout_size": "60, 25",
+            "panel_type": "procedural",
+            "value": "Text",
+            "text_alignment_h": "left",
+            "text_alignment_v": "top",
+            "procedural_border": "0.5"
+          }
+        },
+        {
+          "name": "Power Panel Back",
+          "data":
+          {
+            "layout_position": "35, 18",
+            "layout_size": "60, 25",
+            "panel_type": "procedural",
+            "value": "Text",
+            "text_alignment_h": "left",
+            "text_alignment_v": "top",
+            "color": "#FFFFFFFF"
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "layout_position": "35.2765, 106.8663",
+            "layout_size": "55.40707, 20.92166",
+            "panel_type": "image"
+          }
+        },
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "layout_position": "35, 60",
+            "layout_size": "66, 116",
+            "panel_type": "image",
+            "img_mask_radius": "2"
+          }
+        },
+        {
+          "name": "Border",
+          "data":
+          {
+            "layout_position": "35, 60",
+            "layout_size": "70, 120",
+            "panel_type": "procedural",
+            "value": "Text",
+            "procedural_radius": "2"
+          }
+        }
+      ]
+    }
+  ],
+  "back_layers":
+  [
+    {
+      "name": "default",
+      "panels":
+      [
+        {
+          "name": "Incap Power Name",
+          "data":
+          {
+            "layout_position": "35, 32",
+            "layout_size": "58, 5",
+            "panel_type": "text",
+            "value": "Power Name",
+            "text_alignment_h": "left",
+            "text_size": "4",
+            "text_font": "Arial Bold",
+            "text_outline_size": "3",
+            "color": "#FFFFFFFF"
+          }
+        },
+        {
+          "name": "Incap Powers",
+          "data":
+          {
+            "layout_position": "35, 17.5",
+            "layout_size": "58, 23",
+            "panel_type": "text",
+            "value": " - First Power\n - Second Power\n - Third Power",
+            "text_alignment_h": "left",
+            "text_size": "4"
+          }
+        },
+        {
+          "name": "Incap Powers Border",
+          "data":
+          {
+            "layout_position": "35, 20",
+            "layout_size": "60, 30",
+            "panel_type": "procedural",
+            "value": " - First Power\n - Second Power\n - Third Power",
+            "text_alignment_h": "left",
+            "color": "#000000FF",
+            "procedural_border": "0.5"
+          }
+        },
+        {
+          "name": "Incap Powers Backing",
+          "data":
+          {
+            "layout_position": "35, 20",
+            "layout_size": "60, 30",
+            "panel_type": "procedural",
+            "value": " - First Power\n - Second Power\n - Third Power",
+            "text_alignment_h": "left",
+            "color": "#FFFFFFFF"
+          }
+        },
+        {
+          "name": "Incap Art",
+          "data":
+          {
+            "layout_position": "35, 60",
+            "layout_size": "66, 116",
+            "panel_type": "image",
+            "value": "Text",
+            "img_mask_radius": "2"
+          }
+        },
+        {
+          "name": "Border",
+          "data":
+          {
+            "layout_position": "35, 60",
+            "layout_size": "70, 120",
+            "panel_type": "procedural",
+            "value": "Text",
+            "procedural_radius": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,663 @@
+{
+  "json_version": 3,
+  "name": "Baelz Deck",
+  "blueprint_name": "Council Card",
+  "hint_order_index": 2,
+  "items":
+  [
+    {
+      "amount": 4,
+      "last_modification_date_unix": 1643430395,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "BLESSING OF CHAOS"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Each ally may deal 1 target 2 infernal damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I bring gifts of chaos to everyone!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Hakos Baelz/blessingsofchaos.jpg",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -5",
+            "img_zoom": "1"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1643239901,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz\n"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "BRUH!"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">Another hero may reveal the top card of their deck. If it is a One-Shot, play it, otherwise, Hakos Baelz deals 1 target 2 infernal damage.</align>"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Bruh can literally be used in any context.\"\n"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Hakos Baelz/bruh.png",
+            "img_fit_mode": "fitheight",
+            "img_offset": "2, 0"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643240101,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "CHAOTIC BATTLEFIELD"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "The first time each turn a non-hero target would deal damage, you may reveal the top card of a deck. If it is a target, play it and redirect that damage to that target."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Where you goin'?!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Hakos Baelz/chaoticbattlefield.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1643468833,
+      "details":
+      [
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"*kettle noises*\""
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "CHAOTIC LAUGHTER"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "<color=\"red\">SUDDENLY</color>, ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">Hakos Baelz deals each target 1 fixed sonic damage.\r\nEach hero character damaged this way draws a card and discards a card.</align>"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz, laughing"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Hakos Baelz/chaoticlaughter.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1643468881,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "CONSTANT CHANGE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<color=\"red\"><b>END PHASE</b></color>\r\nYou may bury a card in your play area. Discover an Ongoing and draw a card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Why would I ever be only one thing forever?\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Hakos Baelz/constantchange.jpg",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643240488,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz\n"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "MOUSETRAP EARRING"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, RELIC, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After you play a card, if it did not come from your hand, draw a card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"It's an earring!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Hakos Baelz/mousetrapearring.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -2"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1643240654,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz\n"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "RAT SLAP"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">Hakos Baelz deals 1 target 2 melee damage. \r\nYou may discard a card. If you do, Hakos Baelz deals 1 target 2 melee damage.</align>"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I will come over there and slap you, chat!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Hakos Baelz/ratslap.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1643240809,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "REVEL IN CONFUSION"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Bury a non-indestructible non-character target in play with 7 HP or fewer. Discover a target from the same deck."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Roll the dice!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Hakos Baelz/revelinconfusion.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643574330,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz, Council leader\n"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "THE COUNCIL - CHAOS"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Whenever an ally would play the top card of their deck, they may first draw a card.\r\nAfter you play a One-Shot, you may deal 1 target 2 infernal damage.\n<b>POWER</b>: Discover a One-Shot."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"The Council is now in session!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "holocouncil.jpg",
+            "img_fit_mode": "stretch"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1643391676,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "TRUE CHAOS"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After a revealed card is replaced in a deck, you may shuffle that deck.\r\nThe first time each turn a deck is shuffled, +1 damage dealt by Hakos Baelz until the end of the turn.\r\n<b>POWER</b>: Shuffle a deck. Hakos Baelz deals 1 target 2 infernal damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Now that's true fun!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Hakos Baelz/truechaos.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -5"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 4,
+      "last_modification_date_unix": 1643241240,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "TRY THAT AGAIN"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Bury an Ongoing in play. Discover an Ongoing from the same deck."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"That one doesn't count!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Hakos Baelz/trythatagain.jpg",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 4,
+      "last_modification_date_unix": 1643241385,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "WASSUP! RAT DOKO!"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, GREETING"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Draw 2 cards.\r\nDiscover an Ongoing."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Wasssssup!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Hakos Baelz/wassup.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1643468953,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz, to her (ex-)wife"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "YOU WANNA GO?"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Play this card next to a non-hero target.\r\nIf that target is destroyed, destroy this card.\r\nAfter this card is played, Hakos Baelz deals 1 target 2 melee damage. \r\n+1 damage dealt to and by that target to and by Hakos Baelz."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Yannoka?! Kora!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Hakos Baelz/youwannago.jpg",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, 0"
+          }
+        }
+      ]
+    }
+  ]
+}
