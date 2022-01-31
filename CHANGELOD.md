@@ -73,6 +73,9 @@
  - Yatagarasu
 	- Constellation tag removed
 
+#### Removed
+ - Blessings of Space down to 3 copies to fix deck card count
+
 ## 0.1
 - Ported over all decks from SaintBNS's original mod.
 - Rework of HoloCouncil + IRyS

@@ -7,7 +7,7 @@
   [
     {
       "amount": 4,
-      "last_modification_date_unix": 1643430395,
+      "last_modification_date_unix": 1643616842,
       "details":
       [
         {
@@ -21,7 +21,7 @@
           "name": "Card Name",
           "data":
           {
-            "value": "BLESSING OF CHAOS"
+            "value": "BLESSINGS OF CHAOS"
           }
         },
         {

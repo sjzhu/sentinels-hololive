@@ -1007,7 +1007,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1643574362,
+      "last_modification_date_unix": 1643574679,
       "details":
       [
         {
@@ -1050,7 +1050,7 @@
           "data":
           {
             "value": "holocouncil.jpg",
-            "img_fit_mode": "fitheight"
+            "img_fit_mode": "stretch"
           }
         }
       ]

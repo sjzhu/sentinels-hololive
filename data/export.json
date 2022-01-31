@@ -6,7 +6,10 @@
   "export_images": "True",
   "export_pdf": "False",
   "export_tts": "False",
-  "export_tts_grid_size": "8, 6",
+  "export_tts_grid_size": "10, 5",
   "export_tts_max_size": "4096",
-  "export_tts_force_max_size": "False"
+  "export_tts_force_max_size": "False",
+  "export_use_item_amount": "True",
+  "image_filename_format": "%e - %i (%a)",
+  "export_sides": "front"
 }

@@ -268,7 +268,7 @@
             "layout_position": "31.80199, 44.39802",
             "layout_size": "63.273, 88.79014",
             "panel_type": "image",
-            "value": "C:/Users/ranke/Documents/Custom Sentinels/Hololive/Kronii/card_images/council_back.jpg",
+            "value": "council_back.jpg",
             "img_mask_radius": "2",
             "img_fit_mode": "stretch"
           }
