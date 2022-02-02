@@ -1,5 +1,44 @@
 # Changelog
 
+## UNRELEASED
+### Mumei
+#### Notes
+All of Mumei's items have had the "Another hero may use..." clause removed. 
+#### Changed
+- Character card
+	- Base power changed.
+- Adventurer's Gear -> Gearing Up
+	- Changed to One-Shot
+	- Effect changed entirely
+- Berries
+	- Changed to One-Shot
+	- HP regain buffed
+- Blessings of Civilization
+	- Changed to discard -> collect
+- Daggers
+	- Now deals 3 melee damage.
+	- Destruction power removed.
+- Fears of Mankind
+	- REMOVED
+- Friend
+	- Reworked to play discarded cards at cost of damage.
+- Guardian of Civilization
+	- Reworded trigger, added discard cost.
+- Hand Lamp
+	- Power changed to affect villain deck
+- Helpful Hand
+	- Changed to have allies draw cards on discard
+	- Now buffs draw rate
+- History of Violence
+	- ADDED 
+	- Gives more damage, also a discard effect
+- Nightmare
+	- END PHASE text removed
+- The Council - Civilization
+	- Self buff changed to affect team
+	- Power changed to benefit ally as well
+	- END PHASE salvage added with damage cost
+
 ## 0.2
 
 ### Baelz
