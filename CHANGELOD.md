@@ -1,6 +1,7 @@
 # Changelog
 
-## UNRELEASED
+## 0.3
+
 ### Mumei
 #### Notes
 All of Mumei's items have had the "Another hero may use..." clause removed. 
@@ -13,6 +14,7 @@ All of Mumei's items have had the "Another hero may use..." clause removed.
 - Berries
 	- Changed to One-Shot
 	- HP regain buffed
+	- Added 1 copy (up to 3)
 - Blessings of Civilization
 	- Changed to discard -> collect
 - Daggers
@@ -30,8 +32,10 @@ All of Mumei's items have had the "Another hero may use..." clause removed.
 	- Changed to have allies draw cards on discard
 	- Now buffs draw rate
 - History of Violence
-	- ADDED 
+	- ADDED (4 copies)
 	- Gives more damage, also a discard effect
+- Lost in Adventure
+	- REMOVED
 - Nightmare
 	- END PHASE text removed
 - The Council - Civilization
