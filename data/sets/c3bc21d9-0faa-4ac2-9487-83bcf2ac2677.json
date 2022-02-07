@@ -222,7 +222,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644077406,
+      "last_modification_date_unix": 1644249801,
       "details":
       [
         {
@@ -243,7 +243,7 @@
           "name": "Character Name",
           "data":
           {
-            "value": "Mumei/blankname.png"
+            "value": "Mumei/logo.png"
           }
         },
         {
@@ -293,7 +293,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1643573222,
+      "last_modification_date_unix": 1644249832,
       "details":
       [
         {
@@ -315,7 +315,7 @@
           "name": "Character Name",
           "data":
           {
-            "value": "Mumei/blankname.png"
+            "value": "Sana/logo.png"
           }
         },
         {
