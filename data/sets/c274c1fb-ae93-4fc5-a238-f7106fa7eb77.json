@@ -1,13 +1,13 @@
 {
   "json_version": 3,
   "name": "Fauna Deck",
-  "blueprint_name": "Council Card",
+  "blueprint_name": "Council Card New",
   "hint_order_index": 6,
   "items":
   [
     {
-      "amount": 1,
-      "last_modification_date_unix": 1643335743,
+      "amount": 4,
+      "last_modification_date_unix": 1644250112,
       "details":
       [
         {
@@ -52,12 +52,26 @@
             "value": "Fauna/blessingsofnature.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1643335754,
+      "amount": 2,
+      "last_modification_date_unix": 1644250116,
       "details":
       [
         {
@@ -102,12 +116,26 @@
             "value": "Fauna/circleoflife.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1643335766,
+      "amount": 3,
+      "last_modification_date_unix": 1644250119,
       "details":
       [
         {
@@ -152,12 +180,26 @@
             "value": "Fauna/decayandregrowth.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1643335779,
+      "amount": 2,
+      "last_modification_date_unix": 1644250123,
       "details":
       [
         {
@@ -202,12 +244,26 @@
             "value": "Fauna/foodchain.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1643335799,
+      "last_modification_date_unix": 1644250127,
       "details":
       [
         {
@@ -251,12 +307,26 @@
           {
             "value": "Fauna/goldenapple.png"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1643472745,
+      "amount": 4,
+      "last_modification_date_unix": 1644250130,
       "details":
       [
         {
@@ -302,12 +372,26 @@
             "img_fit_mode": "fitwidth",
             "img_offset": "0, 1"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1643335833,
+      "amount": 3,
+      "last_modification_date_unix": 1644250133,
       "details":
       [
         {
@@ -353,12 +437,26 @@
             "value": "Fauna/mothernaturesorders.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1643335848,
+      "amount": 2,
+      "last_modification_date_unix": 1644250136,
       "details":
       [
         {
@@ -403,12 +501,26 @@
             "value": "Fauna/naturesregrowth.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1643335858,
+      "amount": 3,
+      "last_modification_date_unix": 1644250151,
       "details":
       [
         {
@@ -453,12 +565,26 @@
             "value": "Fauna/takenbynature.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1643574684,
+      "amount": 2,
+      "last_modification_date_unix": 1644250153,
       "details":
       [
         {
@@ -503,12 +629,26 @@
             "value": "holocouncil.jpg",
             "img_fit_mode": "stretch"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1643335873,
+      "amount": 2,
+      "last_modification_date_unix": 1644250146,
       "details":
       [
         {
@@ -551,6 +691,192 @@
           "data":
           {
             "value": "Fauna/wrathofnature.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 4,
+      "last_modification_date_unix": 1644250275,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "4"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<color=\"red\"><b>END PHASE</b></color>\r\nThis card deals 1 damage to 2 non-hero targets."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "FAUNATIC"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "SAPLING"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Hello, my little Saplings!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ceres Fauna"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Fauna/faunatic.png",
+            "img_offset": "0, 4",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 4,
+      "last_modification_date_unix": 1644250289,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "4"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\"><color=\"red\"><b>END PHASE</b></color>\r\nThis card deals 2 damage to the villain target with the lowest HP.</align>"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SPROUT"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "SAPLING"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ceres Fauna"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"You don't want to leave my forest, do you?\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Fauna/sprout.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 4,
+      "last_modification_date_unix": 1644250301,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "4"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\"><color=\"red\"><b>END PHASE</b></color>\r\nThis card deals 2 damage to the villain target with the highest HP.</align>"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "BLOSSOM"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "SAPLING"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Humanity belongs back with me.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ceres Fauna"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Fauna/blossom.png",
             "img_fit_mode": "fitheight"
           }
         }
