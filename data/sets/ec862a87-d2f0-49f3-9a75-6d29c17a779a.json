@@ -1,0 +1,1044 @@
+{
+  "json_version": 3,
+  "name": "Calli Deck",
+  "blueprint_name": "Myth Card",
+  "hint_order_index": 7,
+  "items":
+  [
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1644256196,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "200 YEN BOTTLED WINE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After Mori Calliope takes psychic damage, she may regain 2 HP. If she does, destroy this card.\r\n<b>POWER</b>: Collect a Flow."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"By your side with my scythe and red wine.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Mori Calliope, DEAD BEATS"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/wine2.png",
+            "img_fit_mode": "fitheight",
+            "img_offset": "1, 0"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1644256206,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Excuse my rudeness, but could you please RIP?",
+            "text_size": "1.5"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "COULD YOU PLEASE RIP?"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, FLOW"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>RAP</b>: Play up to 2 Flows.\r\n<b>REAP</b>: Mori Calliope deals 1 target 4 infernal damage. Destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "I'm not asking for much\nDo me a favor and die?"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/couldyoupleaserip.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1644256215,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>RAP</b>: Until your START PHASE, -1 damage dealt to Mori Calliope.\r\n<b>REAP</b>: Destroy up to 2 Ongoings. Destroy this card."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "CURSED NIGHT"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, FLOW"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "Shut the lid tight, it's complicated\nCould ya not look inside, its complicated",
+            "text_size": "2"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Cursed Night"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/cursednight.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1644256225,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- DEAD BEATS"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "DEAD BEATS"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Whenever Mori Calliope destroys a target or an ongoing card, you may activate a REAP effect."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "Dead Beats listen up this is what you want \nMe, coming in the night for ya"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/deadbeats.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1644256234,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Mori Calliope"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "DEATH SCYTHE"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, RELIC, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "+1 damage dealt by Mori Calliope\r\n<b>POWER</b>: Mori Calliope deals 1 target 1 melee and 1 infernal damage. You may activate a REAP effect or Mori Calliope regains 1 HP."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"My scythe is very hard, very rigid, and very long.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/deathscythe.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1644254314,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Off With Their Heads"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After you play a Flow, draw a card.\r\nSTART PHASE\r\nYou may play a Flow."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "DEATH-SENSEI'S TEACHINGS",
+            "text_size": "4.5"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Send them away, Death-sensei!\"\n\"No ambition, try again next week.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/deathsensei.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1644256247,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- end of a life"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "END OF A LIFE"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>RAP</b>: Salvage a Flow.\r\n<b>REAP</b>: Destroy a target with 5 or fewer HP. Destroy this card."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, FLOW"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "Disappearing into the mist of \"never happened\"\nIs the me that I can never befriend (I let it go)"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/endofalife.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 4,
+      "last_modification_date_unix": 1644256285,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "GUH!",
+            "text_size": "5"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, GREETING"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">Draw 2 cards.\r\nDiscover a Flow.\r\nYou may play a card or use a power.</align>"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Guh!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Mori Calliope, upon stream start"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/guh.png",
+            "img_fit_mode": "fitheight",
+            "img_offset": "4, 0"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1644256296,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Live Again"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "LIVE AGAIN"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, FLOW"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>RAP</b>: Until your START PHASE, if Mori Calliope would be reduced to 0 HP, she may regain 2 HP instead. If she does, destroy this card\r\n<b>REAP</b>: Mori Calliope regains 4 HP. Destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "It's not the end of your Mori\nCause every closed door is just the intro to a brand new story",
+            "text_size": "1.8"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/liveagain.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1644256307,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Excuse my rudeness, but could you please RIP?",
+            "text_size": "1.5"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "MURDER IS KAWAII"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Activate up to 2 REAP effects. Mori Calliope regains 4 HP."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "Korosu no koto ga TANOSHII\nMurder is so fucking kawaii!"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/murderiskawaii.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1644256315,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "OFF WITH THEIR HEADS"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, FLOW"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>RAP</b>: Draw a card. You may play a Flow.\r\n<b>REAP</b>: Mori Calliope deals each non-hero target 2 infernal damage. Destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "Welcome to the mountain top, waiting til the fight calls\nI hope you're ready to be swinging til the night falls"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Off With Their Heads"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/offwiththeirheads.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1644256327,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "REAPER/RAPPER"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, FLOW"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>RAP</b>: Activate another card's REAP effect.\r\n<b>REAP</b>: Activate another card's RAP effect. Destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "Reaper or Rapper?\nEither one is fine"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Reaper ka Rapper"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/reaperrapper.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1644256343,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Red"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "RED"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, FLOW"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>RAP</b>: Discover a Flow.\r\n<b>REAP</b>: Mori Calliope deals up to 2 targets 3 infernal damage each. Destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "I'd rather kick it in the dungeon 'cause I'm that kind of beast\r\nI'll bet my heart on the cards because I trust me the least",
+            "text_size": "1.9"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/red.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1644256351,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Activate any number of RAP effects in play.\r\nMori Calliope deals herself 2 fixed psychic damage for each RAP effect activated this way."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SELF-DEPRECIATING RAP"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "I'm filling syllables with curse words because I am an amateur\nEverybody likes... self depreciating... rap. I'm gonna stop.",
+            "text_size": "1.8"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- DEAD BEATS"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/selfdepreciatingrap.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1644256364,
+      "details":
+      [
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "WORKAHOLIC BUSINESS LADY",
+            "text_size": "4.2"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Discover a Flow.\r\nActivate a RAP effect. Mori Calliope deals herself 1 fixed psychic damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "Go ahead and BE sore, but I won't run\nCause I'm a workaholic business lady, getting shxt done"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Excuse my rudeness, but could you please RIP?",
+            "text_size": "1.5"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/workaholicbusinesslady.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1644256375,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Reaper ka Rapper"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SPITTING FIRE"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Activate a RAP effect.\r\nMori Calliope may deal herself 2 fixed psychic damage. \r\nIf she does, activate another RAP effect."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "Vocals gangster as can be\nAnd I'm still moe as fxxk!"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Calli/spittingfire.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    }
+  ]
+}
