@@ -1,13 +1,13 @@
 {
   "json_version": 3,
   "name": "Kronii Deck",
-  "blueprint_name": "Council Card",
+  "blueprint_name": "Council Card New",
   "hint_order_index": 0,
   "items":
   [
     {
       "amount": 4,
-      "last_modification_date_unix": 1643573868,
+      "last_modification_date_unix": 1644173550,
       "details":
       [
         {
@@ -54,12 +54,26 @@
             "value": "Kronii/blessings_of_time.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643573876,
+      "last_modification_date_unix": 1644173556,
       "details":
       [
         {
@@ -104,12 +118,26 @@
             "value": "Kronii/gwak.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1643573885,
+      "last_modification_date_unix": 1644173559,
       "details":
       [
         {
@@ -154,12 +182,26 @@
           {
             "value": "- Ouro Kronii"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1643573937,
+      "last_modification_date_unix": 1644173564,
       "details":
       [
         {
@@ -204,12 +246,26 @@
           {
             "value": "\"Time does fly!\""
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643573977,
+      "last_modification_date_unix": 1644173568,
       "details":
       [
         {
@@ -255,12 +311,26 @@
           {
             "value": "- Ouro Kronii"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1643574089,
+      "last_modification_date_unix": 1644173573,
       "details":
       [
         {
@@ -305,12 +375,26 @@
             "value": "Kronii/myowntime.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1643574101,
+      "last_modification_date_unix": 1644173578,
       "details":
       [
         {
@@ -355,12 +439,26 @@
             "value": "Kronii/pastitstime.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643574117,
+      "last_modification_date_unix": 1644173582,
       "details":
       [
         {
@@ -406,12 +504,26 @@
             "img_fit_mode": "fitwidth",
             "img_offset": "0, 1"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643574337,
+      "last_modification_date_unix": 1644173586,
       "details":
       [
         {
@@ -456,12 +568,26 @@
             "value": "holocouncil.jpg",
             "img_fit_mode": "stretch"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643574159,
+      "last_modification_date_unix": 1644173590,
       "details":
       [
         {
@@ -507,12 +633,26 @@
             "img_fit_mode": "fitwidth",
             "img_offset": "0, -1"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643574172,
+      "last_modification_date_unix": 1644173595,
       "details":
       [
         {
@@ -558,12 +698,26 @@
             "value": "Kronii/timeblades.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643574183,
+      "last_modification_date_unix": 1644173599,
       "details":
       [
         {
@@ -608,12 +762,26 @@
             "value": "Kronii/timechase.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1643574196,
+      "last_modification_date_unix": 1644173601,
       "details":
       [
         {
@@ -658,12 +826,19 @@
             "value": "Kronii/timeslash.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643574217,
+      "last_modification_date_unix": 1644173610,
       "details":
       [
         {
@@ -710,12 +885,26 @@
             "img_fit_mode": "fitwidth",
             "img_offset": "0, -1"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1643574243,
+      "last_modification_date_unix": 1644173614,
       "details":
       [
         {
@@ -760,6 +949,20 @@
             "value": "Kronii/unwindtime.jpg",
             "img_fit_mode": "fitheight",
             "img_offset": "0, 0"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
           }
         }
       ]

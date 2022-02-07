@@ -2,7 +2,7 @@
   "json_version": 3,
   "name": "Fauna Targets",
   "blueprint_name": "Hero Target",
-  "hint_order_index": 10,
+  "hint_order_index": 7,
   "items":
   [
     {

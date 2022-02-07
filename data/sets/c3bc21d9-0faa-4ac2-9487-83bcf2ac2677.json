@@ -222,7 +222,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1643257729,
+      "last_modification_date_unix": 1644077406,
       "details":
       [
         {
@@ -250,14 +250,14 @@
           "name": "Power Name",
           "data":
           {
-            "value": "Guardian of Civilization"
+            "value": "Record Keeper"
           }
         },
         {
           "name": "Power Panel",
           "data":
           {
-            "value": "<b>POWER: </b>Another hero may use a power on one of your Items. If you control no Items, you may discover an Item."
+            "value": "<b>POWER: </b>Draw a card. You may discard a card. If you do, draw a card."
           }
         },
         {

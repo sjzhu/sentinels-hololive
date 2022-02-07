@@ -1,13 +1,13 @@
 {
   "json_version": 3,
   "name": "Baelz Deck",
-  "blueprint_name": "Council Card",
+  "blueprint_name": "Council Card New",
   "hint_order_index": 2,
   "items":
   [
     {
       "amount": 4,
-      "last_modification_date_unix": 1643616842,
+      "last_modification_date_unix": 1644173737,
       "details":
       [
         {
@@ -54,12 +54,26 @@
             "img_offset": "0, -5",
             "img_zoom": "1"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1643239901,
+      "last_modification_date_unix": 1644173762,
       "details":
       [
         {
@@ -105,12 +119,26 @@
             "img_fit_mode": "fitheight",
             "img_offset": "2, 0"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643240101,
+      "last_modification_date_unix": 1644173766,
       "details":
       [
         {
@@ -155,12 +183,26 @@
             "value": "Hakos Baelz/chaoticbattlefield.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1643468833,
+      "last_modification_date_unix": 1644173769,
       "details":
       [
         {
@@ -205,12 +247,26 @@
             "value": "Hakos Baelz/chaoticlaughter.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1643468881,
+      "last_modification_date_unix": 1644173773,
       "details":
       [
         {
@@ -255,12 +311,26 @@
             "value": "Hakos Baelz/constantchange.jpg",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643240488,
+      "last_modification_date_unix": 1644173776,
       "details":
       [
         {
@@ -306,12 +376,26 @@
             "img_fit_mode": "fitwidth",
             "img_offset": "0, -2"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1643240654,
+      "last_modification_date_unix": 1644173780,
       "details":
       [
         {
@@ -356,12 +440,26 @@
             "value": "Hakos Baelz/ratslap.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1643240809,
+      "last_modification_date_unix": 1644173783,
       "details":
       [
         {
@@ -405,12 +503,26 @@
           {
             "value": "Hakos Baelz/revelinconfusion.png"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643574330,
+      "last_modification_date_unix": 1644173787,
       "details":
       [
         {
@@ -455,12 +567,26 @@
             "value": "holocouncil.jpg",
             "img_fit_mode": "stretch"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643391676,
+      "last_modification_date_unix": 1644173791,
       "details":
       [
         {
@@ -506,12 +632,26 @@
             "img_fit_mode": "fitwidth",
             "img_offset": "0, -5"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1643241240,
+      "last_modification_date_unix": 1644173795,
       "details":
       [
         {
@@ -556,12 +696,26 @@
             "value": "Hakos Baelz/trythatagain.jpg",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1643241385,
+      "last_modification_date_unix": 1644173799,
       "details":
       [
         {
@@ -605,12 +759,26 @@
           {
             "value": "Hakos Baelz/wassup.png"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1643468953,
+      "last_modification_date_unix": 1644173803,
       "details":
       [
         {
@@ -655,6 +823,77 @@
             "value": "Hakos Baelz/youwannago.jpg",
             "img_fit_mode": "fitwidth",
             "img_offset": "0, 0"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1644173722,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "4"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "MR. SQUEAKS"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\"><color=\"red\"><b>END PHASE</b></color>\r\nYou may play the top card of your deck.</align>"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Hakos Baelz/mrsqueaks.jpg",
+            "img_fit_mode": "center"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "PET, RAT, LIMITED"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"You right, Mr. Squeaks!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hakos Baelz"
           }
         }
       ]

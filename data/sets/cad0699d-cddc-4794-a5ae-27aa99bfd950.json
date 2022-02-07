@@ -1,13 +1,13 @@
 {
   "json_version": 3,
   "name": "Mumei Deck",
-  "blueprint_name": "Council Card",
-  "hint_order_index": 5,
+  "blueprint_name": "Council Card New",
+  "hint_order_index": 4,
   "items":
   [
     {
       "amount": 2,
-      "last_modification_date_unix": 1643391835,
+      "last_modification_date_unix": 1644174197,
       "details":
       [
         {
@@ -21,21 +21,21 @@
           "name": "Card Name",
           "data":
           {
-            "value": "ADVENTURER'S GEAR"
+            "value": "GEARING UP"
           }
         },
         {
           "name": "Keywords",
           "data":
           {
-            "value": "ITEM"
+            "value": "ONE-SHOT"
           }
         },
         {
           "name": "Card Text",
           "data":
           {
-            "value": "Any hero may use this card's power.\r\n<b>POWER</b>: Reveal the top card of 2 hero decks. Play one of them and discard the rest."
+            "value": "Draw 3 cards.\r\nCollect 1 Item.\r\nDiscard 2 cards."
           }
         },
         {
@@ -52,12 +52,26 @@
             "value": "Mumei/adventuringgear.jpg",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1643391525,
+      "last_modification_date_unix": 1644174202,
       "details":
       [
         {
@@ -85,7 +99,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<align=\"left\">Whenever you discard a card, you may put it under this card instead of in your trash.\n<b>POWER</b>: Play a card from under this card.</align>"
+            "value": "<align=\"left\"><b>POWER</b>: Discard a card. One hero may discover an Ongoing.</align>"
           }
         },
         {
@@ -102,12 +116,26 @@
             "value": "Mumei/adventurejournal.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
-      "amount": 2,
-      "last_modification_date_unix": 1643391500,
+      "amount": 3,
+      "last_modification_date_unix": 1644174206,
       "details":
       [
         {
@@ -128,14 +156,14 @@
           "name": "Keywords",
           "data":
           {
-            "value": "ITEM"
+            "value": "ONE-SHOT"
           }
         },
         {
           "name": "Card Text",
           "data":
           {
-            "value": "Any hero may use this card's powers.\r\n<b>POWER</b>: Your hero character regains 1 HP.\r\n<b>POWER</b>: Collect one card. Destroy this card."
+            "value": "One hero character regains 2 HP.\r\nThat hero may collect a card."
           }
         },
         {
@@ -153,12 +181,26 @@
             "img_fit_mode": "fitwidth",
             "img_offset": "0, 3"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1643391865,
+      "last_modification_date_unix": 1644174209,
       "details":
       [
         {
@@ -187,7 +229,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Each ally may collect an Item or use a power on an Item."
+            "value": "Each ally may discard a card. Each ally that does collects 1 card."
           }
         },
         {
@@ -204,12 +246,26 @@
             "value": "Mumei/blessingofciv.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643391487,
+      "last_modification_date_unix": 1644174213,
       "details":
       [
         {
@@ -237,7 +293,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Any hero may use this card's powers.\r\n<b>POWER</b>: Your hero character deals up to 3 targets 1 projectile damage each.\r\n<b>POWER</b>: Your hero character deals 1 target 1 projectile damage 3 times. Destroy this card.."
+            "value": "<b>POWER</b>: Nanashi Mumei deals 1 target 3 melee damage."
           }
         },
         {
@@ -254,61 +310,26 @@
             "value": "Mumei/dagger.png",
             "img_fit_mode": "fitwidth"
           }
-        }
-      ]
-    },
-    {
-      "amount": 2,
-      "last_modification_date_unix": 1643261893,
-      "details":
-      [
+        },
         {
-          "name": "Attribution Text",
+          "name": "HP",
           "data":
           {
-            "value": "- Nanashi Mumei"
+            "panel_visible": "False"
           }
         },
         {
-          "name": "Card Name",
+          "name": "HP Icon",
           "data":
           {
-            "value": "FEARS OF MANKIND"
-          }
-        },
-        {
-          "name": "Keywords",
-          "data":
-          {
-            "value": "ONGOING, LIMITED"
-          }
-        },
-        {
-          "name": "Card Text",
-          "data":
-          {
-            "value": "The first time each turn a hero discards a card, you may use a power."
-          }
-        },
-        {
-          "name": "Flavor Text",
-          "data":
-          {
-            "value": "\"I'm here to guide you guys, I just forgot to where.\""
-          }
-        },
-        {
-          "name": "Card Art",
-          "data":
-          {
-            "value": "Mumei/fearsofmankind.png"
+            "panel_visible": "False"
           }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643469148,
+      "last_modification_date_unix": 1644174229,
       "details":
       [
         {
@@ -337,7 +358,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "You may redirect the first damage dealt each turn to the lowest HP hero target to Nanashi Mumei. If you do, you may draw a card."
+            "value": "If the lowest HP hero target would take damage, you may discard a card to redirect that damage to Nanashi Mumei."
           }
         },
         {
@@ -354,12 +375,26 @@
             "value": "Mumei/guardianofcivilization.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643391468,
+      "last_modification_date_unix": 1644174233,
       "details":
       [
         {
@@ -387,7 +422,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Play with the top card of the environment deck revealed.\r\nAny hero may use this power.\r\n<b>POWER</b>: Discard the top card of the environment deck, if it was not a target, you may draw 1 card."
+            "value": "Play with the top card of the environment deck revealed.\r\n<b>POWER</b>: Reveal the top card of the Villain deck. You may play it. If you do, play a card."
           }
         },
         {
@@ -404,12 +439,26 @@
             "value": "Mumei/handlamp.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643261928,
+      "last_modification_date_unix": 1644174236,
       "details":
       [
         {
@@ -437,7 +486,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "The first time each turn another hero uses a power on one of your Items, they may increase one of that power's numbers by 1."
+            "value": "The first time each turn you discard a card, an ally may draw a card.\r\n<color=\"purple\"><b>DRAW PHASE</b></color>\r\nYou may draw an additional card this phase."
           }
         },
         {
@@ -454,62 +503,26 @@
             "value": "Mumei/helpinghand.png",
             "img_fit_mode": "fitwidth"
           }
-        }
-      ]
-    },
-    {
-      "amount": 3,
-      "last_modification_date_unix": 1643469189,
-      "details":
-      [
+        },
         {
-          "name": "Attribution Text",
+          "name": "HP Icon",
           "data":
           {
-            "value": "- Nanashi Mumei"
+            "panel_visible": "False"
           }
         },
         {
-          "name": "Card Name",
+          "name": "HP",
           "data":
           {
-            "value": "LOST IN ADVENTURE"
-          }
-        },
-        {
-          "name": "Card Text",
-          "data":
-          {
-            "value": "You may bury a non-indestructible Environment card. If you do, play the top card of the Environment deck.\nYou may play a card."
-          }
-        },
-        {
-          "name": "Keywords",
-          "data":
-          {
-            "value": "ONE-SHOT"
-          }
-        },
-        {
-          "name": "Flavor Text",
-          "data":
-          {
-            "value": "\"Let's go on an adventure, Friend!\""
-          }
-        },
-        {
-          "name": "Card Art",
-          "data":
-          {
-            "value": "Mumei/lostinadventure.png",
-            "img_fit_mode": "fitheight"
+            "panel_visible": "False"
           }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1643261950,
+      "last_modification_date_unix": 1644174240,
       "details":
       [
         {
@@ -537,7 +550,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Draw 2 cards and discard a card.\r\nYou may play or discover an Item."
+            "value": "Draw 3 cards and discard a card.\r\nYou may play or discover an Item."
           }
         },
         {
@@ -554,12 +567,26 @@
             "value": "Mumei/ohi.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643469233,
+      "last_modification_date_unix": 1644174243,
       "details":
       [
         {
@@ -604,12 +631,26 @@
             "value": "Mumei/owlhood.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643391450,
+      "last_modification_date_unix": 1644174255,
       "details":
       [
         {
@@ -654,12 +695,26 @@
             "value": "Mumei/she forgor.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1643469270,
+      "last_modification_date_unix": 1644174259,
       "details":
       [
         {
@@ -704,19 +759,33 @@
             "value": "Mumei/shortattentionspan.png",
             "img_fit_mode": "stretch"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643574351,
+      "last_modification_date_unix": 1644174262,
       "details":
       [
         {
           "name": "Card Text",
           "data":
           {
-            "value": "The first time each turn a hero uses a power from another hero's card, they may draw a card.\r\nAfter you discard any number of cards, you may draw 1 card.\r\n<b>POWER</b>: Discard 1 card and draw 1 card."
+            "value": "The first time each turn a hero discards a card, they may draw 1 card.\r\r\n<b>POWER</b>: You and an ally may each discard 1 card and draw 1 card.\n<b><color=\"red\">END PHASE</b></color>\nNanashi Mumei may deal herself 2 fixed psychic damage, if she does, salvage a One-Shot."
           }
         },
         {
@@ -755,12 +824,26 @@
             "value": "holocouncil.jpg",
             "img_fit_mode": "stretch"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643391399,
+      "last_modification_date_unix": 1644174265,
       "details":
       [
         {
@@ -804,6 +887,198 @@
           "data":
           {
             "value": "- Nanashi Mumei, upon being killed"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 4,
+      "last_modification_date_unix": 1644174271,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "HISTORY OF VIOLENCE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Nanashi Mumei deals 1 target 2 melee damage. You may discard a card. If you do, Nanashi Mumei deals 1 target 2 melee damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I'm not responsible for civilization. I just guard it.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/historyofviolence.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644174342,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "6"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "The first time each turn a hero discards a card, they may put that card under this card.\r\nIf this card would be destroyed, Nanashi Mumei may deal herself 3 fixed psychic damage. If she does, return this card to your hand.\n<color=\"red\"><b>END PHASE</b></color>\r\nNanashi Mumei may deal this card 2 fixed psychic damage. If she does, play 1 card from under this card."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "FRIEND"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, PET"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/friend.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"It doesn't have a name. I would just forget it anyways.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1644174397,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "8"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "The first time each turn you discard a card, Nightmare deals 1 target 2 irreducible psychic damage."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "FEAR"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "NIGHTMARE"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Mumei/nightmare.jpg",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Tada! I'm not sure what this is. It just happened.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Mumei, upon drawing this"
           }
         }
       ]

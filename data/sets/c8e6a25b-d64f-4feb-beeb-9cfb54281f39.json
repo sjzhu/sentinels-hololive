@@ -1,13 +1,13 @@
 {
   "json_version": 3,
   "name": "IRyS Deck",
-  "blueprint_name": "Council Card",
-  "hint_order_index": 4,
+  "blueprint_name": "Council Card New",
+  "hint_order_index": 3,
   "items":
   [
     {
       "amount": 3,
-      "last_modification_date_unix": 1643468980,
+      "last_modification_date_unix": 1644174024,
       "details":
       [
         {
@@ -52,12 +52,26 @@
             "value": "IRyS/angelicemissary.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643391652,
+      "last_modification_date_unix": 1644174027,
       "details":
       [
         {
@@ -102,12 +116,26 @@
             "value": "IRyS/caesuraofdespair.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1643255749,
+      "last_modification_date_unix": 1644174032,
       "details":
       [
         {
@@ -152,12 +180,26 @@
             "value": "IRyS/chantthemelodies.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1643255759,
+      "last_modification_date_unix": 1644174036,
       "details":
       [
         {
@@ -202,12 +244,26 @@
             "value": "IRyS/crystalwings.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643391643,
+      "last_modification_date_unix": 1644174039,
       "details":
       [
         {
@@ -252,12 +308,26 @@
             "value": "IRyS/diorama.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1643469053,
+      "last_modification_date_unix": 1644174042,
       "details":
       [
         {
@@ -302,12 +372,26 @@
           {
             "value": "IRyS/descend.png"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643255795,
+      "last_modification_date_unix": 1644174046,
       "details":
       [
         {
@@ -353,12 +437,26 @@
             "value": "IRyS/dualityofthenephilim.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643391633,
+      "last_modification_date_unix": 1644174049,
       "details":
       [
         {
@@ -403,12 +501,26 @@
             "value": "IRyS/herecomeshope.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1643255818,
+      "last_modification_date_unix": 1644174053,
       "details":
       [
         {
@@ -453,12 +565,26 @@
             "value": "IRyS/hirys.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643469074,
+      "last_modification_date_unix": 1644174056,
       "details":
       [
         {
@@ -503,12 +629,26 @@
             "value": "IRyS/joywithyou.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643391613,
+      "last_modification_date_unix": 1644174060,
       "details":
       [
         {
@@ -553,12 +693,26 @@
             "value": "IRyS/namelesssadness.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1643391572,
+      "last_modification_date_unix": 1644174064,
       "details":
       [
         {
@@ -603,12 +757,26 @@
             "value": "IRyS/onlyinhope.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1643255868,
+      "last_modification_date_unix": 1644174067,
       "details":
       [
         {
@@ -653,12 +821,26 @@
             "value": "IRyS/projecthope.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1643469102,
+      "last_modification_date_unix": 1644174071,
       "details":
       [
         {
@@ -703,12 +885,26 @@
             "value": "IRyS/fallofhope.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1643255886,
+      "last_modification_date_unix": 1644174074,
       "details":
       [
         {
@@ -751,6 +947,20 @@
           "data":
           {
             "value": "IRyS/yabairys.png"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
           }
         }
       ]
