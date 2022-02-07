@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.4
+### Calli
+Initial Release! Based around playing Flow cards and accelerating with RAP effects, and then detonating with REAP effects.
+
+## 0.3.1
+### Mumei
+#### Changed
+ - Added logo to CC
+
+### Sana
+#### Changed
+ - Added logo to CC
+
+### Other
+Refactored card structure to use the same blueprint for all cards. Unsure if this makes things better or not.
+
 ## 0.3
 
 ### Mumei
