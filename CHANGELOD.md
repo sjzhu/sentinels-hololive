@@ -58,6 +58,13 @@
 - Unwind Time
 	- Bounce changed to heal
 
+### Mumei
+#### Changed
+- Gearing Up
+	- Collect changed to Summon
+- Oh Hello!
+	- Changed to play a card or discover an Item
+
 ## 0.4
 ### Calli
 Initial Release! Based around playing Flow cards and accelerating with RAP effects, and then detonating with REAP effects.
