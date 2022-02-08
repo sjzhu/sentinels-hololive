@@ -330,7 +330,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644254314,
+      "last_modification_date_unix": 1644282578,
       "details":
       [
         {
@@ -344,7 +344,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After you play a Flow, draw a card.\r\nSTART PHASE\r\nYou may play a Flow."
+            "value": "After you play a Flow, draw a card.\r\n<color=\"green\"><b>START PHASE</color></b>\r\nYou may play a Flow."
           }
         },
         {
