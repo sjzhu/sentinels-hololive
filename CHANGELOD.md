@@ -1,5 +1,63 @@
 # Changelog
 
+## UNRELEASED
+### Calli
+#### Changed
+- 200 Yen Bottled Wine -> Cheap Wine
+	- Power changed to Activate a RAP effect
+- Death Sensei's Teachings
+	- Nerfed to only be first time each turn
+- Off With Their Heads
+	- Removed
+	- Effect moved to Red
+- Red
+	- REAP effect changed to 2 damage to all non-hero targets
+	
+### Fauna
+#### Changed
+- Blessings of Nature
+	- Added a sapling discover
+- Food Chain
+	- Removed upkeep
+	- Added a sapling salvage/play
+- Nature's Regrowth
+	- Changed to discover sapling upon non-Villain destruction
+	- Removed upkeep
+- Taken by Nature
+	- Buffed to only deal 1 damage to sapling
+- Wrath of Nature
+	- Changed to 2 fixed damage
+- Blossom
+	- Changed to heal
+- Sprout
+	- Changed to targetable damage
+- Faunatic
+	- Changed wording to be aligned with other DE effects
+
+### Kronii
+#### Changed
+- Character Card
+	- Added melee damage type (untyped damage doesn't exist!)
+- Gwak!
+	- Buffed to only discard 1 card
+- It's Time To Stop!
+	- Effect changed to deal damage and reduce villain damage
+	- No longer limited
+	- Destroyed in START PHASE
+- Sadistic Warden
+	- Damage proc removed
+- Time Authority
+	- Draws card when played
+	- Changed to proc on all non-villain turn plays
+	- Deals damage instead of playing card
+- Time Blades
+	- Changed to only buff Time Blades' power
+	- Time Blades power tweaked to unlock second hit after play threshold
+- Time Slash
+	- Nerfed to only 1 hit
+- Unwind Time
+	- Bounce changed to heal
+
 ## 0.4
 ### Calli
 Initial Release! Based around playing Flow cards and accelerating with RAP effects, and then detonating with REAP effects.
