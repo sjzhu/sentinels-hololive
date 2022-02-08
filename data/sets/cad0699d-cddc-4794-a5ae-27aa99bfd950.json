@@ -7,7 +7,7 @@
   [
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174197,
+      "last_modification_date_unix": 1644294619,
       "details":
       [
         {
@@ -35,7 +35,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Draw 3 cards.\r\nCollect 1 Item.\r\nDiscard 2 cards."
+            "value": "Draw 3 cards.\r\nSummon 1 Item.\r\nDiscard 2 cards."
           }
         },
         {
@@ -522,7 +522,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644174240,
+      "last_modification_date_unix": 1644294627,
       "details":
       [
         {
@@ -550,7 +550,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Draw 3 cards and discard a card.\r\nYou may play or discover an Item."
+            "value": "Draw 3 cards and discard a card.\r\nYou may play a card or discover an Item."
           }
         },
         {

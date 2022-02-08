@@ -7,7 +7,7 @@
   [
     {
       "amount": 4,
-      "last_modification_date_unix": 1644250112,
+      "last_modification_date_unix": 1644294926,
       "details":
       [
         {
@@ -35,7 +35,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After this card is played, your allies each regain 1 HP.\r\nIf a hero character would be dealt damage, they may redirect that damage to a Sapling instead.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nDestroy this card."
+            "value": "After this card is played, your allies each regain 1 HP, and you may discover a Sapling.\nIf a hero character would be dealt damage, they may redirect that damage to a Sapling instead.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nDestroy this card."
           }
         },
         {
@@ -199,7 +199,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644250123,
+      "last_modification_date_unix": 1644294947,
       "details":
       [
         {
@@ -227,7 +227,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "+1 damage dealt by Saplings\r\n<color=\"green\"><b>START PHASE</b></color>\r\nYou may destroy or discard a Sapling. If you did not, destroy this card."
+            "value": "After this card is played, you may salvage or play a Sapling.\n+1 damage dealt by Saplings\r"
           }
         },
         {
@@ -456,7 +456,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644250136,
+      "last_modification_date_unix": 1644294984,
       "details":
       [
         {
@@ -484,7 +484,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After a Sapling is dealt damage, it may regain 1 HP.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nYou may destroy or discard a Sapling. If you did not, destroy this card."
+            "value": "The first time each turn a non-Villain target is destroyed, you may discover a Sapling."
           }
         },
         {
@@ -520,7 +520,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644250151,
+      "last_modification_date_unix": 1644294993,
       "details":
       [
         {
@@ -548,7 +548,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Bury a villain target with 5 or fewer HP.\r\nDiscover a Sapling.\r\nCeres Fauna deals that Sapling 2 fixed infernal damage."
+            "value": "Bury a villain target with 5 or fewer HP.\r\nDiscover a Sapling.\r\nCeres Fauna deals that Sapling 1 fixed infernal damage."
           }
         },
         {
@@ -648,7 +648,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644250146,
+      "last_modification_date_unix": 1644295038,
       "details":
       [
         {
@@ -676,7 +676,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "The first time each turn a non-Villain target is destroyed, each Sapling may deal 1 infernal damage to the villain with the highest HP."
+            "value": "The first time each turn a non-Villain target is destroyed, each Sapling may deal 1 Villain target 2 fixed melee damage."
           }
         },
         {
@@ -712,7 +712,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644250275,
+      "last_modification_date_unix": 1644295032,
       "details":
       [
         {
@@ -726,7 +726,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<color=\"red\"><b>END PHASE</b></color>\r\nThis card deals 1 damage to 2 non-hero targets."
+            "value": "<color=\"red\"><b>END PHASE</b></color>\r\nThis card deals up to 2 non-Hero targets 1 melee damage each."
           }
         },
         {
@@ -770,7 +770,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644250289,
+      "last_modification_date_unix": 1644295053,
       "details":
       [
         {
@@ -784,7 +784,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<align=\"left\"><color=\"red\"><b>END PHASE</b></color>\r\nThis card deals 2 damage to the villain target with the lowest HP.</align>"
+            "value": "<align=\"left\"><color=\"red\"><b>END PHASE</b></color>\r\nThis card deals 1 Villain target 2 melee damage."
           }
         },
         {
@@ -827,7 +827,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644250301,
+      "last_modification_date_unix": 1644295075,
       "details":
       [
         {
@@ -841,7 +841,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<align=\"left\"><color=\"red\"><b>END PHASE</b></color>\r\nThis card deals 2 damage to the villain target with the highest HP.</align>"
+            "value": "<align=\"left\"><color=\"red\"><b>END PHASE</b></color>\r\nOne hero target regains 1 HP.</align>"
           }
         },
         {

@@ -73,7 +73,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644173556,
+      "last_modification_date_unix": 1644294641,
       "details":
       [
         {
@@ -94,7 +94,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Ouro Kronii deals each target 1 fixed sonic damage.\nDiscard 2 cards.\nShuffle your trash into your deck."
+            "value": "Ouro Kronii deals each target 1 fixed sonic damage.\nDiscard 1 card.\nShuffle your trash into your deck."
           }
         },
         {
@@ -265,14 +265,14 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644173568,
+      "last_modification_date_unix": 1644294707,
       "details":
       [
         {
           "name": "Card Text",
           "data":
           {
-            "value": "<color=\"orange\"><b>PLAY PHASE</b></color>\r\nYou may discard 2 cards. If you do, salvage 1 card.\r\n<color=\"blue\"><b>DRAW PHASE</b></color>\r\nYou may draw an additional card this phase."
+            "value": "After this card is played, Ouro Kronii deals 1 target 3 psychic damage.\n-2 damage dealt by that target.\n<color=\"green\"><b>START PHASE</b></color>\nDestroy this card."
           }
         },
         {
@@ -295,7 +295,7 @@
           "name": "Keywords",
           "data":
           {
-            "value": "ONGOING, LIMITED"
+            "value": "ONGOING"
           }
         },
         {
@@ -458,7 +458,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644173582,
+      "last_modification_date_unix": 1644294717,
       "details":
       [
         {
@@ -486,7 +486,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<align=\"left\">Whenever another hero target takes damage from a non-hero source, you may draw a card.\r\nWhenever Ouro Kronii is dealt damage, discard a card or destroy this card.\n<color=\"green><b>START PHASE</b></color> \nDestroy this card.</align>"
+            "value": "<align=\"left\">Whenever another hero target takes damage from a non-hero source, you may draw a card.\r\n<color=\"green><b>START PHASE</b></color> \nDestroy this card.</align>"
           }
         },
         {
@@ -523,7 +523,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644173586,
+      "last_modification_date_unix": 1644294730,
       "details":
       [
         {
@@ -544,7 +544,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "If a hero skips a phase of their turn, they may draw an additional card during their DRAW PHASE.\r\nThe first time you play a card each turn, draw a card. \r\n<b>POWER: </b>Play a card."
+            "value": "If a hero skips a phase of their turn, they may draw a card during their END PHASE.\nThe first time you play a card each turn, draw a card. \r\n<b>POWER: </b>Play a card."
           }
         },
         {
@@ -587,7 +587,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644173590,
+      "last_modification_date_unix": 1644294769,
       "details":
       [
         {
@@ -601,7 +601,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "The first time each turn a villain card is played outside of the villain turn, you may play a card.\n<color=\"red\"><b>END PHASE</b></color>\nIf you skipped a phase during this turn, you may repeat that phase now. If you do, destroy this card.\n"
+            "value": "After this card is played, draw a card.\nAfter a Villain card is played outside of the Villain turn, Ouro Kronii may deal 1 Villain target 2 fixed psychic damage.\n<color=\"red\"><b>END PHASE</b></color>\nIf you skipped a phase during this turn, you may repeat that phase now. If you do, destroy this card.\n"
           }
         },
         {
@@ -652,7 +652,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644173595,
+      "last_modification_date_unix": 1644294815,
       "details":
       [
         {
@@ -680,7 +680,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "When you play a card, +1 damage dealt by Ouro Kronii until the end of the turn. \r\n<b>POWER: </b>Ouro Kronii deals 1 target 2 melee damage and another target 1 melee damage."
+            "value": "+1 damage dealt by this card's power for each card played during the current turn.\n<b>POWER: </b>Ouro Kronii deals 1 target 2 melee damage. If you have played at least 3 cards this turn, Ouro Kronii may deal 1 target 1 melee damage."
           }
         },
         {
@@ -781,7 +781,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644173601,
+      "last_modification_date_unix": 1644294857,
       "details":
       [
         {
@@ -802,7 +802,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Ouro Kronii deals 1 target 2 melee damage. \r\nIf you have played 3 or more cards this turn, Ouro Kronii deals 1 target 4 melee damage."
+            "value": "If you have played 3 or more cards this turn, Ouro Kronii deals 1 target 4 melee damage.\nOtherwise, Ouro Kronii deals 1 target 2 melee damage. \r"
           }
         },
         {
@@ -904,7 +904,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644173614,
+      "last_modification_date_unix": 1644294872,
       "details":
       [
         {
@@ -932,7 +932,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Each ally may salvage 1 card.\r\nIf you have played 3 or more cards this turn, you may return a non-indestructible non-character card to the top of its deck. "
+            "value": "Each ally may salvage 1 card.\r\nIf you have played 3 or more cards this turn, Ouro Kronii regains 2 HP. "
           }
         },
         {

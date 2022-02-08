@@ -6,8 +6,8 @@
   "items":
   [
     {
-      "amount": 2,
-      "last_modification_date_unix": 1644256196,
+      "amount": 3,
+      "last_modification_date_unix": 1644295097,
       "details":
       [
         {
@@ -28,7 +28,7 @@
           "name": "Card Name",
           "data":
           {
-            "value": "200 YEN BOTTLED WINE"
+            "value": "CHEAP WINE"
           }
         },
         {
@@ -42,7 +42,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After Mori Calliope takes psychic damage, she may regain 2 HP. If she does, destroy this card.\r\n<b>POWER</b>: Collect a Flow."
+            "value": "After Mori Calliope takes psychic damage, she may regain 2 HP. If she does, destroy this card.\r\n<b>POWER</b>: Activate a RAP effect."
           }
         },
         {
@@ -330,7 +330,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644282578,
+      "last_modification_date_unix": 1644295124,
       "details":
       [
         {
@@ -344,7 +344,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After you play a Flow, draw a card.\r\n<color=\"green\"><b>START PHASE</color></b>\r\nYou may play a Flow."
+            "value": "The first time each turn you play a Flow, draw a card.\r\n<color=\"green\"><b>START PHASE</color></b>\r\nYou may play a Flow."
           }
         },
         {
@@ -394,7 +394,7 @@
       ]
     },
     {
-      "amount": 2,
+      "amount": 3,
       "last_modification_date_unix": 1644256247,
       "details":
       [
@@ -524,7 +524,7 @@
       ]
     },
     {
-      "amount": 2,
+      "amount": 3,
       "last_modification_date_unix": 1644256296,
       "details":
       [
@@ -654,70 +654,6 @@
       ]
     },
     {
-      "amount": 3,
-      "last_modification_date_unix": 1644256315,
-      "details":
-      [
-        {
-          "name": "HP",
-          "data":
-          {
-            "panel_visible": "False"
-          }
-        },
-        {
-          "name": "HP Icon",
-          "data":
-          {
-            "panel_visible": "False"
-          }
-        },
-        {
-          "name": "Card Name",
-          "data":
-          {
-            "value": "OFF WITH THEIR HEADS"
-          }
-        },
-        {
-          "name": "Keywords",
-          "data":
-          {
-            "value": "ONGOING, FLOW"
-          }
-        },
-        {
-          "name": "Card Text",
-          "data":
-          {
-            "value": "<b>RAP</b>: Draw a card. You may play a Flow.\r\n<b>REAP</b>: Mori Calliope deals each non-hero target 2 infernal damage. Destroy this card."
-          }
-        },
-        {
-          "name": "Flavor Text",
-          "data":
-          {
-            "value": "Welcome to the mountain top, waiting til the fight calls\nI hope you're ready to be swinging til the night falls"
-          }
-        },
-        {
-          "name": "Attribution Text",
-          "data":
-          {
-            "value": "- Off With Their Heads"
-          }
-        },
-        {
-          "name": "Card Art",
-          "data":
-          {
-            "value": "Calli/offwiththeirheads.png",
-            "img_fit_mode": "fitheight"
-          }
-        }
-      ]
-    },
-    {
       "amount": 2,
       "last_modification_date_unix": 1644256327,
       "details":
@@ -783,7 +719,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644256343,
+      "last_modification_date_unix": 1644295178,
       "details":
       [
         {
@@ -825,7 +761,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>RAP</b>: Discover a Flow.\r\n<b>REAP</b>: Mori Calliope deals up to 2 targets 3 infernal damage each. Destroy this card."
+            "value": "<b>RAP</b>: Discover a Flow.\r\n<b>REAP</b>: Mori Calliope deals each non-Hero target 2 infernal damage. Destroy this card."
           }
         },
         {

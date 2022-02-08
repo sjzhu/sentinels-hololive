@@ -1,6 +1,6 @@
 # Changelog
 
-## UNRELEASED
+## 0.4.1
 ### Calli
 #### Changed
 - 200 Yen Bottled Wine -> Cheap Wine
