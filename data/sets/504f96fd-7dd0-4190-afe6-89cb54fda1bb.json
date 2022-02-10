@@ -1,0 +1,1149 @@
+{
+  "json_version": 3,
+  "name": "Ina Deck",
+  "blueprint_name": "Myth Card",
+  "hint_order_index": 8,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644470592,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "A.O.-CHAN"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, RELIC"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>POWER</b>: Discover an Ongoing. \r\n<color=\"purple\"><b>POWER PHASE</b></color> \r\nYou may use an additional power this phase."
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/aochan.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"A.O.-chan helps me out a lot!\""
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644468586,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "BONK!"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, SANITY"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Ninomae Ina'nis deals 1 target 2 melee damage. You may put this card under a Ritual card."
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/bonk.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "What happens if you squish my squishy hair? I'll bonk you... with a crowbar!"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644470100,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "CHILL ART"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, SANITY"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Draw 2 cards. You may put this card under a Ritual card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"'But if I can add a little color to your life, that just makes me happy.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/chilldrawing.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644470127,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/eldritchknowledge.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "ELDRITCH KNOWLEDGE"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, RITUAL"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>POWER</b>: Destroy up to 3 cards under this card. Each time you destroy 1 card this way, you may draw 2 cards."
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Humu, humu.\""
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644469388,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After you use a power on a Ritual card, you may salvage 1 Sanity card. \n<color=\"red\"><b>END PHASE</b></color>\nYou may play a Sanity card."
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "HALO"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, RELIC"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"It's not an onion ring. I tried, chat.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/halo.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644470450,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/inaff.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "INAFF!"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, SANITY"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Destroy an Ongoing. You may put this card under a Ritual card."
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"We will achieve world domINAtion via puns! Humu, humu.\"",
+            "text_size": "1.9"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644470147,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Discover a Takodachi. You may put this card under a Ritual card."
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/petthetako.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "PET THE TAKO"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, SANITY"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"What's a cute little Takodachi like you doing here?\""
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644470248,
+      "details":
+      [
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, RITUAL"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>POWER</b>: Destroy up to 3 cards under this card. Each time you destroy 1 card this way, Ninomae Ina'nis deals 1 target 2 irreducible infernal damage."
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "POWER OF THE ANCIENT ONES",
+            "text_size": "4.1"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/poweroftheancientones.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- ???"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Forgetti BEAMMMM!\""
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644468947,
+      "details":
+      [
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "PROTECT THE PRIESTESS"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, RITUAL"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "The first time each turn Ninomae Ina'nis would be dealt damage, you may redirect that damage to a Takodachi. \n<b>POWER</b>: Destroy up to 3 cards under this card. Each time you destroy 1 card this way, discover a Takodachi."
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/protectthepriestess.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Protect the Priestess at all costs!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Takodachi"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644469036,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SEISO PRIESTESS"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, RITUAL"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>POWER</b>: Destroy up to 3 cards under this card. Each time you destroy 1 card this way, 1 hero target regains 2 HP."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I'm seiso if you say so!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/seisopriestess.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644469094,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/sleep.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SLEEP"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, SANITY"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Salvage 2 non-Sleep cards. You may put this card under a Ritual card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"The... time machine broke.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis, 2 hours late"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644469164,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/tako.png"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "TAKO"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "3"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "TAKODACHI"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "When this card is destroyed, draw 1 card.\n<color=\"red\"><b>END PHASE</b></color> \nSalvage 1 Sanity card. "
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"So flexible!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644470369,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "5"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "TAKO CULTIST"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "TAKODACHI"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/takocultist.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, 1"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "When this card is destroyed, draw 1 card.\n<color=\"red\"><b>END PHASE</b></color> \nYou may use 1 power. "
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Takos actually don't feel anything at all.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644470402,
+      "details":
+      [
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I thought I had enough tentacles to answer all my messages, but I clearly don't have enough.\""
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "VOID TENTACLES"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, RELIC"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/voidtentacles.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After you use a power on a Ritual card, Ninomae Ina'nis may deal 1 target 3 melee damage."
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644469603,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Draw 2 cards. \nDiscover a Relic. \nPlay a card. \nIf 3 or more Wah!'s have already been played this turn, Ninomae Ina'nis deals each target 1 fixed psychic damage."
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "WAH!"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, GREETING"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"We are here!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/wah4.png",
+            "img_fit_mode": "fitheight",
+            "img_offset": "2, 0"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644469522,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Draw 2 cards. \nDiscover a Relic. \nPlay a card. \nIf 3 or more Wah!'s have already been played this turn, Ninomae Ina'nis deals each target 1 fixed psychic damage."
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "WAH!"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, GREETING"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"We are happy!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/wah3.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644469615,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Draw 2 cards. \nDiscover a Relic. \nPlay a card. \nIf 3 or more Wah!'s have already been played this turn, Ninomae Ina'nis deals each target 1 fixed psychic damage."
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "WAH!"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, GREETING"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"We are hype!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/wah1.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644469645,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Draw 2 cards. \nDiscover a Relic. \nPlay a card. \nIf 3 or more Wah!'s have already been played this turn, Ninomae Ina'nis deals each target 1 fixed psychic damage."
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "WAH!"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, GREETING"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"We are ho- Wait.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ninomae Ina'nis"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ina/wah2.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    }
+  ]
+}

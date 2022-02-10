@@ -7,7 +7,7 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1643161324,
+      "last_modification_date_unix": 1644471205,
       "details":
       [
         {
@@ -21,7 +21,8 @@
           "name": "Character Art",
           "data":
           {
-            "value": "kronii.png"
+            "value": "kronii.png",
+            "img_fit_mode": "fitheight"
           }
         },
         {
@@ -222,7 +223,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644249801,
+      "last_modification_date_unix": 1644471186,
       "details":
       [
         {
@@ -236,7 +237,8 @@
           "name": "Character Art",
           "data":
           {
-            "value": "Mumei/mumeicc.png"
+            "value": "Mumei/mumeicc.png",
+            "img_fit_mode": "fitwidth"
           }
         },
         {
@@ -439,7 +441,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644257017,
+      "last_modification_date_unix": 1644471192,
       "details":
       [
         {
@@ -453,7 +455,8 @@
           "name": "Character Art",
           "data":
           {
-            "value": "Calli/calliccfront.png"
+            "value": "Calli/calliccfront.png",
+            "img_fit_mode": "fitwidth"
           }
         },
         {
@@ -504,6 +507,78 @@
           "data":
           {
             "value": "- One hero uses a power.\r\n- One hero destroys 1 Ongoing\r\n- 1 hero target deals 1 target 2 infernal damage."
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644471196,
+      "details":
+      [
+        {
+          "name": "HP Number",
+          "data":
+          {
+            "value": "25"
+          }
+        },
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "value": "Ina/inaccfront.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "value": "Ina/logo.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "HERO"
+          }
+        },
+        {
+          "name": "Power Name",
+          "data":
+          {
+            "value": "Comfy Priestess"
+          }
+        },
+        {
+          "name": "Power Panel",
+          "data":
+          {
+            "value": "<b>POWER: </b>You may play up to 2 Sanity cards."
+          }
+        },
+        {
+          "name": "Incap Power Name",
+          "data":
+          {
+            "value": "Sleeping Horrors"
+          }
+        },
+        {
+          "name": "Incap Art",
+          "data":
+          {
+            "value": "Ina/inaccback.png"
+          }
+        },
+        {
+          "name": "Incap Powers",
+          "data":
+          {
+            "value": " - One hero may use a power.\n - One hero regains 2 HP.\n - 1 target deals itself 2 fixed psychic damage"
           }
         }
       ]
