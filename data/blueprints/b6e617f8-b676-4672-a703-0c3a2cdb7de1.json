@@ -20,7 +20,8 @@
             "panel_type": "text",
             "value": "HP",
             "text_size": "4",
-            "color": "#000000FF"
+            "color": "#000000FF",
+            "text_font": "Arial Bold"
           }
         },
         {

@@ -152,14 +152,14 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1643242863,
+      "last_modification_date_unix": 1644522677,
       "details":
       [
         {
           "name": "HP Number",
           "data":
           {
-            "value": "23"
+            "value": "25"
           }
         },
         {
@@ -579,6 +579,78 @@
           "data":
           {
             "value": " - One hero may use a power.\n - One hero regains 2 HP.\n - 1 target deals itself 2 fixed psychic damage"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644537267,
+      "details":
+      [
+        {
+          "name": "HP Number",
+          "data":
+          {
+            "value": "24"
+          }
+        },
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "value": "Kiara/kiaraccfront.png"
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "value": "Kiara/logo.png"
+          }
+        },
+        {
+          "name": "Power Name",
+          "data":
+          {
+            "value": "Phoenix Strike"
+          }
+        },
+        {
+          "name": "Power Panel",
+          "data":
+          {
+            "value": "<b>POWER: </b>Takanashi Kiara deals 1 target 2 fire damage."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "HERO"
+          }
+        },
+        {
+          "name": "Incap Power Name",
+          "data":
+          {
+            "value": "Phoenix Down"
+          }
+        },
+        {
+          "name": "Incap Art",
+          "data":
+          {
+            "value": "Kiara/kiaraccback.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Incap Powers",
+          "data":
+          {
+            "value": "- Each hero draws a card.\r\n- 1 target deals itself 2 fixed fire damage.\n- Return all of Takanashi Kiara's deck to the game. Shuffle it and draw 4 cards. Replace this card with another Takanashi Kiara character card, active side up, restoring it to 10 HP and ending your turn.",
+            "text_size": "2.9"
           }
         }
       ]
