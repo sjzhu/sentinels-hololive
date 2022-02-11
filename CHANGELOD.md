@@ -1,5 +1,15 @@
 # Changelog
 
+## UNRELEASED
+### Ina
+Added! Based around fueling rituals with sanity. And Takodachi of course.
+
+### Kiara
+Added! Tenchou commands both the power of the phoenix and KFP! Don't worry about dying, it won't hurt too much.
+
+### IRyS
+ - CC buffed to 25 HP
+
 ## 0.4.1
 ### Calli
 #### Changed
