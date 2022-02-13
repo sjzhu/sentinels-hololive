@@ -569,7 +569,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644771366,
+      "last_modification_date_unix": 1644784800,
       "details":
       [
         {
@@ -620,7 +620,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>POWER</b>: Draw 2 cards. Discard a card.\r\n<color=\"red\"><b>END PHASE</b></color>\r\nYou may trigger the START PHASE or END PHASE of another card in play. If you do, destroy this card."
+            "value": "<b>POWER</b>: One hero may salvage a card. If that hero was an ally, they may play a card.\n<color=\"red\"><b>END PHASE</b></color>\r\nYou may trigger the START PHASE or END PHASE of another card in play. If you do, destroy this card."
           }
         },
         {
@@ -818,7 +818,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644772210,
+      "last_modification_date_unix": 1644784722,
       "details":
       [
         {
@@ -834,7 +834,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Play this next to a hero character.\r\n+1 damage dealt by that hero character.\r\n<b>POWER</b>: Destroy this card.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nAmelia Watson deals that character 2 toxic damage."
+            "value": "Play this next to a hero character.\r\n+1 damage dealt by that hero character.\r\n<b>POWER</b>: Destroy this card.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nAmelia Watson deals that character 2 fixed toxic damage."
           }
         },
         {

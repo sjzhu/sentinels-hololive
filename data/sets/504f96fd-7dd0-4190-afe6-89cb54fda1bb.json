@@ -7,7 +7,7 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1644470592,
+      "last_modification_date_unix": 1644785101,
       "details":
       [
         {
@@ -42,7 +42,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>POWER</b>: Discover an Ongoing. \r\n<color=\"purple\"><b>POWER PHASE</b></color> \r\nYou may use an additional power this phase."
+            "value": "<b>POWER</b>: Discover an Ongoing. \r\n<color=\"blue\"><b>DRAW PHASE</b></color> \r\nYou may draw an additional card this phase."
           }
         },
         {
@@ -521,7 +521,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644468947,
+      "last_modification_date_unix": 1644785268,
       "details":
       [
         {
@@ -556,7 +556,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "The first time each turn Ninomae Ina'nis would be dealt damage, you may redirect that damage to a Takodachi. \n<b>POWER</b>: Destroy up to 3 cards under this card. Each time you destroy 1 card this way, discover a Takodachi."
+            "value": "The first time each turn Ninomae Ina'nis would be dealt damage, you may redirect that damage to a Takodachi. \n<b>POWER</b>: Destroy up to 3 cards under this card. Each time you destroy 1 card this way, salvage or play a Takodachi."
           }
         },
         {
@@ -712,7 +712,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644469164,
+      "last_modification_date_unix": 1644785306,
       "details":
       [
         {
@@ -747,7 +747,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "When this card is destroyed, draw 1 card.\n<color=\"red\"><b>END PHASE</b></color> \nSalvage 1 Sanity card. "
+            "value": "When this card is destroyed, you may salvage up to 2 Sanity cards.\n<color=\"red\"><b>END PHASE</b></color>\nThis card deals 1 target 1 melee damage."
           }
         },
         {
@@ -768,7 +768,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644470369,
+      "last_modification_date_unix": 1644785314,
       "details":
       [
         {
@@ -805,7 +805,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "When this card is destroyed, draw 1 card.\n<color=\"red\"><b>END PHASE</b></color> \nYou may use 1 power. "
+            "value": "<color=\"red\"><b>END PHASE</b></color> \nYou may use 1 power. "
           }
         },
         {

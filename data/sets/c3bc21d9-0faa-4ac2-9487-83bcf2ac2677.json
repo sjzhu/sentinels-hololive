@@ -657,7 +657,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644770304,
+      "last_modification_date_unix": 1644784817,
       "details":
       [
         {
@@ -688,7 +688,7 @@
           "name": "Power Name",
           "data":
           {
-            "value": "Time-Travelling Detective"
+            "value": "Investigation"
           }
         },
         {
@@ -702,7 +702,7 @@
           "name": "Power Panel",
           "data":
           {
-            "value": "<b>POWER: </b>One hero may salvage 1 card. If that hero was an ally, they may play a card."
+            "value": "<b>POWER: </b>Draw 2 cards."
           }
         },
         {

@@ -11,5 +11,5 @@
   "export_tts_force_max_size": "False",
   "export_use_item_amount": "True",
   "image_filename_format": "%e - %i (%a)",
-  "export_sides": "both"
+  "export_sides": "front"
 }
