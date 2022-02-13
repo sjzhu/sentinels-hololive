@@ -1,0 +1,1026 @@
+{
+  "json_version": 3,
+  "name": "Gura Deck",
+  "blueprint_name": "Myth Card",
+  "hint_order_index": 11,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644773259,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/a.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "\"A\""
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, GREETING"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "You and an ally each draw a card.\r\nCollect 1 Ongoing."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"a\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr Gura, first sound"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644773570,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr Gura, fending off monkeys"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "APEX PREDATOR"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/apexpredator.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">After Gawr Gura deals damage to a target, if it has 3 or fewer HP, destroy it.</align>"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"We're okay! I'm the apex predator. I'm the apex predator.\""
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644773637,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr Gura"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "BATHTUB PIZZA"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "You may discard a card. If you do, Gawr Gura regains 3 HP."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Anyway, I was eating my pizza in the bath and I dropped it. It went sploosh, so I picked it up, and I ate it.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/bathtubpizza.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -1"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644773799,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/bloop.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -2"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "BLOOP"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "3"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "PET"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">When this card is destroyed, Gawr Gura regains 2 HP and you may play a card.</align>"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "Emergency Food Provisions"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Bloop's other name"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644773774,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr Gura"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "JUMP SCARE"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "The lowest HP Villain target deals Gawr Gura 2 psychic damage.\r\nIf Gawr Gura takes damage this way, she deals each non-Hero target 2 fixed sonic damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I'm not scared, I'm an apex predator, chat! YAAAAAAA! Ok, that one got me.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/jumpscare.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -2"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644774247,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/hoocha.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, 2"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "HOOCHA!"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>REACTION</b>: Gawr Gura deals the attacker 2 cold damage."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"See, sometimes, life decides to hit you with a Hoocha! You know what you do in this predicament? You go againnn!\"",
+            "text_size": "1.9"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr Gura"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644774301,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/hydrodynamic.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "HYDRODYNAMIC"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After an environment target is played, you may play a card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"They may be boing-boing, but me? I'm hydrodynamic!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr Gura"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644774393,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "POSEIDON'S TRIDENT"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "+1 damage dealt by Gawr Gura\r\n<b>POWER</b>: Gawr Gura deals 1 target 1 melee damage and 1 cold damage."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, RELIC, LIMITED"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"That thing hasn't seen action in a millenia.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/trident.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644774465,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/jinx.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "JINXING IT"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Gawr Gura deals 1 target 3 melee damage. \r\nIf that target is not destroyed, discard a card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"We're gonna be fiiiiiine!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr Gura, last words"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644774510,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr Gura"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "RHYTHM MASTER"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After the first time each turn you play a One-Shot, you may play a card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Full combo babyyyy!!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/rhythmmaster.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644774559,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/searchforatlantis.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SEARCH FOR ATLANTIS"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Reveal the top card of the environment deck.\r\nIf it is a target, play it and Gawr Gura may deal it 2 melee damage.\r\nIf it is not a target, discard it and draw a card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"We're going to Atlantis, boys!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr Gura"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644774613,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/shaaark.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -2"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SHAAARK!"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Either destroy an Ongoing or Gawr Gura deals 1 target 2 sonic damage"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Shaaark!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr Gura"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644774671,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/sharkhoodie.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SHARK HOODIE"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>REACTION</b>: -2 to the damage that would be dealt. Then, if Gawr Gura is still dealt damage, discard a card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Gura, when was the last time you washed your hoodie?\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Amelia Watson"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644774749,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/sharkinstinct.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SHARK INSTINCT"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Gawr Gura deals 1 target 2 melee damage. If that target is not at full HP, Gawr Gura deals that target 4 melee damage instead."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Shark fact: Sharks can smell blood in the water from a mile away.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr Gura"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644774892,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/shrimp.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SHRIMPS"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "True"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "True",
+            "value": "2"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "CHUMBUD"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<color=\"blue\"><b>DRAW PHASE</b></color>\nYou may draw an additional card this phase."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Simp? You mean shrimp?\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr Gura"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644775034,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Gura/ukelele.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "UKULELE"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>POWER</b>: Reveal the top card of your deck. If it is a One-Shot, draw it. Otherwise, play it."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Dun dun da dada daaaaa...\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Gawr Gura, singing her BGM"
+          }
+        }
+      ]
+    }
+  ]
+}

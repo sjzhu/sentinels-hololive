@@ -1,0 +1,942 @@
+{
+  "json_version": 3,
+  "name": "Ame Deck",
+  "blueprint_name": "Myth Card",
+  "hint_order_index": 10,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644770590,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "6"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "BUBBA"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "PET"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/bubba.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">Whenever Amelia Watson would deal toxic damage, you may discard a card to prevent that damage.</align>"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"There are timelines where Ames have turned evil because they didn't have a Bubba to hold them back.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Amelia Watson"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644770635,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Amelia Watson, angry"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "GREMLIN SCREECH"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/gremlinscreeching.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Amelia Watson deals each non-hero target 1 irreducible sonic damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"REEEEEEEEEEE!!!\""
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644770725,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Amelia Watson"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "GROUND POUND"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/groundpound.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Amelia Watson deals 1 target 3 melee damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Nothing beats a ground pound! Just like I did to your mom last night, chat! Hehehehehe!\""
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644770770,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Amelia Watson"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "HIC!"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/hic.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT, GREETING"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Draw 3 cards.\r\nPlay an Item or an Ongoing."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Hic!\""
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644770942,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Amelia Watson"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "MAGNIFYING GLASS"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>POWER</b>: Reveal the top two cards of the Villain deck. Return them in any order. Draw a card."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I'm Hololive EN's number one detective!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/magnifyingglass.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644771049,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/saltyrage.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SALTY RAGE"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>REACTION</b>: Amelia Watson deals the attacker 2 toxic damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"It was the lag, chat! I swear!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Amelia Watson"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644771119,
+      "details":
+      [
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "AME, LIMITED"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SMOL AME"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "6"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/smol ame.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<color=\"green\"><b>START PHASE</b></color>\r\nDraw a card or play a card.\r\n<color=\"red\"><b>END PHASE</b></color>\r\nSmol Ame deals Amelia Watson 2 fixed psychic damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I think I hurt her feelings. Oh well, not my problem!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Smol Ame"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644771180,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Amelia Watson"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "TEAM PLAYER"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Two hero characters may each deal 2 projectile damage to the same target.\r\nDraw a card."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/teamplayer.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, 0"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Let's get 'em, Gura!\""
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644771281,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- EN Curse Sufferers"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "TECHNICAL APTITUDE"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">Play this card in an ally's play area.\r\nAfter a card in this play area is destroyed, that ally may destroy this card to draw and play a card.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nThat ally may discard 1 card. If they do, they may salvage 1 card.</align>"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Thank you Ame!!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/technicalaptitude.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644771366,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Amelia Watson"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/timetravelingpocketwatch.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "TIME TRAVEL POCKET WATCH",
+            "text_size": "4.2"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, RELIC, LIMITED"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>POWER</b>: Draw 2 cards. Discard a card.\r\n<color=\"red\"><b>END PHASE</b></color>\r\nYou may trigger the START PHASE or END PHASE of another card in play. If you do, destroy this card."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I'm from the future! I came back to join Hololive EN.\""
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644772000,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/timelinemanagement.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<color=\"green\"><b>START PHASE</b></color>\r\nSalvage 1 card.\r\n<color=\"blue\"><b>DRAW PHASE</b></color>\r\nYou may draw an additional card this phase."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Ame #69? She's crazy. She's the reason we had to make this naming scheme.\""
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "TIMELINE MANAGEMENT"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Smole Ame"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644772046,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/timelineshuffle.png"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "TIME SHUFFLE"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">Bury a non-Villain target in play.\r\nPlay the top card of the same deck.\r\nDraw a card.</align>"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"You gotta go back into the portal, Smol Ame.\"\r\n\"NOOOOOOOO\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Amelia Watson"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644772124,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/toxicattitude.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "TOXIC ATTITUDE"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, Amelia Watson deals each target 1 fixed toxic damage.\r\n<color=\"red\"><b>END PHASE</b></color>\r\nEach ally may discard a card to draw a card."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, LIMITED"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I'm not toxic, you're toxic! Fxxk you chat!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Amelia Watson"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644772210,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/watsonconcoction.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -2"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Play this next to a hero character.\r\n+1 damage dealt by that hero character.\r\n<b>POWER</b>: Destroy this card.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nAmelia Watson deals that character 2 toxic damage."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "WATSON CONCOCTION"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Don't you trust me chat? It will only hurt a little.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Amelia Watson"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644772312,
+      "details":
+      [
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ame/watsonindustries.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "WATSON INDUSTRIES"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"A new Watson Industries technological advancement!\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Amelia Watson"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<b>POWER</b>: Discover an Item from a deck in play. If you chose an ally's deck, you may draw a card."
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING"
+          }
+        }
+      ]
+    }
+  ]
+}

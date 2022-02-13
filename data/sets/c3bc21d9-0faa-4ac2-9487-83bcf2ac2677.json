@@ -654,6 +654,154 @@
           }
         }
       ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644770304,
+      "details":
+      [
+        {
+          "name": "HP Number",
+          "data":
+          {
+            "value": "26"
+          }
+        },
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "value": "Ame/ameccfront.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -2"
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "value": "Ame/logo.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Power Name",
+          "data":
+          {
+            "value": "Time-Travelling Detective"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "HERO"
+          }
+        },
+        {
+          "name": "Power Panel",
+          "data":
+          {
+            "value": "<b>POWER: </b>One hero may salvage 1 card. If that hero was an ally, they may play a card."
+          }
+        },
+        {
+          "name": "Incap Power Name",
+          "data":
+          {
+            "value": "Ghost Possession"
+          }
+        },
+        {
+          "name": "Incap Art",
+          "data":
+          {
+            "value": "Ame/ameccback.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Incap Powers",
+          "data":
+          {
+            "value": "- 2 targets deal each other 1 toxic damage\n- 1 hero uses a power\n- 1 hero plays a card"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1644770496,
+      "details":
+      [
+        {
+          "name": "Power Panel",
+          "data":
+          {
+            "value": "<b>POWER: </b>Gawr Gura deals 1 target 2 cold damage."
+          }
+        },
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "value": "Gura/guraccfront.png",
+            "img_fit_mode": "fitheight",
+            "img_offset": "0, 0"
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "value": "Gura/logo.png"
+          }
+        },
+        {
+          "name": "Power Name",
+          "data":
+          {
+            "value": "Atlantean Shark"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "HERO"
+          }
+        },
+        {
+          "name": "HP Number",
+          "data":
+          {
+            "value": "28"
+          }
+        },
+        {
+          "name": "Incap Powers",
+          "data":
+          {
+            "value": "- 1 hero draws a card\n- 1 hero uses a power\n- Destroy an environment card"
+          }
+        },
+        {
+          "name": "Incap Art",
+          "data":
+          {
+            "value": "Gura/guraccback.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -1"
+          }
+        },
+        {
+          "name": "Incap Power Name",
+          "data":
+          {
+            "value": "Defeated Predator"
+          }
+        }
+      ]
     }
   ]
 }
