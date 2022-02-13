@@ -1,6 +1,12 @@
 # Changelog
 
-## UNRELEASED
+## 0.5
+### Gura
+Added! Domo, same desu!
+
+### Ame
+Added! Be salty.
+
 ### Ina
 Added! Based around fueling rituals with sanity. And Takodachi of course.
 
@@ -8,7 +14,14 @@ Added! Based around fueling rituals with sanity. And Takodachi of course.
 Added! Tenchou commands both the power of the phoenix and KFP! Don't worry about dying, it won't hurt too much.
 
 ### IRyS
- - CC buffed to 25 HP
+- CC buffed to 25 HP
+ 
+### Fauna
+#### Changed
+- Mother Nature's Orders
+	- No longer reduces damage
+	- Upkeep changed to per redirect instead of per round
+	- Destroyed when target leaves play
 
 ## 0.4.1
 ### Calli
