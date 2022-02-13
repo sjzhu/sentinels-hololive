@@ -391,7 +391,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644250133,
+      "last_modification_date_unix": 1644785780,
       "details":
       [
         {
@@ -420,7 +420,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Play this next to an environment target.\r\n-1 damage dealt by that target.\r\nRedirect damage dealt by that target to the highest HP villain.\r\n<color=\"red\"><b>END PHASE</b></color>\r\nYou may destroy or discard a Sapling. If you do not, destroy this card."
+            "value": "After this card is played, select an Environment target.\r\nWhen that target deals damage, you may discard or destroy a Sapling. If you do, you may redirect that damage to any target.\r\nAfter that target leaves play, destroy this card.."
           }
         },
         {
