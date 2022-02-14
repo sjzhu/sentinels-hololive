@@ -4,7 +4,7 @@
   "type": "card",
   "layout_size_mm": "63.5, 88.9",
   "main_panel_name": "number",
-  "hint_order_index": 4,
+  "hint_order_index": 5,
   "front_layers":
   [
     {
