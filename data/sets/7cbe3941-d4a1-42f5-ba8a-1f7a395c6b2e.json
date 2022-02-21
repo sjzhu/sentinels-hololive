@@ -1,0 +1,134 @@
+{
+  "json_version": 3,
+  "name": "Ministry CC",
+  "blueprint_name": "Villan CC",
+  "hint_order_index": 12,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645482510,
+      "details":
+      [
+        {
+          "name": "Rules Text",
+          "data":
+          {
+            "value": "The Ministry is not a target.\nAfter a Ministry target is destroyed, place it under this card.\r\nIf there are ever 5 cards under this card, (flip).\r\n\n<color=\"red\"><b>END PHASE</b></color>\nDiscover 1 Ministry target"
+          }
+        },
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Back Rules Text",
+          "data":
+          {
+            "value": "When this card flips to this side, set The Ministry's HP to 80.\nIf there are ever no cards under this card, the Ministry has destroyed this timeline. Game Over.\r\nThis card counts as Faun, Hayko, Krono, Muman and San.\r\n\r\n<color=\"green\"><b>START PHASE</b></color>\nChoose a card under this card. Remove that card from the game.\r\n<color=\"red\"><b>END PHASE</b></color>\nPlay the top card of the Villain deck.",
+            "text_size": "3.4"
+          }
+        },
+        {
+          "name": "Background Art",
+          "data":
+          {
+            "value": "Ministry/ministryfront.png",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Setup Text",
+          "data":
+          {
+            "value": "<b>SETUP</b>: Discover (H)-1 Ministry targets."
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "value": "Ministry/Ministry Logo.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Description",
+          "data":
+          {
+            "value": "THE DEBUT OF HOLOMINISTRY"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Text",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Tags",
+          "data":
+          {
+            "value": "VILLAIN"
+          }
+        },
+        {
+          "name": "Back Character Name",
+          "data":
+          {
+            "value": "Ministry/Ministry Logo.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Back Character Art",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Back Background Art",
+          "data":
+          {
+            "value": "Ministry/ministrybg.png",
+            "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Back Description",
+          "data":
+          {
+            "value": "THE GRADUATION OF MINISTRY"
+          }
+        },
+        {
+          "name": "Back Tags",
+          "data":
+          {
+            "value": "VILLAIN, MINISTRY"
+          }
+        },
+        {
+          "name": "Back HP Text",
+          "data":
+          {
+            "value": "80",
+            "text_font": "Arial Bold"
+          }
+        }
+      ]
+    }
+  ]
+}

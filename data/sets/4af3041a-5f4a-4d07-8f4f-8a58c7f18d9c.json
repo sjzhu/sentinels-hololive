@@ -1,0 +1,882 @@
+{
+  "json_version": 3,
+  "name": "Ministry Deck",
+  "blueprint_name": "Villain Card",
+  "hint_order_index": 13,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645486119,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "28"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "KRONO"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "MINISTRY"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After a Hero plays a second card during their turn, they discard a card.\r\n<color=\"red\"><b>END PHASE</b></color>\nPlay the top card of the Villain deck."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I'll be right on time.\""
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ouro Krono"
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/krono.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -1"
+          }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645483778,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hayko"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "HAYKO"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "25"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "MINISTRY"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "If a card is placed anywhere in a deck, shuffle that deck.\r\n<color=\"red\"><b>END PHASE</b></color>\nHayko deals the 2 Hero targets with the lowest HP 3 melee damage each."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Will you play with me?\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/hayko.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645483788,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ceres Faun"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "FAUN"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "31"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "MINISTRY"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "-2 damage dealt by the Hero target with the lowest HP.\r\n<color=\"red\"><b>END PHASE</b></color>\nFaun deals the H-1 Hero targets with the highest HP 2 infernal damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I don't steal people to put in my basement.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/faun.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645483799,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Muman"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "MUMAN"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "27"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "MINISTRY"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After a card is discarded from anywhere, place that card under Muman.\r\n<color=\"red\"><b>END PHASE</b></color>\n1 Hero discards 1 card. Destroy a random card under Muman. Muman deals each target belonging to that deck 3 melee damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I want a STABLE relationship with you.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/muman.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645483814,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Tsukumo San"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "SAN"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "35"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "MINISTRY"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "-1 damage dealt to other Ministry targets\r\n<color=\"red\"><b>END PHASE</b></color> \nSan regains H HP. San deals the Hero target with the highest HP 3 melee damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Don't call me small! I'll prove you wrong!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/san.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645484379,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Krono to San"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "COMPARE CLOCKS"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, TAUNT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, the Ministry target with the highest HP deals each non-Villain target 2 psychic damage.\r\nAfter a hero discards a card, Krono deals them 2 fixed psychic damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Between my clock and your rocket, which one is bigger?\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/compareclocks.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645484389,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Tsukumo San"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "MY ROCKET IS BIGGER"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, TAUNT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, the Ministry target with the highest HP deals the Hero target with the highest HP 5 melee damage.\r\n+1 HP recovery by San.\r\n<color=\"red\"><b>END PHASE</b></color> \nEach Ministry target regains 1 HP."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Wait 'til you see my rocket...\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/myrocketisbigger.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645484401,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ceres Faun"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "CAN'T ESCAPE YOUR NATURE",
+            "text_size": "4.3"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, TAUNT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, select the lowest HP non-character non-Villain target. That card has no game text. If that target is destroyed, destroy this card.\r\nIf Faun is in play, move that target into the Villain play area. That target is now a Villain target. Replace its game text with:\r\n\"<color=\"red\"><b>END PHASE</b></color> \nDeal each non-Villain target 1 melee damage.\"",
+            "text_size": "2.3"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I'm going to Naturally Select you.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/cantescapeyournature.png",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -2"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645484411,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Hayko"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "MY LIPS ARE LONELY"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, TAUNT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, destroy H Hero Ongoings and/or Items.\r\nAfter a deck is shuffled, Hayko deals the Hero target with the lowest HP 2 melee damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Ey, cousin, I didn't do nothin'!\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/lipslonely.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645484423,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Nanashi Muman"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "OH, HEY"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONGOING, TAUNT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After this card is played, the Ministry target with the lowest HP deals the Hero target with the lowest HP 3 melee damage.\r\n<color=\"red\"><b>END PHASE</b></color>\nResolve Muman's END PHASE text again."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"You can find me at the gym. Any gym.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/ohhey.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645485960,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Harbinger, Ministry PV"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "NO HESITATION"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "The Ministry target with the highest HP deals the Hero target with the lowest HP 2 melee damage.\r\nPlay the top card of the Villain deck."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"The Ministry must not hesitate.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/nohesitation.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645485947,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ceres Faun"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "The Ministry target with the lowest HP regains H HP.\r\nThat target deals the Hero target with the highest HP 2 melee damage."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "BACK TO THE GYM"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"I'm getting gym separation anxiety.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/backtothegym.png",
+            "img_fit_mode": "fitheight",
+            "img_offset": "1, 0"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645485878,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ouro Krono"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "YOUR BEST PICKUP LINES"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Discover 1 Taunt.\r\nIf no Taunts are played this way, shuffle the Villain trash into the Villain deck."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Let's hear your best pickup lines, boys.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/yourbestpickuplines.png",
+            "img_fit_mode": "fitwidth"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1645484740,
+      "details":
+      [
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "- Ouro Krono"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "GRADUATION SPEEDRUN"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ONE-SHOT"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Each Ministry target deals a different Hero target 2 psychic damage. \nEach Hero character deals a different Ministry target 2 psychic damage."
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "\"Welcome to our debut and graduation stream. We're speedrunning it.\""
+          }
+        },
+        {
+          "name": "Card Art",
+          "data":
+          {
+            "value": "Ministry/graduationspeedrun.png",
+            "img_fit_mode": "stretch"
+          }
+        }
+      ]
+    }
+  ]
+}

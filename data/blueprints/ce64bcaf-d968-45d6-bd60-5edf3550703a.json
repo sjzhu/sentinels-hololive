@@ -1,0 +1,407 @@
+{
+  "json_version": 3,
+  "name": "Villan CC",
+  "type": "card",
+  "layout_size_mm": "130, 88",
+  "main_panel_name": "text_top",
+  "hint_order_index": 7,
+  "front_layers":
+  [
+    {
+      "name": "Front",
+      "panels":
+      [
+        {
+          "name": "Rules Text",
+          "data":
+          {
+            "layout_position": "98.1423, 31.9249",
+            "layout_size": "59.60473, 59.64954",
+            "panel_type": "text",
+            "value": "Text",
+            "text_size": "4",
+            "text_alignment_v": "top",
+            "text_alignment_h": "left"
+          }
+        },
+        {
+          "name": "Rules Text BG Border",
+          "data":
+          {
+            "layout_position": "97.79974, 32.09618",
+            "layout_size": "60.97495, 60.67722",
+            "panel_type": "procedural",
+            "value": "Text",
+            "text_size": "4",
+            "text_alignment_v": "top",
+            "text_alignment_h": "left",
+            "color": "#000000FF",
+            "procedural_border": "0.7"
+          }
+        },
+        {
+          "name": "Rules Text BG",
+          "data":
+          {
+            "layout_position": "97.88538, 32.09618",
+            "layout_size": "60.11856, 59.9921",
+            "panel_type": "procedural",
+            "value": "Text",
+            "text_size": "4",
+            "text_alignment_v": "top",
+            "text_alignment_h": "left",
+            "color": "#FFFFFFFF"
+          }
+        },
+        {
+          "name": "Tags",
+          "data":
+          {
+            "layout_position": "105.4216, 70.80501",
+            "layout_size": "30.65876, 3.470352",
+            "panel_type": "text",
+            "value": "TAGS",
+            "text_size": "2.5",
+            "color": "#FFFFFFFF",
+            "text_font": "Arial Bold"
+          }
+        },
+        {
+          "name": "Tags BG",
+          "data":
+          {
+            "layout_position": "105.4216, 70.80501",
+            "layout_size": "31.68642, 3.470352",
+            "panel_type": "procedural",
+            "value": "TAGS",
+            "text_size": "2.5",
+            "color": "#000000FF",
+            "text_font": "Arial Bold"
+          }
+        },
+        {
+          "name": "HP Text",
+          "data":
+          {
+            "layout_position": "124.3479, 75.08696",
+            "layout_size": "10.27667, 8.951248",
+            "panel_type": "text",
+            "value": "HP",
+            "color": "#000000FF",
+            "text_size": "4"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "layout_position": "123.834, 75.42951",
+            "layout_size": "10.27667, 8.951248",
+            "panel_type": "icon",
+            "value": "Character/HP",
+            "color": "#FFCF87FF"
+          }
+        },
+        {
+          "name": "Description",
+          "data":
+          {
+            "layout_position": "93.43215, 74.65878",
+            "layout_size": "59.0909, 4.326738",
+            "panel_type": "text",
+            "value": "DESCRIPTION",
+            "text_size": "2.8",
+            "text_alignment_h": "left",
+            "color": "#FC9B0DFF",
+            "text_outline_size": "2",
+            "text_font": "Arial Bold"
+          }
+        },
+        {
+          "name": "Description BG",
+          "data":
+          {
+            "layout_position": "93.51779, 74.65878",
+            "layout_size": "59.94729, 4.326738",
+            "panel_type": "procedural",
+            "value": "Text",
+            "text_size": "3",
+            "color": "#FFFFFFFF"
+          }
+        },
+        {
+          "name": "Description BG Shadow",
+          "data":
+          {
+            "layout_position": "92.5, 76",
+            "layout_size": "59.94729, 4.326738",
+            "panel_type": "procedural",
+            "value": "Text",
+            "text_size": "3",
+            "color": "#000000FF"
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "layout_position": "95.74445, 81.59552",
+            "layout_size": "64.74308, 10.66403",
+            "panel_type": "image",
+            "value": "Text"
+          }
+        },
+        {
+          "name": "Setup Text",
+          "data":
+          {
+            "layout_position": "3.853752, 44.34256",
+            "layout_size": "85.81026, 6.724634",
+            "layout_rotation": "90",
+            "panel_type": "text",
+            "value": "Setup Text Here",
+            "color": "#FFFFFFFF",
+            "text_size": "3",
+            "text_alignment_v": "top",
+            "text_alignment_h": "left"
+          }
+        },
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "layout_position": "40.99473, 45",
+            "layout_size": "68.98946, 86",
+            "panel_type": "image",
+            "value": "Text"
+          }
+        },
+        {
+          "name": "Setup BG",
+          "data":
+          {
+            "layout_position": "3.768112, 44.68512",
+            "layout_size": "6.851112, 86.19762",
+            "panel_type": "procedural",
+            "value": "Text"
+          }
+        },
+        {
+          "name": "Background Art",
+          "data":
+          {
+            "layout_position": "65, 44",
+            "layout_size": "126, 84",
+            "panel_type": "image",
+            "value": "Placeholder",
+            "procedural_radius": "2",
+            "color": "#FFFFFFFF",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale"
+          }
+        },
+        {
+          "name": "Card Border",
+          "data":
+          {
+            "layout_position": "65, 44",
+            "layout_size": "130, 88",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "procedural_radius": "2",
+            "color": "#000000FF",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale"
+          }
+        }
+      ]
+    }
+  ],
+  "back_layers":
+  [
+    {
+      "name": "Back",
+      "panels":
+      [
+        {
+          "name": "Back Rules Text",
+          "data":
+          {
+            "layout_position": "98.1423, 31.9249",
+            "layout_size": "59.60473, 59.64954",
+            "panel_type": "text",
+            "value": "Text",
+            "text_size": "4",
+            "text_alignment_v": "top",
+            "text_alignment_h": "left"
+          }
+        },
+        {
+          "name": "Back Rules Text BG Border",
+          "data":
+          {
+            "layout_position": "97.79974, 32.09618",
+            "layout_size": "60.97495, 60.67722",
+            "panel_type": "procedural",
+            "value": "Text",
+            "text_size": "4",
+            "text_alignment_v": "top",
+            "text_alignment_h": "left",
+            "color": "#000000FF",
+            "procedural_border": "0.7"
+          }
+        },
+        {
+          "name": "Back Rules Text BG",
+          "data":
+          {
+            "layout_position": "97.88538, 32.09618",
+            "layout_size": "60.11856, 59.9921",
+            "panel_type": "procedural",
+            "value": "Text",
+            "text_size": "4",
+            "text_alignment_v": "top",
+            "text_alignment_h": "left",
+            "color": "#FFFFFFFF"
+          }
+        },
+        {
+          "name": "Back Tags",
+          "data":
+          {
+            "layout_position": "105.4216, 70.80501",
+            "layout_size": "30.65876, 3.470352",
+            "panel_type": "text",
+            "value": "TAGS",
+            "text_size": "2.5",
+            "color": "#FFFFFFFF",
+            "text_font": "Arial Bold"
+          }
+        },
+        {
+          "name": "Back Tags BG",
+          "data":
+          {
+            "layout_position": "105.4216, 70.80501",
+            "layout_size": "31.68642, 3.470352",
+            "panel_type": "procedural",
+            "value": "TAGS",
+            "text_size": "2.5",
+            "color": "#000000FF",
+            "text_font": "Arial Bold"
+          }
+        },
+        {
+          "name": "Back HP Text",
+          "data":
+          {
+            "layout_position": "124.3479, 75.08696",
+            "layout_size": "10.27667, 8.951248",
+            "panel_type": "text",
+            "value": "HP",
+            "color": "#000000FF",
+            "text_size": "4"
+          }
+        },
+        {
+          "name": "Back HP",
+          "data":
+          {
+            "layout_position": "123.834, 75.42951",
+            "layout_size": "10.27667, 8.951248",
+            "panel_type": "icon",
+            "value": "Character/HP",
+            "color": "#FFCF87FF"
+          }
+        },
+        {
+          "name": "Back Description",
+          "data":
+          {
+            "layout_position": "93.43215, 74.65878",
+            "layout_size": "59.0909, 4.326738",
+            "panel_type": "text",
+            "value": "DESCRIPTION",
+            "text_size": "2.8",
+            "text_alignment_h": "left",
+            "color": "#FC9B0DFF",
+            "text_outline_size": "2",
+            "text_font": "Arial Bold"
+          }
+        },
+        {
+          "name": "Back Description BG",
+          "data":
+          {
+            "layout_position": "93.51779, 74.65878",
+            "layout_size": "59.94729, 4.326738",
+            "panel_type": "procedural",
+            "value": "Text",
+            "text_size": "3",
+            "color": "#FFFFFFFF"
+          }
+        },
+        {
+          "name": "Back Description BG Shadow",
+          "data":
+          {
+            "layout_position": "92.5, 76",
+            "layout_size": "59.94729, 4.326738",
+            "panel_type": "procedural",
+            "value": "Text",
+            "text_size": "3",
+            "color": "#000000FF"
+          }
+        },
+        {
+          "name": "Back Character Name",
+          "data":
+          {
+            "layout_position": "95.74445, 81.59552",
+            "layout_size": "64.74308, 10.66403",
+            "panel_type": "image",
+            "value": "Text"
+          }
+        },
+        {
+          "name": "Back Character Art",
+          "data":
+          {
+            "layout_position": "38.68552, 45",
+            "layout_size": "73.60789, 86",
+            "panel_type": "image",
+            "value": "Text"
+          }
+        },
+        {
+          "name": "Back Background Art",
+          "data":
+          {
+            "layout_position": "65, 44",
+            "layout_size": "126, 84",
+            "panel_type": "image",
+            "value": "Placeholder",
+            "procedural_radius": "2",
+            "color": "#FFFFFFFF",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale"
+          }
+        },
+        {
+          "name": "Back Card Border",
+          "data":
+          {
+            "layout_position": "65, 44",
+            "layout_size": "130, 88",
+            "panel_type": "procedural",
+            "value": "Placeholder",
+            "procedural_radius": "2",
+            "color": "#000000FF",
+            "layout_constraint_h": "scale",
+            "layout_constraint_v": "scale"
+          }
+        }
+      ]
+    }
+  ]
+}
