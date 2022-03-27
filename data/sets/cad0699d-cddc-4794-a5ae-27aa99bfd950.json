@@ -3,6 +3,7 @@
   "name": "Mumei Deck",
   "blueprint_name": "Council Card New",
   "hint_order_index": 4,
+  "zoom": 0,
   "items":
   [
     {
@@ -57,14 +58,14 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -121,14 +122,14 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -186,14 +187,14 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -251,14 +252,14 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -315,14 +316,14 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -380,14 +381,14 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -444,14 +445,14 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -508,14 +509,14 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -572,14 +573,14 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -636,14 +637,14 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -700,14 +701,14 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -764,14 +765,14 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -829,14 +830,14 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -893,14 +894,14 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -957,14 +958,14 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]

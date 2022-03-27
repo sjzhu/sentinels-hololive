@@ -3,6 +3,104 @@
 ### The Ministry
 Added! These boys are crazy. Kick em out before they cause irreparable damage to this timeline.
 
+## 0.6
+
+Lots of changes to balance out fiddliness/usability
+
+### Baelz
+Lots of flavor text edits
+- Blessings of Chaos
+	- Add reveal effect
+	- Nerf to only have ally characters deal damage
+- Bruh!
+	- Add 1 copy
+	- Add draw if not One-Shot
+- Chaotic Battlefield
+	- Change to AOE instead
+	- Aim doko
+- Chaotic Laughter
+	- Removed
+- Constant Change
+	- Name changed to Play Dice!
+	- Changed to discard cost
+- Mousetrap Earrings
+	- Trigger changed to after card play
+	- Add PLAY PHASE summon limited then destroy
+- Mr. Squeaks
+	- Add retalation for destruction
+	- Move card play to START PHASE
+- Rat Slap
+	- Add 1 copy
+- Revel in Confusion
+	- Change to may.
+- True Chaos
+	- Changed to static +1 damage
+	- Deal damage when shuffle
+- Try That Again
+	- Change to may.
+- Wassup! Rat Doko!
+	- Name changed to Wazzzup!
+- You Wanna Go?
+	- On play damage removed
+	- Damage buff text clarified
+
+### Fauna
+- Blessings of Nature
+	- Changed wording slightly
+- Nature's Regrowth
+	- Changed trigger to be After a Sapling is destroyed
+	- Added discard cost
+	- Discover or play instead of Discover
+- The Council - Nature
+	- Changed trigger to be After a Sapling is destroyed
+- Wrath of Nature
+	- Changed trigger to be After a Sapling is destroyed
+	- Damage buffed and source changed to Ceres Fauna
+
+### Kronii
+- Blessings of Time
+	- Changed to One-Shot
+	- Effect changed, allies discard to play card and heal Kronii
+- Kroniichiwa!
+	- Collect changed to Summon
+- My Own Time
+	- Changed to only damage on PLAY PHASE plays
+- Sadistic Warden
+	- Timing changed to After
+- Time Authority
+	- Changed to Ongoing, Limited
+	- Effect changed to deal fixed damage to villain on plays outside of play phase
+	- Only lasts 1 round now
+- Time Chase
+	- 3 play trigger added to discard returned card
+	- Non threshold damage set to 2
+- Unshakeable Confidence
+	- Added draw if you meet play threshold
+
+### Mumei
+- Blessings of Civilization
+	- Add a hero play
+- Gearing Up
+	- Renamed to A New Start
+	- Rework to collect, discover, discard
+- Oh Hello!
+	- Change discover to summon
+- She Forgor
+	- Reword for clarity
+- Short Attention Span
+	- REMOVED
+- The Council - Civilization
+	- Only 1 fixed psychic damage
+
+### Sana
+Constellations got a wording pass to specify 1 hero target and clarify language
+- Blessings of Space
+	- Effect changed to -1 damage to Sana
+	- Able to redirect character damage to Sana
+- Scorpio
+	- Debuff to destroy up to 3 targets
+- The Council - Space
+	- HP recovery buff changed to +1 melee damage
 
 ## 0.5
 ### Gura

@@ -3,11 +3,12 @@
   "name": "Baelz Deck",
   "blueprint_name": "Council Card New",
   "hint_order_index": 2,
+  "zoom": 0,
   "items":
   [
     {
       "amount": 4,
-      "last_modification_date_unix": 1644173737,
+      "last_modification_date_unix": 1648350745,
       "details":
       [
         {
@@ -35,7 +36,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Each ally may deal 1 target 2 infernal damage."
+            "value": "Each ally may reveal the top card of their deck.\r\nEach ally character may deal 1 target 2 infernal damage."
           }
         },
         {
@@ -59,21 +60,21 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
     },
     {
-      "amount": 3,
-      "last_modification_date_unix": 1644173762,
+      "amount": 4,
+      "last_modification_date_unix": 1648350755,
       "details":
       [
         {
@@ -101,7 +102,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<align=\"left\">Another hero may reveal the top card of their deck. If it is a One-Shot, play it, otherwise, Hakos Baelz deals 1 target 2 infernal damage.</align>"
+            "value": "Another hero may reveal the top card of their deck. If it is a One-Shot, play it, otherwise, they draw the card and Hakos Baelz deals 1 target 2 infernal damage."
           }
         },
         {
@@ -124,21 +125,21 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644173766,
+      "last_modification_date_unix": 1648350770,
       "details":
       [
         {
@@ -166,14 +167,14 @@
           "name": "Card Text",
           "data":
           {
-            "value": "The first time each turn a non-hero target would deal damage, you may reveal the top card of a deck. If it is a target, play it and redirect that damage to that target."
+            "value": "Whenever Hakos Baelz deals damage, you may instead deal up to X targets 1 projectile damage, where X is the original amount of damage."
           }
         },
         {
           "name": "Flavor Text",
           "data":
           {
-            "value": "\"Where you goin'?!\""
+            "value": "\"AIM DOKO?!\""
           }
         },
         {
@@ -188,99 +189,35 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644173769,
-      "details":
-      [
-        {
-          "name": "Flavor Text",
-          "data":
-          {
-            "value": "\"*kettle noises*\""
-          }
-        },
-        {
-          "name": "Card Name",
-          "data":
-          {
-            "value": "CHAOTIC LAUGHTER"
-          }
-        },
-        {
-          "name": "Keywords",
-          "data":
-          {
-            "value": "<color=\"red\">SUDDENLY</color>, ONE-SHOT"
-          }
-        },
-        {
-          "name": "Card Text",
-          "data":
-          {
-            "value": "<align=\"left\">Hakos Baelz deals each target 1 fixed sonic damage.\r\nEach hero character damaged this way draws a card and discards a card.</align>"
-          }
-        },
-        {
-          "name": "Attribution Text",
-          "data":
-          {
-            "value": "- Hakos Baelz, laughing"
-          }
-        },
-        {
-          "name": "Card Art",
-          "data":
-          {
-            "value": "Hakos Baelz/chaoticlaughter.png",
-            "img_fit_mode": "fitwidth"
-          }
-        },
-        {
-          "name": "HP Icon",
-          "data":
-          {
-            "panel_visible": "False"
-          }
-        },
-        {
-          "name": "HP",
-          "data":
-          {
-            "panel_visible": "False"
-          }
-        }
-      ]
-    },
-    {
-      "amount": 3,
-      "last_modification_date_unix": 1644173773,
+      "last_modification_date_unix": 1648350835,
       "details":
       [
         {
           "name": "Attribution Text",
           "data":
           {
-            "value": "- Hakos Baelz"
+            "value": "- Play Dice!"
           }
         },
         {
           "name": "Card Name",
           "data":
           {
-            "value": "CONSTANT CHANGE"
+            "value": "PLAY DICE!"
           }
         },
         {
@@ -294,14 +231,14 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<color=\"red\"><b>END PHASE</b></color>\r\nYou may bury a card in your play area. Discover an Ongoing and draw a card."
+            "value": "<color=\"red\"><b>END PHASE</b></color>\r\nYou may discard a card. If you do, discover an Ongoing and draw a card."
           }
         },
         {
           "name": "Flavor Text",
           "data":
           {
-            "value": "\"Why would I ever be only one thing forever?\""
+            "value": "\"Whatchu doin' bruh, go out and live your life!\""
           }
         },
         {
@@ -316,21 +253,21 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644173776,
+      "last_modification_date_unix": 1648350860,
       "details":
       [
         {
@@ -358,7 +295,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After you play a card, if it did not come from your hand, draw a card."
+            "value": "After you play a card, if it did not come from your hand, draw a card.\r\n<color=\"orange\"><b>PLAY PHASE</b></color>\r\nYou may summon 1 Limited card. If you do, destroy this card."
           }
         },
         {
@@ -381,14 +318,14 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
@@ -445,21 +382,21 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644173783,
+      "last_modification_date_unix": 1648350900,
       "details":
       [
         {
@@ -487,7 +424,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Bury a non-indestructible non-character target in play with 7 HP or fewer. Discover a target from the same deck."
+            "value": "You may bury a non-indestructible non-character target in play with 7 HP or fewer. If you do, discover a target from the same deck.\nHakos Baelz deals 1 target 3 infernal damage."
           }
         },
         {
@@ -508,21 +445,21 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644173787,
+      "last_modification_date_unix": 1648350931,
       "details":
       [
         {
@@ -550,7 +487,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Whenever an ally would play the top card of their deck, they may first draw a card.\r\nAfter you play a One-Shot, you may deal 1 target 2 infernal damage.\n<b>POWER</b>: Discover a One-Shot."
+            "value": "Whenever another hero would play the top card of their deck, they may first draw a card.\r\nAfter you play a One-Shot, Hakos Baelz may deal 1 target 2 infernal damage.\n<b>POWER</b>: Discover a One-Shot."
           }
         },
         {
@@ -572,21 +509,21 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644173791,
+      "last_modification_date_unix": 1648351011,
       "details":
       [
         {
@@ -614,7 +551,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After a revealed card is replaced in a deck, you may shuffle that deck.\r\nThe first time each turn a deck is shuffled, +1 damage dealt by Hakos Baelz until the end of the turn.\r\n<b>POWER</b>: Shuffle a deck. Hakos Baelz deals 1 target 2 infernal damage."
+            "value": "+1 damage dealt by Hakos Baelz.\r\nWhenever a revealed card is replaced in a deck, you may shuffle that deck.\r\nWhenever a deck is shuffled, Hakos Baelz deals 1 target 1 infernal damage.\n<b>POWER</b>: Shuffle a deck. "
           }
         },
         {
@@ -637,21 +574,21 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644173795,
+      "last_modification_date_unix": 1648351024,
       "details":
       [
         {
@@ -679,7 +616,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Bury an Ongoing in play. Discover an Ongoing from the same deck."
+            "value": "You may bury an Ongoing in play. If you do, discover an Ongoing from the same deck."
           }
         },
         {
@@ -701,21 +638,21 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644173799,
+      "last_modification_date_unix": 1648351044,
       "details":
       [
         {
@@ -729,7 +666,7 @@
           "name": "Card Name",
           "data":
           {
-            "value": "WASSUP! RAT DOKO!"
+            "value": "WAZZZUP!"
           }
         },
         {
@@ -750,7 +687,7 @@
           "name": "Flavor Text",
           "data":
           {
-            "value": "\"Wasssssup!\""
+            "value": "\"Wazzzup!\""
           }
         },
         {
@@ -764,21 +701,21 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644173803,
+      "last_modification_date_unix": 1648351056,
       "details":
       [
         {
@@ -806,7 +743,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Play this card next to a non-hero target.\r\nIf that target is destroyed, destroy this card.\r\nAfter this card is played, Hakos Baelz deals 1 target 2 melee damage. \r\n+1 damage dealt to and by that target to and by Hakos Baelz."
+            "value": "Play this card next to a non-hero target.\r\nIf the target next to this card is destroyed, destroy this card.\r\n+1 damage dealt to this target by Hakos Baelz\r\n+1 damage dealt by this target to Hakos Baelz"
           }
         },
         {
@@ -829,21 +766,21 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644173722,
+      "last_modification_date_unix": 1648351118,
       "details":
       [
         {
@@ -894,6 +831,13 @@
           "data":
           {
             "value": "- Hakos Baelz"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "value": "Character/CornerHP"
           }
         }
       ]

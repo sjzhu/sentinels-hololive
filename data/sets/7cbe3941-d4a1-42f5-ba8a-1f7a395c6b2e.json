@@ -3,6 +3,7 @@
   "name": "Ministry CC",
   "blueprint_name": "Villan CC",
   "hint_order_index": 12,
+  "zoom": 0,
   "items":
   [
     {
@@ -21,7 +22,7 @@
           "name": "Character Art",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
@@ -66,14 +67,14 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Text",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
@@ -95,7 +96,7 @@
           "name": "Back Character Art",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {

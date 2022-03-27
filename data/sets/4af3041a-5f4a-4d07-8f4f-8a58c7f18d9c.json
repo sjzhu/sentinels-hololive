@@ -3,6 +3,7 @@
   "name": "Ministry Deck",
   "blueprint_name": "Villain Card",
   "hint_order_index": 13,
+  "zoom": 0,
   "items":
   [
     {
@@ -314,14 +315,14 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
@@ -378,14 +379,14 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
@@ -450,14 +451,14 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
@@ -509,14 +510,14 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
@@ -573,14 +574,14 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
@@ -644,14 +645,14 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
@@ -701,14 +702,14 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
@@ -766,14 +767,14 @@
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
@@ -830,14 +831,14 @@
           "name": "HP",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
