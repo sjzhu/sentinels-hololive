@@ -54,8 +54,8 @@
           "name": "Flavor Text",
           "data":
           {
-            "layout_position": "31.28215, 6.086443",
-            "layout_size": "54.53983, 5.721086",
+            "layout_position": "31.28215, 6.313615",
+            "layout_size": "54.53983, 5.266742",
             "panel_type": "text",
             "value": "Text",
             "text_size": "2",
@@ -66,8 +66,8 @@
           "name": "Keywords",
           "data":
           {
-            "layout_position": "23.68952, 37.32831",
-            "layout_size": "37.28762, 3.537794",
+            "layout_position": "23.6971, 37.32831",
+            "layout_size": "36.68183, 3.537794",
             "panel_type": "text",
             "value": "KEYWORDS",
             "text_size": "2.5",

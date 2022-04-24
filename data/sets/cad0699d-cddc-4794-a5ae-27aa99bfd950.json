@@ -7,8 +7,8 @@
   "items":
   [
     {
-      "amount": 2,
-      "last_modification_date_unix": 1644294619,
+      "amount": 4,
+      "last_modification_date_unix": 1650591829,
       "details":
       [
         {
@@ -22,7 +22,7 @@
           "name": "Card Name",
           "data":
           {
-            "value": "GEARING UP"
+            "value": "A NEW START"
           }
         },
         {
@@ -36,7 +36,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Draw 3 cards.\r\nSummon 1 Item.\r\nDiscard 2 cards."
+            "value": "Collect 1 card.\nDiscard 1 card.\nDiscover 1 Item."
           }
         },
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1644174202,
       "details":
       [
@@ -201,7 +201,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644174209,
+      "last_modification_date_unix": 1650591865,
       "details":
       [
         {
@@ -230,7 +230,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Each ally may discard a card. Each ally that does collects 1 card."
+            "value": "Each ally may discard a card. \nEach ally that discards a card this way may collect 1 card.\nOne hero may play a card."
           }
         },
         {
@@ -266,7 +266,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174213,
+      "last_modification_date_unix": 1650592107,
       "details":
       [
         {
@@ -287,7 +287,7 @@
           "name": "Keywords",
           "data":
           {
-            "value": "Item"
+            "value": "ITEM"
           }
         },
         {
@@ -330,14 +330,14 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174229,
+      "last_modification_date_unix": 1650593214,
       "details":
       [
         {
           "name": "Attribution Text",
           "data":
           {
-            "value": "- Ouro Kronii"
+            "value": "- Nanashi Mumei bio"
           }
         },
         {
@@ -366,7 +366,7 @@
           "name": "Flavor Text",
           "data":
           {
-            "value": "\"She had many names, Guardian, Goddess, Athena. She forgot them all, now we just call her Mumei.\""
+            "value": "\"A living embodiment of mankind's efforts.\""
           }
         },
         {
@@ -523,7 +523,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644294627,
+      "last_modification_date_unix": 1650591905,
       "details":
       [
         {
@@ -551,7 +551,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Draw 3 cards and discard a card.\r\nYou may play a card or discover an Item."
+            "value": "Draw 3 cards and discard a card.\r\nYou may play a card or summon 1 Item."
           }
         },
         {
@@ -714,79 +714,15 @@
       ]
     },
     {
-      "amount": 3,
-      "last_modification_date_unix": 1644174259,
-      "details":
-      [
-        {
-          "name": "Card Text",
-          "data":
-          {
-            "value": "Destroy a card in your play area.\nDraw a card.\nPlay a card."
-          }
-        },
-        {
-          "name": "Card Name",
-          "data":
-          {
-            "value": "SHORT ATTENTION SPAN"
-          }
-        },
-        {
-          "name": "Keywords",
-          "data":
-          {
-            "value": "<color=\"red\">SUDDENLY</color>, ONE-SHOT"
-          }
-        },
-        {
-          "name": "Flavor Text",
-          "data":
-          {
-            "value": "\"I need to... Oh, look at that!\""
-          }
-        },
-        {
-          "name": "Attribution Text",
-          "data":
-          {
-            "value": "- Nanashi Mumei"
-          }
-        },
-        {
-          "name": "Card Art",
-          "data":
-          {
-            "value": "Mumei/shortattentionspan.png",
-            "img_fit_mode": "stretch"
-          }
-        },
-        {
-          "name": "HP Icon",
-          "data":
-          {
-            "visible": "False"
-          }
-        },
-        {
-          "name": "HP",
-          "data":
-          {
-            "visible": "False"
-          }
-        }
-      ]
-    },
-    {
       "amount": 2,
-      "last_modification_date_unix": 1644174262,
+      "last_modification_date_unix": 1650835243,
       "details":
       [
         {
           "name": "Card Text",
           "data":
           {
-            "value": "The first time each turn a hero discards a card, they may draw 1 card.\r\r\n<b>POWER</b>: You and an ally may each discard 1 card and draw 1 card.\n<b><color=\"red\">END PHASE</b></color>\nNanashi Mumei may deal herself 2 fixed psychic damage, if she does, salvage a One-Shot."
+            "value": "The first time each turn any hero discards a card, they may draw 1 card.\r\r\n<b>POWER</b>: You and an ally may each discard 1 card and draw 1 card.\n<b><color=\"red\">END PHASE</b></color>\nYou may salvage a One-Shot. If you do, Nanashi Mumei deals herself 1 fixed psychic damage."
           }
         },
         {
@@ -908,7 +844,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644174271,
+      "last_modification_date_unix": 1650593143,
       "details":
       [
         {
@@ -943,7 +879,7 @@
           "name": "Flavor Text",
           "data":
           {
-            "value": "\"I'm not responsible for civilization. I just guard it.\""
+            "value": "\"Humanity is temporary. You are all giong to die one day!"
           }
         },
         {
@@ -972,7 +908,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174342,
+      "last_modification_date_unix": 1650835236,
       "details":
       [
         {
@@ -986,7 +922,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "The first time each turn a hero discards a card, they may put that card under this card.\r\nIf this card would be destroyed, Nanashi Mumei may deal herself 3 fixed psychic damage. If she does, return this card to your hand.\n<color=\"red\"><b>END PHASE</b></color>\r\nNanashi Mumei may deal this card 2 fixed psychic damage. If she does, play 1 card from under this card."
+            "value": "The first time each turn any hero discards a card, they may put that card under this card.\r\nIf this card would be destroyed, you may return this card to your hand. If you do, discard a card.\n<color=\"red\"><b>END PHASE</b></color>\r\nYou may play a card from under this card. If you do, Nanashi Mumei deals this card 2 fixed psychic damage."
           }
         },
         {

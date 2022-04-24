@@ -7,7 +7,7 @@
   "items":
   [
     {
-      "amount": 1,
+      "amount": 4,
       "last_modification_date_unix": 1644773259,
       "details":
       [
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1644784848,
       "details":
       [
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 3,
       "last_modification_date_unix": 1644784873,
       "details":
       [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1644784924,
       "details":
       [
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 3,
       "last_modification_date_unix": 1644773774,
       "details":
       [
@@ -323,7 +323,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1644774247,
       "details":
       [
@@ -389,7 +389,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1644784954,
       "details":
       [
@@ -453,7 +453,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1644774393,
       "details":
       [
@@ -517,7 +517,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 3,
       "last_modification_date_unix": 1644774465,
       "details":
       [
@@ -581,7 +581,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 3,
       "last_modification_date_unix": 1644774510,
       "details":
       [
@@ -645,7 +645,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 3,
       "last_modification_date_unix": 1644785049,
       "details":
       [
@@ -709,7 +709,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 4,
       "last_modification_date_unix": 1644774613,
       "details":
       [
@@ -774,7 +774,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1644774671,
       "details":
       [
@@ -838,8 +838,8 @@
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1644774749,
+      "amount": 3,
+      "last_modification_date_unix": 1650682622,
       "details":
       [
         {
@@ -891,76 +891,18 @@
           {
             "value": "- Gawr Gura"
           }
-        }
-      ]
-    },
-    {
-      "amount": 1,
-      "last_modification_date_unix": 1644774892,
-      "details":
-      [
-        {
-          "name": "Card Art",
-          "data":
-          {
-            "value": "Gura/shrimp.png",
-            "img_fit_mode": "fitheight"
-          }
-        },
-        {
-          "name": "Card Name",
-          "data":
-          {
-            "value": "SHRIMPS"
-          }
-        },
-        {
-          "name": "HP Icon",
-          "data":
-          {
-            "visible": "True"
-          }
-        },
-        {
-          "name": "HP",
-          "data":
-          {
-            "visible": "True",
-            "value": "2"
-          }
         },
         {
           "name": "Keywords",
           "data":
           {
-            "value": "CHUMBUD"
-          }
-        },
-        {
-          "name": "Card Text",
-          "data":
-          {
-            "value": "<color=\"blue\"><b>DRAW PHASE</b></color>\nYou may draw an additional card this phase."
-          }
-        },
-        {
-          "name": "Flavor Text",
-          "data":
-          {
-            "value": "\"Simp? You mean shrimp?\""
-          }
-        },
-        {
-          "name": "Attribution Text",
-          "data":
-          {
-            "value": "- Gawr Gura"
+            "value": "ONE-SHOT"
           }
         }
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1644775034,
       "details":
       [

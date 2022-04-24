@@ -8,7 +8,7 @@
   [
     {
       "amount": 3,
-      "last_modification_date_unix": 1644295097,
+      "last_modification_date_unix": 1650836351,
       "details":
       [
         {
@@ -43,7 +43,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After Mori Calliope takes psychic damage, she may regain 2 HP. If she does, destroy this card.\r\n<b>POWER</b>: Activate a RAP effect."
+            "value": "After Mori Calliope takes psychic damage, she may regain 2 HP. If she does, destroy this card.\r\n<b>POWER</b>: Draw a card. Activate a RAP effect."
           }
         },
         {
@@ -203,7 +203,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644256225,
+      "last_modification_date_unix": 1650836292,
       "details":
       [
         {
@@ -245,7 +245,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Whenever Mori Calliope destroys a target or an ongoing card, you may activate a REAP effect."
+            "value": "Whenever Mori Calliope destroys a target or an Ongoing, you may activate a REAP effect."
           }
         },
         {
@@ -591,7 +591,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644256307,
+      "last_modification_date_unix": 1650836501,
       "details":
       [
         {
@@ -641,7 +641,7 @@
           "name": "Flavor Text",
           "data":
           {
-            "value": "Korosu no koto ga TANOSHII\nMurder is so fucking kawaii!"
+            "value": "Korosu no koto ga TANOSHII\nMurder is so fxxking kawaii!"
           }
         },
         {
@@ -849,7 +849,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644256364,
+      "last_modification_date_unix": 1650836637,
       "details":
       [
         {
@@ -885,7 +885,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Discover a Flow.\r\nActivate a RAP effect. Mori Calliope deals herself 1 fixed psychic damage."
+            "value": "Draw a card.\nPlay a Flow.\nYou may activate a RAP effect. If you do, Mori Calliope deals herself 2 fixed psychic damage."
           }
         },
         {
@@ -915,7 +915,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644256375,
+      "last_modification_date_unix": 1650836570,
       "details":
       [
         {
@@ -957,7 +957,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Activate a RAP effect.\r\nMori Calliope may deal herself 2 fixed psychic damage. \r\nIf she does, activate another RAP effect."
+            "value": "Discover a Flow.\nActivate a RAP effect. Mori Calliope deals herself 1 fixed psychic damage."
           }
         },
         {

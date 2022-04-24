@@ -138,14 +138,14 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1648350458,
+      "last_modification_date_unix": 1650556885,
       "details":
       [
         {
           "name": "Card Text",
           "data":
           {
-            "value": "Draw 1 card.\nSummon 1 Limited card."
+            "value": "Draw 1 card.\nCollect 1 Limited card.Play 1 card."
           }
         },
         {

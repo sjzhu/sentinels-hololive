@@ -8,7 +8,7 @@
   [
     {
       "amount": 4,
-      "last_modification_date_unix": 1644294926,
+      "last_modification_date_unix": 1650592486,
       "details":
       [
         {
@@ -36,7 +36,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After this card is played, your allies each regain 1 HP, and you may discover a Sapling.\nIf a hero character would be dealt damage, they may redirect that damage to a Sapling instead.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nDestroy this card."
+            "value": "After this card is played, your allies each regain 1 HP, and you may discover a Sapling.\nDamage dealt to Hero characters may be redirected to Sapling targets.\n<color=\"green\"><b>START PHASE</b></color>\r\nDestroy this card."
           }
         },
         {
@@ -72,7 +72,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644250116,
+      "last_modification_date_unix": 1650835953,
       "details":
       [
         {
@@ -100,7 +100,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Destroy an environment card.\r\nYou may salvage or play a Sapling"
+            "value": "Draw a card.\nYou may discard or destroy a Sapling. If you do, you may summon or play an Ongoing."
           }
         },
         {
@@ -136,7 +136,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644250119,
+      "last_modification_date_unix": 1650835965,
       "details":
       [
         {
@@ -164,7 +164,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "You may destroy a Sapling.\r\nIf you do, destroy an Ongoing and salvage a card."
+            "value": "You may discard or destroy a Sapling.\r\nIf you do, destroy an Ongoing and salvage a card."
           }
         },
         {
@@ -200,7 +200,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644294947,
+      "last_modification_date_unix": 1650835974,
       "details":
       [
         {
@@ -228,7 +228,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After this card is played, you may salvage or play a Sapling.\n+1 damage dealt by Saplings\r"
+            "value": "After this card is played, you may salvage or play a Sapling.\n+1 damage dealt by Saplings."
           }
         },
         {
@@ -264,7 +264,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644250127,
+      "last_modification_date_unix": 1650592566,
       "details":
       [
         {
@@ -292,7 +292,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<color=\"green\"><b>START PHASE</b></color>\r\nEach hero may discard a card. X targets regain 2 HP, where X is the number of cards discarded this way.\r\n<color=\"red\"><b>END PHASE</b></color>\r\nCeres Fauna may deal herself up to 2 fixed psychic damage. Salvage a number of Saplings equal to the damage taken this way."
+            "value": "<color=\"green\"><b>START PHASE</b></color>\r\nEach hero may discard a card. X targets regain 2 HP, where X is the number of cards discarded this way.\r\n<color=\"red\"><b>END PHASE</b></color>\r\nCeres Fauna may deal herself up to 2 fixed psychic damage. Salvage a number of cards equal to the damage taken this way."
           }
         },
         {
@@ -327,7 +327,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644250130,
+      "last_modification_date_unix": 1650836140,
       "details":
       [
         {
@@ -355,7 +355,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Draw 1 card.\r\nEither discover an Ongoing or shuffle your trash into your deck."
+            "value": "Draw 1 card.\r\nYou may shuffle any number of cards from your trash into your deck.Discover 1 Ongoing."
           }
         },
         {
@@ -457,7 +457,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644294984,
+      "last_modification_date_unix": 1650592623,
       "details":
       [
         {
@@ -485,7 +485,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "The first time each turn a non-Villain target is destroyed, you may discover a Sapling."
+            "value": "After a Sapling is destroyed, you may discard a card to discover or play a Sapling."
           }
         },
         {
@@ -521,7 +521,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644294993,
+      "last_modification_date_unix": 1650836196,
       "details":
       [
         {
@@ -549,7 +549,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Bury a villain target with 5 or fewer HP.\r\nDiscover a Sapling.\r\nCeres Fauna deals that Sapling 1 fixed infernal damage."
+            "value": "Bury a villain target with 5 or fewer HP.\r\nDiscover or play a Sapling.\r\nCeres Fauna deals that Sapling 1 fixed infernal damage."
           }
         },
         {
@@ -585,7 +585,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644250153,
+      "last_modification_date_unix": 1650592655,
       "details":
       [
         {
@@ -613,7 +613,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "-1 damage dealt by environment targets to hero targets.\r\nThe first time each turn a non-villain target is destroyed, you may draw a card.\r\n<b>POWER</b>: Choose a hero target with 3 or fewer HP. That target regains 3 HP."
+            "value": "-1 damage dealt by environment targets to hero targets.\r\nAfter a Sapling is destroyed, you may draw a card.\n<b>POWER</b>: Choose a hero target with 3 or fewer HP. That target regains 3 HP."
           }
         },
         {
@@ -649,7 +649,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644295038,
+      "last_modification_date_unix": 1650592673,
       "details":
       [
         {
@@ -677,7 +677,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "The first time each turn a non-Villain target is destroyed, each Sapling may deal 1 Villain target 2 fixed melee damage."
+            "value": "After a Sapling is destroyed, Ceres Fauna may deal 1 target 3 infernal damage."
           }
         },
         {

@@ -199,7 +199,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644174426,
+      "last_modification_date_unix": 1650592149,
       "details":
       [
         {
@@ -227,7 +227,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "-1 damage dealt to ally characters.\nEach ally may draw a card.\n<color=\"green\"><b>START PHASE</b></color>\r\nDestroy this card."
+            "value": "-1 damage dealt to Tsukumo Sana.You may redirect damage dealt to Hero characters to Tsukumo Sana.\n<color=\"green\"><b>START PHASE</b></color>\r\nDestroy this card."
           }
         },
         {
@@ -519,14 +519,14 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174446,
+      "last_modification_date_unix": 1650835712,
       "details":
       [
         {
           "name": "Attribution Text",
           "data":
           {
-            "value": "- Tsukumo Sana"
+            "value": "-Tsukumo Sana, Smol Adventures"
           }
         },
         {
@@ -554,7 +554,7 @@
           "name": "Flavor Text",
           "data":
           {
-            "value": "\"To give you an idea of my true size, my boobas are the size of Jupiter, each.\""
+            "value": "\"Sana is eternal. Sana is an all present constant being that can never truly be lost.\""
           }
         },
         {
@@ -646,14 +646,14 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174456,
+      "last_modification_date_unix": 1650835499,
       "details":
       [
         {
           "name": "Card Text",
           "data":
           {
-            "value": "After Tsukumo Sana is dealt psychic damage, draw a card.\r\n<b>POWER</b>: You may discard a card. If you do, you may discover an Ongoing."
+            "value": "<b>POWER</b>: You may discover 1 Ongoing. If you do, discard a card or destroy a Constellation."
           }
         },
         {
@@ -967,7 +967,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644174539,
+      "last_modification_date_unix": 1650592299,
       "details":
       [
         {
@@ -1015,6 +1015,13 @@
         },
         {
           "name": "HP Icon",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "HP",
           "data":
           {
             "visible": "False"
@@ -1281,7 +1288,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174574,
+      "last_modification_date_unix": 1650592328,
       "details":
       [
         {
@@ -1309,7 +1316,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<align=\"left\">+1 to HP recovery by hero targets.\r\nThe first time each turn damage is redirected from a hero target, that hero target gains 1 HP.\r\n<b>POWER</b>: Choose a hero target, redirect the next damage dealt to that target to Tsukumo Sana.</align>"
+            "value": "<align=\"left\">+1 melee damage dealt by Tsukumo Sana.\r\nThe first time each turn damage is redirected from a hero target, that hero target gains 1 HP.\r\n<b>POWER</b>: Choose a hero target, redirect the next damage dealt to that target to Tsukumo Sana.</align>"
           }
         },
         {
@@ -1345,7 +1352,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174577,
+      "last_modification_date_unix": 1650835741,
       "details":
       [
         {
@@ -1374,7 +1381,7 @@
           "name": "Flavor Text",
           "data":
           {
-            "value": "\"There will be no void once I grow over everything!\""
+            "value": "\"You all are just so SMALL!\""
           }
         },
         {
@@ -1410,7 +1417,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174581,
+      "last_modification_date_unix": 1650835570,
       "details":
       [
         {
@@ -1454,6 +1461,20 @@
           "data":
           {
             "visible": "False"
+          }
+        },
+        {
+          "name": "Flavor Text",
+          "data":
+          {
+            "value": "The pure Virgo, diligent and modest, but cold and critic."
+          }
+        },
+        {
+          "name": "Attribution Text",
+          "data":
+          {
+            "value": "Astrology"
           }
         }
       ]
@@ -1574,7 +1595,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174762,
+      "last_modification_date_unix": 1650592394,
       "details":
       [
         {
@@ -1596,7 +1617,7 @@
           "name": "HP",
           "data":
           {
-            "value": "5"
+            "value": "6"
           }
         },
         {

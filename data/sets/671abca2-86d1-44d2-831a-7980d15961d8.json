@@ -7,7 +7,7 @@
   "items":
   [
     {
-      "amount": 1,
+      "amount": 4,
       "last_modification_date_unix": 1644535676,
       "details":
       [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 3,
       "last_modification_date_unix": 1644535781,
       "details":
       [
@@ -129,8 +129,8 @@
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1644536028,
+      "amount": 2,
+      "last_modification_date_unix": 1650837179,
       "details":
       [
         {
@@ -182,11 +182,18 @@
           {
             "value": "\"I feel naked without my hat...\""
           }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "ITEM, LIMITED"
+          }
         }
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1644536163,
       "details":
       [
@@ -250,7 +257,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 3,
       "last_modification_date_unix": 1644536228,
       "details":
       [
@@ -315,7 +322,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 4,
       "last_modification_date_unix": 1644536303,
       "details":
       [
@@ -372,7 +379,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 4,
       "last_modification_date_unix": 1644536353,
       "details":
       [
@@ -435,8 +442,8 @@
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1644536419,
+      "amount": 3,
+      "last_modification_date_unix": 1650837242,
       "details":
       [
         {
@@ -486,7 +493,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After this card is played, Takanashi Kiara deals 1 target 2 fire damage.\r\n-1 damage to ally targets.\r\n+1 damage dealt by Takanashi Kiara.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nDestroy this card."
+            "value": "After this card is played, draw a card.\n-1 damage to ally targets.\r\n+1 damage dealt by Takanashi Kiara.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nDestroy this card."
           }
         },
         {
@@ -629,8 +636,8 @@
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1644536734,
+      "amount": 2,
+      "last_modification_date_unix": 1650837305,
       "details":
       [
         {
@@ -673,7 +680,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "When Takanashi Kiara would be reduced to 0 HP, prevent that damage and regain 5 HP instead.\r\nIf she does, return all other cards in her play area to their owners' hands, then play up to 2 cards and destroy this card."
+            "value": "When Takanashi Kiara would be reduced to 0 HP, prevent that damage and regain 5 HP instead.\r\nIf she does, return all hero cards in her play area to their owners' hands, destroy all villain cards in her play area, then play up to 2 cards and destroy this card."
           }
         },
         {
@@ -693,7 +700,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 4,
       "last_modification_date_unix": 1644536803,
       "details":
       [
@@ -758,7 +765,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 3,
       "last_modification_date_unix": 1644536862,
       "details":
       [
@@ -822,8 +829,8 @@
       ]
     },
     {
-      "amount": 1,
-      "last_modification_date_unix": 1644536951,
+      "amount": 2,
+      "last_modification_date_unix": 1650837352,
       "details":
       [
         {
@@ -866,7 +873,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After you play a card, Takanashi Kiara may deal each non-hero target 1 fire damage.\r\n<b>POWER</b>: Takanashi Kiara deals 1 target 3 irreducible fire damage. Destroy this card.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nTakanashi Kiara deals herself 4 fixed psychic damage.\r\n<color=\"orange\"><b>PLAY PHASE</b></color>\r\nYou may play an additional card this phase.",
+            "value": "After you play a card, Takanashi Kiara may deal each non-hero target 1 fire damage.\r\n<b>POWER</b>: Takanashi Kiara deals 1 target 3 irreducible fire damage. Destroy this card.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nTakanashi Kiara deals herself 3 fixed psychic damage.\r\n<color=\"orange\"><b>PLAY PHASE</b></color>\r\nYou may play an additional card this phase.",
             "text_size": "2.3"
           }
         },
@@ -887,7 +894,7 @@
       ]
     },
     {
-      "amount": 1,
+      "amount": 2,
       "last_modification_date_unix": 1644550006,
       "details":
       [
