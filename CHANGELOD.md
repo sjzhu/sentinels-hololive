@@ -1,7 +1,101 @@
 # Changelog
-## UNRELEASED
-### The Ministry
-Added! These boys are crazy. Kick em out before they cause irreparable damage to this timeline.
+## 0.7 (2022/04/25)
+
+More changes for consistent play/balance
+
+## Ame
+- Technical Aptitude
+  - Salvage nerf to avoid infinitely freezing someone with AZ
+- Time Travel Pocket Watch
+  - Similar to above
+
+## Baelz
+- Blessings of Chaos
+  - Add discard effect to filter top cards better
+- Chaotic Battlefield
+  - Change trigger to only be infernal damage to avoid infinite damage combo with damage buff
+- Play Dice!
+  - Change to One-Shot
+  - Add a copy
+  - Effect changed to reveal/draw -> play
+- Try That Again
+  - Damage buff added (from True Chaos)
+  - Renamed to Toxictaro
+  - Effect changed to retributive Ongoing destruction
+  - Bae hates Mario Kart (among other things)
+- True Chaos
+  - Damage buff moved (to Toxictaro)
+  - Power changed to reveal top card of a deck (shuffle will happen anyway)
+- You Wanna Go?
+  - Removed limited restriction
+  
+## Calli
+- Cheap Wine
+  - Add card draw effect
+  - Lowered to 2 cards
+- Guh!
+  - Card draw buffed
+- Live Again
+  - Renamed to UnAlive
+  - Rez effect changed to Flow filtering
+- Reaper's Mic
+  - Added.
+  - More RAP effect activation (might be too much)
+- Self-Depreciating RAP
+  - Increased to 4 cards
+  - Effect changed to old Spitting Fire (discover flow -> RAP)
+- Spitting Fire
+  - Removed
+- Workaholic Business Lady
+  - Change to draw -> play flow
+  - Increased to 4 cards
+  
+## Fauna
+- Blessings of Nature
+  - Reword redirection to use less text (should still work the same)
+- Circle of Life
+  - Rework to destroy sapling to summon/play ongoing
+- Konfauna!
+  - Add optional trash shuffle
+- Taken By Nature
+  - Discover -> discover/play
+  
+## Gura
+- A
+  - Add card play
+- Flavor text changes
+
+## Ina
+- Flavor text changes
+
+## IRyS
+- Descend
+  - Add song discovery
+- The Fall of Hope
+  - Add song discovery
+
+## Kiara
+- No changes.
+
+## Kronii
+- Gwak!!
+  - Changed to discard for damage or self damage and draw.
+- Kroniichiwa
+  - Summon changed to Collect -> Play
+
+## Mumei
+- Friend
+  - Clarified trigger to be any hero
+  - Swapped END PHASE timings so you can get 3 uses out of Friend
+- The Council - Civilization
+  - Clarified trigger to be any hero
+  
+## Sana
+- Cosmic Presence
+  - Sana is eternal
+- Knowledge of the Ancient Ones
+  - Renamed to Ancient Knowledge
+  - Changed to discover ongoing -> discard/destroy constellation
 
 ## 0.6
 
