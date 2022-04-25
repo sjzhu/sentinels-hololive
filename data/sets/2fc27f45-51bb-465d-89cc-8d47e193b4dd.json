@@ -202,8 +202,8 @@
       ]
     },
     {
-      "amount": 3,
-      "last_modification_date_unix": 1650835140,
+      "amount": 4,
+      "last_modification_date_unix": 1650904577,
       "details":
       [
         {
@@ -224,14 +224,14 @@
           "name": "Keywords",
           "data":
           {
-            "value": "ONGOING, LIMITED"
+            "value": "ONE-SHOT"
           }
         },
         {
           "name": "Card Text",
           "data":
           {
-            "value": "<color=\"orange\"><b>PLAY PHASE</b></color>\r\nIf you would play a card from your hand this phase, you may play the top card of your deck instead. If you do, Hakos Baelz deals 1 target 2 infernal damage."
+            "value": "Reveal the top card of your deck. Draw it or replace it.\nPlay the top card of your deck."
           }
         },
         {
@@ -523,7 +523,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650592865,
+      "last_modification_date_unix": 1650902060,
       "details":
       [
         {
@@ -551,7 +551,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "+1 damage dealt by Hakos Baelz.\r\nWhenever a revealed card is replaced in a deck, you may shuffle that deck.\r\nWhenever a deck is shuffled, Hakos Baelz deals 1 target 1 infernal damage.\n<b>POWER</b>: Reveal the top card of a deck. "
+            "value": "Whenever a revealed card is replaced in a deck, you may shuffle that deck.\r\nWhenever a deck is shuffled, Hakos Baelz deals 1 target 1 infernal damage.\n<b>POWER</b>: Reveal the top card of a deck. "
           }
         },
         {
@@ -587,8 +587,8 @@
       ]
     },
     {
-      "amount": 4,
-      "last_modification_date_unix": 1648351024,
+      "amount": 3,
+      "last_modification_date_unix": 1650902159,
       "details":
       [
         {
@@ -602,28 +602,28 @@
           "name": "Card Name",
           "data":
           {
-            "value": "TRY THAT AGAIN"
+            "value": "TOXICTARO"
           }
         },
         {
           "name": "Keywords",
           "data":
           {
-            "value": "ONE-SHOT"
+            "value": "ONGOING, LIMITED"
           }
         },
         {
           "name": "Card Text",
           "data":
           {
-            "value": "You may bury an Ongoing in play. If you do, discover an Ongoing from the same deck."
+            "value": "+1 damage dealt by Hakos Baelz\nAfter one of your cards leaves play, you may destroy 1 Ongoing.\n<b>POWER:</b> Destroy 1 Ongoing. Draw a card. Destroy this card."
           }
         },
         {
           "name": "Flavor Text",
           "data":
           {
-            "value": "\"That one doesn't count!\""
+            "value": "\"I HATE THIS GAMMEEEEE!!!\""
           }
         },
         {

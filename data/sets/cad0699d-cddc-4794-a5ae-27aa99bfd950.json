@@ -844,7 +844,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650593143,
+      "last_modification_date_unix": 1650917270,
       "details":
       [
         {
@@ -879,7 +879,7 @@
           "name": "Flavor Text",
           "data":
           {
-            "value": "\"Humanity is temporary. You are all giong to die one day!"
+            "value": "\"Humanity is temporary. You are all going to die one day!"
           }
         },
         {

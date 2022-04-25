@@ -1,7 +1,7 @@
 {
   "json_version": 3,
   "name": "IRyS Deck",
-  "blueprint_name": "Council Card New",
+  "blueprint_name": "IRyS Card",
   "hint_order_index": 3,
   "zoom": 0,
   "items":
@@ -328,7 +328,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644174042,
+      "last_modification_date_unix": 1650899912,
       "details":
       [
         {
@@ -350,7 +350,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Draw 1 card.\r\nActivate a HOPE effect in play. \r\nOne ally may regain 2 HP."
+            "value": "Draw 1 card or discover a Song.\r\nActivate a HOPE effect in play. \r\nOne ally may regain 2 HP."
           }
         },
         {
@@ -841,7 +841,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644174071,
+      "last_modification_date_unix": 1650899920,
       "details":
       [
         {
@@ -862,7 +862,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Draw 1 card.\r\nActivate a DESPAIR effect in play.\r\nOne ally may use a power."
+            "value": "Draw 1 card or discover a Song.\r\nActivate a DESPAIR effect in play.\r\nOne ally may use a power."
           }
         },
         {

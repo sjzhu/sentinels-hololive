@@ -3,8 +3,8 @@
   "export_image_format": "png",
   "image_height_px": "1024",
   "export_scale_override": "1",
-  "export_images": "False",
-  "export_pdf": "True",
+  "export_images": "True",
+  "export_pdf": "False",
   "export_tts": "False",
   "export_tts_grid_size": "10, 5",
   "export_tts_max_size": "4096",
@@ -19,8 +19,9 @@
   "export_pdf_new_file_per_side": "False",
   "export_pdf_page_margin": "0",
   "export_pdf_cut_lines_separation": "0",
-  "export_pdf_cut_lines_length": "5",
+  "export_pdf_cut_lines_length": "10",
   "export_pdf_cut_lines_thickness": "1",
   "export_pdf_global_scale": "1",
-  "export_pdf_cut_lines": "True"
+  "export_pdf_cut_lines": "True",
+  "export_pdf_cut_lines_border": "False"
 }

@@ -193,7 +193,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644770770,
+      "last_modification_date_unix": 1650904717,
       "details":
       [
         {
@@ -243,7 +243,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Draw 3 cards.\r\nPlay an Item or an Ongoing."
+            "value": "Draw 3 cards.\r\nPlay a non-One-Shot card."
           }
         },
         {
@@ -385,7 +385,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644771119,
+      "last_modification_date_unix": 1650900554,
       "details":
       [
         {
@@ -421,7 +421,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<color=\"green\"><b>START PHASE</b></color>\r\nDraw a card or play a card.\r\n<color=\"red\"><b>END PHASE</b></color>\r\nSmol Ame deals Amelia Watson 2 fixed psychic damage."
+            "value": "<color=\"green\"><b>START PHASE</b></color>\r\nDraw a card or play a card.\r\n<color=\"red\"><b>END PHASE</b></color>\r\nThis card deals Amelia Watson 2 fixed psychic damage."
           }
         },
         {
@@ -507,7 +507,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644771281,
+      "last_modification_date_unix": 1650914577,
       "details":
       [
         {
@@ -549,7 +549,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<align=\"left\">Play this card in an ally's play area.\r\nAfter a card in this play area is destroyed, that ally may destroy this card to draw and play a card.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nThat ally may discard 1 card. If they do, they may salvage 1 card.</align>"
+            "value": "<align=\"left\">Play this card in an ally's play area.\r\nAfter a card in this play area is destroyed, that ally may salvage 1 card and play 1 card. If they do, destroy this card.\n<color=\"green\"><b>START PHASE</b></color>\r\nThat ally may salvage 1 card. If they do, destroy this card.</align>"
           }
         },
         {
@@ -570,7 +570,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644784800,
+      "last_modification_date_unix": 1650914585,
       "details":
       [
         {
@@ -621,7 +621,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>POWER</b>: One hero may salvage a card. If that hero was an ally, they may play a card.\n<color=\"red\"><b>END PHASE</b></color>\r\nYou may trigger the START PHASE or END PHASE of another card in play. If you do, destroy this card."
+            "value": "<b>POWER</b>: One hero may salvage a card. If that hero was an ally, you may play a card.\n<color=\"red\"><b>END PHASE</b></color>\r\nYou may trigger the START PHASE or END PHASE of another card in play. If you do, destroy this card."
           }
         },
         {
@@ -826,7 +826,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650682608,
+      "last_modification_date_unix": 1650904786,
       "details":
       [
         {
@@ -842,7 +842,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Play this next to a hero character.\r\n+1 damage dealt by that hero character.\r\n<b>POWER</b>: Destroy this card.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nAmelia Watson deals that character 2 fixed toxic damage."
+            "value": "Play this next to a hero character.\r\n+1 damage dealt by that hero character.\r\nThat hero character may use the power on this card.\n<b>POWER</b>: That hero character deals 1 target 3 projectile damage. Destroy this card.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nAmelia Watson deals that character 2 fixed toxic damage."
           }
         },
         {

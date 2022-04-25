@@ -646,7 +646,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650835499,
+      "last_modification_date_unix": 1650915719,
       "details":
       [
         {
@@ -660,8 +660,8 @@
           "name": "Card Name",
           "data":
           {
-            "value": "KNOWLEDGE OF THE ANCIENT ONES",
-            "text_size": "3.5"
+            "value": "ANCIENT KNOWLEDGE",
+            "text_size": "5"
           }
         },
         {

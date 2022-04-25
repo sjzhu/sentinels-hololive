@@ -74,7 +74,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644294641,
+      "last_modification_date_unix": 1650900314,
       "details":
       [
         {
@@ -95,7 +95,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Ouro Kronii deals each target 1 fixed sonic damage.\nDiscard 1 card.\nShuffle your trash into your deck."
+            "value": "You may discard any number of cards. For each card discarded this way, Ouro Kronii deals 1 target 1 fixed sonic damage. For each card remaining in your hand, Ouro Kronii deals herself 1 fixed psychic damage. \nShuffle your trash into your deck.\nDraw until you have at least 4 cards in your hand."
           }
         },
         {
@@ -138,7 +138,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650556885,
+      "last_modification_date_unix": 1650900340,
       "details":
       [
         {

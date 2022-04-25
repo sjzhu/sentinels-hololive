@@ -7,7 +7,7 @@
   "items":
   [
     {
-      "amount": 3,
+      "amount": 2,
       "last_modification_date_unix": 1650836351,
       "details":
       [
@@ -138,7 +138,7 @@
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644256215,
+      "last_modification_date_unix": 1650898432,
       "details":
       [
         {
@@ -180,7 +180,7 @@
           "name": "Flavor Text",
           "data":
           {
-            "value": "Shut the lid tight, it's complicated\nCould ya not look inside, its complicated",
+            "value": "Shut the lid tight, it's complicated\nCould ya not look inside, it's complicated",
             "text_size": "2"
           }
         },
@@ -526,14 +526,14 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644256296,
+      "last_modification_date_unix": 1650899568,
       "details":
       [
         {
           "name": "Attribution Text",
           "data":
           {
-            "value": "- Live Again"
+            "value": "- UnAlive"
           }
         },
         {
@@ -554,7 +554,7 @@
           "name": "Card Name",
           "data":
           {
-            "value": "LIVE AGAIN"
+            "value": "UNALIVE"
           }
         },
         {
@@ -568,14 +568,14 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>RAP</b>: Until your START PHASE, if Mori Calliope would be reduced to 0 HP, she may regain 2 HP instead. If she does, destroy this card\r\n<b>REAP</b>: Mori Calliope regains 4 HP. Destroy this card."
+            "value": "<b>RAP</b>: You may destroy a Flow in play. If you do, summon a Flow.\n<b>REAP</b>: Mori Calliope regains 4 HP. Destroy this card."
           }
         },
         {
           "name": "Flavor Text",
           "data":
           {
-            "value": "It's not the end of your Mori\nCause every closed door is just the intro to a brand new story",
+            "value": "My home, a place I'll never know until I'm satisfiedTo move forward, the lore is I must be void inside.",
             "text_size": "1.8"
           }
         },
@@ -583,7 +583,7 @@
           "name": "Card Art",
           "data":
           {
-            "value": "Calli/liveagain.png",
+            "value": "Calli/unalive.png",
             "img_fit_mode": "fitheight"
           }
         }
@@ -784,8 +784,8 @@
       ]
     },
     {
-      "amount": 3,
-      "last_modification_date_unix": 1644256351,
+      "amount": 4,
+      "last_modification_date_unix": 1650901745,
       "details":
       [
         {
@@ -820,7 +820,7 @@
           "name": "Flavor Text",
           "data":
           {
-            "value": "I'm filling syllables with curse words because I am an amateur\nEverybody likes... self depreciating... rap. I'm gonna stop.",
+            "value": "I'm filling syllables with curse words because I am an amateur\nEverybody likes... self-depreciating... rap. I'm gonna stop.",
             "text_size": "1.8"
           }
         },
@@ -848,7 +848,7 @@
       ]
     },
     {
-      "amount": 3,
+      "amount": 4,
       "last_modification_date_unix": 1650836637,
       "details":
       [
@@ -914,22 +914,22 @@
       ]
     },
     {
-      "amount": 3,
-      "last_modification_date_unix": 1650836570,
+      "amount": 2,
+      "last_modification_date_unix": 1650899757,
       "details":
       [
         {
           "name": "Attribution Text",
           "data":
           {
-            "value": "- Reaper ka Rapper"
+            "value": "- DEAD BEATS"
           }
         },
         {
           "name": "Card Name",
           "data":
           {
-            "value": "SPITTING FIRE"
+            "value": "REAPER'S MIC"
           }
         },
         {
@@ -950,28 +950,28 @@
           "name": "Keywords",
           "data":
           {
-            "value": "ONE-SHOT"
+            "value": "ITEM, LIMITED"
           }
         },
         {
           "name": "Card Text",
           "data":
           {
-            "value": "Discover a Flow.\nActivate a RAP effect. Mori Calliope deals herself 1 fixed psychic damage."
+            "value": "<b>POWER</b>: Activate a RAP effect.\r\n<color=\"green\"><b>START PHASE</b></color>\r\nYou may discard a card. If you do, activate a RAP effect."
           }
         },
         {
           "name": "Flavor Text",
           "data":
           {
-            "value": "Vocals gangster as can be\nAnd I'm still moe as fxxk!"
+            "value": "Calliope Mori on this goddamn mic\nI don't want your fxxkin' money, I just want your life!"
           }
         },
         {
           "name": "Card Art",
           "data":
           {
-            "value": "Calli/spittingfire.png",
+            "value": "Calli/reapersmic.png",
             "img_fit_mode": "fitwidth"
           }
         }
