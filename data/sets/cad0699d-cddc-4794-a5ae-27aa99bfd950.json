@@ -8,7 +8,7 @@
   [
     {
       "amount": 4,
-      "last_modification_date_unix": 1650591829,
+      "last_modification_date_unix": 1650931452,
       "details":
       [
         {
@@ -67,12 +67,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174202,
+      "last_modification_date_unix": 1650931457,
       "details":
       [
         {
@@ -131,12 +138,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644174206,
+      "last_modification_date_unix": 1650931457,
       "details":
       [
         {
@@ -196,12 +210,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650591865,
+      "last_modification_date_unix": 1650931458,
       "details":
       [
         {
@@ -261,12 +282,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650592107,
+      "last_modification_date_unix": 1650931458,
       "details":
       [
         {
@@ -325,12 +353,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650593214,
+      "last_modification_date_unix": 1650931459,
       "details":
       [
         {
@@ -390,12 +425,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174233,
+      "last_modification_date_unix": 1650931459,
       "details":
       [
         {
@@ -454,12 +496,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174236,
+      "last_modification_date_unix": 1650931459,
       "details":
       [
         {
@@ -518,12 +567,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650591905,
+      "last_modification_date_unix": 1650931460,
       "details":
       [
         {
@@ -582,12 +638,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174243,
+      "last_modification_date_unix": 1650931460,
       "details":
       [
         {
@@ -646,12 +709,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174255,
+      "last_modification_date_unix": 1650931461,
       "details":
       [
         {
@@ -710,12 +780,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650835243,
+      "last_modification_date_unix": 1650931461,
       "details":
       [
         {
@@ -775,12 +852,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174265,
+      "last_modification_date_unix": 1650931462,
       "details":
       [
         {
@@ -839,12 +923,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650917270,
+      "last_modification_date_unix": 1650931462,
       "details":
       [
         {
@@ -903,12 +994,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1650835236,
+      "last_modification_date_unix": 1650931463,
       "details":
       [
         {
@@ -960,12 +1058,19 @@
           {
             "value": "- Nanashi Mumei"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174397,
+      "last_modification_date_unix": 1650931463,
       "details":
       [
         {
@@ -1016,6 +1121,13 @@
           "data":
           {
             "value": "- Nanashi Mumei, upon drawing this"
+          }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Mumei/Deck Back.png"
           }
         }
       ]

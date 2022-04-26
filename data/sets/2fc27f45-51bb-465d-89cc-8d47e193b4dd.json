@@ -8,7 +8,7 @@
   [
     {
       "amount": 4,
-      "last_modification_date_unix": 1650592748,
+      "last_modification_date_unix": 1650931173,
       "details":
       [
         {
@@ -69,12 +69,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Hakos Baelz/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1648350755,
+      "last_modification_date_unix": 1650931176,
       "details":
       [
         {
@@ -134,12 +141,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Hakos Baelz/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650819079,
+      "last_modification_date_unix": 1650931177,
       "details":
       [
         {
@@ -198,12 +212,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Hakos Baelz/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650904577,
+      "last_modification_date_unix": 1650931178,
       "details":
       [
         {
@@ -262,12 +283,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Hakos Baelz/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1648350860,
+      "last_modification_date_unix": 1650931178,
       "details":
       [
         {
@@ -327,12 +355,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Hakos Baelz/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650835048,
+      "last_modification_date_unix": 1650931179,
       "details":
       [
         {
@@ -391,12 +426,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Hakos Baelz/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650592879,
+      "last_modification_date_unix": 1650931179,
       "details":
       [
         {
@@ -454,12 +496,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Hakos Baelz/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1648350931,
+      "last_modification_date_unix": 1650931180,
       "details":
       [
         {
@@ -518,12 +567,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Hakos Baelz/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650902060,
+      "last_modification_date_unix": 1650931180,
       "details":
       [
         {
@@ -583,12 +639,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Hakos Baelz/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1650902159,
+      "last_modification_date_unix": 1650931181,
       "details":
       [
         {
@@ -647,12 +710,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Hakos Baelz/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1648351044,
+      "last_modification_date_unix": 1650931182,
       "details":
       [
         {
@@ -710,12 +780,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Hakos Baelz/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1648351056,
+      "last_modification_date_unix": 1650931183,
       "details":
       [
         {
@@ -775,12 +852,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Hakos Baelz/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650592977,
+      "last_modification_date_unix": 1650931186,
       "details":
       [
         {
@@ -838,6 +922,13 @@
           "data":
           {
             "value": "Character/CornerHP"
+          }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Hakos Baelz/Deck Back.png"
           }
         }
       ]

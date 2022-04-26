@@ -8,7 +8,7 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174415,
+      "last_modification_date_unix": 1650931486,
       "details":
       [
         {
@@ -67,12 +67,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174419,
+      "last_modification_date_unix": 1650931491,
       "details":
       [
         {
@@ -130,12 +137,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174422,
+      "last_modification_date_unix": 1650931492,
       "details":
       [
         {
@@ -194,12 +208,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1650592149,
+      "last_modification_date_unix": 1650931492,
       "details":
       [
         {
@@ -258,12 +279,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174429,
+      "last_modification_date_unix": 1650931493,
       "details":
       [
         {
@@ -322,12 +350,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174436,
+      "last_modification_date_unix": 1650931494,
       "details":
       [
         {
@@ -386,12 +421,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174439,
+      "last_modification_date_unix": 1650931494,
       "details":
       [
         {
@@ -450,12 +492,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174443,
+      "last_modification_date_unix": 1650931495,
       "details":
       [
         {
@@ -514,12 +563,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650835712,
+      "last_modification_date_unix": 1650931495,
       "details":
       [
         {
@@ -577,12 +633,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174452,
+      "last_modification_date_unix": 1650931496,
       "details":
       [
         {
@@ -641,12 +704,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650915719,
+      "last_modification_date_unix": 1650931496,
       "details":
       [
         {
@@ -706,12 +776,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174528,
+      "last_modification_date_unix": 1650931497,
       "details":
       [
         {
@@ -770,12 +847,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174532,
+      "last_modification_date_unix": 1650931497,
       "details":
       [
         {
@@ -834,12 +918,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174535,
+      "last_modification_date_unix": 1650931498,
       "details":
       [
         {
@@ -898,12 +989,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174538,
+      "last_modification_date_unix": 1650931499,
       "details":
       [
         {
@@ -962,12 +1060,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1650592299,
+      "last_modification_date_unix": 1650931499,
       "details":
       [
         {
@@ -1026,12 +1131,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644174544,
+      "last_modification_date_unix": 1650931500,
       "details":
       [
         {
@@ -1090,12 +1202,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174551,
+      "last_modification_date_unix": 1650931500,
       "details":
       [
         {
@@ -1154,12 +1273,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174564,
+      "last_modification_date_unix": 1650931501,
       "details":
       [
         {
@@ -1219,12 +1345,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174570,
+      "last_modification_date_unix": 1650931501,
       "details":
       [
         {
@@ -1283,12 +1416,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650592328,
+      "last_modification_date_unix": 1650931502,
       "details":
       [
         {
@@ -1347,12 +1487,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650835741,
+      "last_modification_date_unix": 1650931502,
       "details":
       [
         {
@@ -1412,12 +1559,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1650835570,
+      "last_modification_date_unix": 1650931503,
       "details":
       [
         {
@@ -1476,12 +1630,19 @@
           {
             "value": "Astrology"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174647,
+      "last_modification_date_unix": 1650931504,
       "details":
       [
         {
@@ -1533,12 +1694,19 @@
           {
             "value": "- Tsukumo Sana, letter to YAGOO"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174691,
+      "last_modification_date_unix": 1650931504,
       "details":
       [
         {
@@ -1590,12 +1758,19 @@
             "value": "Sana/yatagarasu.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1650592394,
+      "last_modification_date_unix": 1650931505,
       "details":
       [
         {
@@ -1646,6 +1821,13 @@
           "data":
           {
             "value": "- Tsukumo Sana"
+          }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Sana/Deck Back.png"
           }
         }
       ]

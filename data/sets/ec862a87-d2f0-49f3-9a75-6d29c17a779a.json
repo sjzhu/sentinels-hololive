@@ -8,7 +8,7 @@
   [
     {
       "amount": 2,
-      "last_modification_date_unix": 1650836351,
+      "last_modification_date_unix": 1650931538,
       "details":
       [
         {
@@ -68,12 +68,19 @@
             "img_fit_mode": "fitheight",
             "img_offset": "1, 0"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644256206,
+      "last_modification_date_unix": 1650931541,
       "details":
       [
         {
@@ -133,12 +140,19 @@
             "value": "Calli/couldyoupleaserip.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650898432,
+      "last_modification_date_unix": 1650931542,
       "details":
       [
         {
@@ -198,12 +212,19 @@
             "value": "Calli/cursednight.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650836292,
+      "last_modification_date_unix": 1650931542,
       "details":
       [
         {
@@ -262,12 +283,19 @@
             "value": "Calli/deadbeats.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644256234,
+      "last_modification_date_unix": 1650931543,
       "details":
       [
         {
@@ -326,12 +354,19 @@
             "value": "Calli/deathscythe.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644295124,
+      "last_modification_date_unix": 1650931543,
       "details":
       [
         {
@@ -391,12 +426,19 @@
             "value": "Calli/deathsensei.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644256247,
+      "last_modification_date_unix": 1650931544,
       "details":
       [
         {
@@ -455,12 +497,19 @@
             "value": "Calli/endofalife.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644256285,
+      "last_modification_date_unix": 1650931544,
       "details":
       [
         {
@@ -521,12 +570,19 @@
             "img_fit_mode": "fitheight",
             "img_offset": "4, 0"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1650899568,
+      "last_modification_date_unix": 1650931545,
       "details":
       [
         {
@@ -586,12 +642,19 @@
             "value": "Calli/unalive.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650836501,
+      "last_modification_date_unix": 1650931545,
       "details":
       [
         {
@@ -651,12 +714,19 @@
             "value": "Calli/murderiskawaii.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644256327,
+      "last_modification_date_unix": 1650931546,
       "details":
       [
         {
@@ -715,12 +785,19 @@
             "value": "Calli/reaperrapper.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644295178,
+      "last_modification_date_unix": 1650931546,
       "details":
       [
         {
@@ -780,12 +857,19 @@
             "value": "Calli/red.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650901745,
+      "last_modification_date_unix": 1650931547,
       "details":
       [
         {
@@ -844,12 +928,19 @@
           {
             "value": "Calli/selfdepreciatingrap.png"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650836637,
+      "last_modification_date_unix": 1650931551,
       "details":
       [
         {
@@ -910,12 +1001,19 @@
             "value": "Calli/workaholicbusinesslady.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650899757,
+      "last_modification_date_unix": 1650931552,
       "details":
       [
         {
@@ -973,6 +1071,13 @@
           {
             "value": "Calli/reapersmic.png",
             "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Calli/Deck Back.png"
           }
         }
       ]

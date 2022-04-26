@@ -8,7 +8,7 @@
   [
     {
       "amount": 4,
-      "last_modification_date_unix": 1644535676,
+      "last_modification_date_unix": 1650931586,
       "details":
       [
         {
@@ -68,12 +68,19 @@
             "img_fit_mode": "fitwidth",
             "img_offset": "0, -1"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644535781,
+      "last_modification_date_unix": 1650931589,
       "details":
       [
         {
@@ -125,12 +132,19 @@
           {
             "value": "- Takanashi Kiara"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650837179,
+      "last_modification_date_unix": 1650931589,
       "details":
       [
         {
@@ -189,12 +203,19 @@
           {
             "value": "ITEM, LIMITED"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644536163,
+      "last_modification_date_unix": 1650931590,
       "details":
       [
         {
@@ -253,12 +274,19 @@
             "value": "Kiara/hinotori.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644536228,
+      "last_modification_date_unix": 1650931590,
       "details":
       [
         {
@@ -318,12 +346,19 @@
           {
             "value": "- Holo Talk Intro"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644536303,
+      "last_modification_date_unix": 1650931591,
       "details":
       [
         {
@@ -375,12 +410,19 @@
           {
             "value": "- KFP Employee"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644536353,
+      "last_modification_date_unix": 1650931591,
       "details":
       [
         {
@@ -438,12 +480,19 @@
           {
             "value": "Kiara/kikkeriki.png"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1650837242,
+      "last_modification_date_unix": 1650931592,
       "details":
       [
         {
@@ -502,12 +551,19 @@
           {
             "value": "\"I've lived many lives, I've been many things. This time I decided to be a warrior idol.\""
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644536483,
+      "last_modification_date_unix": 1650931592,
       "details":
       [
         {
@@ -567,12 +623,19 @@
           {
             "value": "- HINOTORI"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644536634,
+      "last_modification_date_unix": 1650931593,
       "details":
       [
         {
@@ -632,12 +695,19 @@
             "img_fit_mode": "fitheight",
             "img_offset": "4, 0"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650837305,
+      "last_modification_date_unix": 1650931594,
       "details":
       [
         {
@@ -696,12 +766,19 @@
           {
             "value": "- Takanashi Kiara, redebut stream"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644536803,
+      "last_modification_date_unix": 1650931594,
       "details":
       [
         {
@@ -761,12 +838,19 @@
             "value": "Kiara/sparkslighttheflame.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644536862,
+      "last_modification_date_unix": 1650931595,
       "details":
       [
         {
@@ -825,12 +909,19 @@
           {
             "value": "- Takanashi Kiara, Tenchou of KFP"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650837352,
+      "last_modification_date_unix": 1650931595,
       "details":
       [
         {
@@ -890,12 +981,19 @@
           {
             "value": "- Takanashi Kiara"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644550006,
+      "last_modification_date_unix": 1650931596,
       "details":
       [
         {
@@ -953,6 +1051,13 @@
           "data":
           {
             "value": "- KFP Employees"
+          }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kiara/Deck Back.png"
           }
         }
       ]

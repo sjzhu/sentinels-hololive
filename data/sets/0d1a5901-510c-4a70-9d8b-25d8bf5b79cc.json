@@ -8,7 +8,7 @@
   [
     {
       "amount": 2,
-      "last_modification_date_unix": 1644770590,
+      "last_modification_date_unix": 1650931606,
       "details":
       [
         {
@@ -60,12 +60,19 @@
           {
             "value": "- Amelia Watson"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644770635,
+      "last_modification_date_unix": 1650931610,
       "details":
       [
         {
@@ -124,12 +131,19 @@
           {
             "value": "\"REEEEEEEEEEE!!!\""
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644770725,
+      "last_modification_date_unix": 1650931612,
       "details":
       [
         {
@@ -188,12 +202,19 @@
           {
             "value": "\"Nothing beats a ground pound! Just like I did to your mom last night, chat! Hehehehehe!\""
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650904717,
+      "last_modification_date_unix": 1650931613,
       "details":
       [
         {
@@ -252,12 +273,19 @@
           {
             "value": "\"Hic!\""
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644770942,
+      "last_modification_date_unix": 1650931614,
       "details":
       [
         {
@@ -316,12 +344,19 @@
             "value": "Ame/magnifyingglass.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644771049,
+      "last_modification_date_unix": 1650931614,
       "details":
       [
         {
@@ -380,12 +415,19 @@
           {
             "value": "- Amelia Watson"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650900554,
+      "last_modification_date_unix": 1650931615,
       "details":
       [
         {
@@ -437,12 +479,19 @@
           {
             "value": "- Smol Ame"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644771180,
+      "last_modification_date_unix": 1650931615,
       "details":
       [
         {
@@ -502,12 +551,19 @@
           {
             "value": "\"Let's get 'em, Gura!\""
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650914577,
+      "last_modification_date_unix": 1650931616,
       "details":
       [
         {
@@ -565,12 +621,19 @@
           {
             "value": "Ame/technicalaptitude.png"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650914585,
+      "last_modification_date_unix": 1650931616,
       "details":
       [
         {
@@ -630,12 +693,19 @@
           {
             "value": "\"I'm from the future! I came back to join Hololive EN.\""
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650682591,
+      "last_modification_date_unix": 1650931617,
       "details":
       [
         {
@@ -694,12 +764,19 @@
           {
             "value": "ONGOING, LIMITED"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644772046,
+      "last_modification_date_unix": 1650931617,
       "details":
       [
         {
@@ -757,12 +834,19 @@
           {
             "value": "- Amelia Watson"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644772124,
+      "last_modification_date_unix": 1650931618,
       "details":
       [
         {
@@ -821,12 +905,19 @@
           {
             "value": "- Amelia Watson"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650904786,
+      "last_modification_date_unix": 1650931618,
       "details":
       [
         {
@@ -886,12 +977,19 @@
           {
             "value": "ITEM"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644772312,
+      "last_modification_date_unix": 1650931621,
       "details":
       [
         {
@@ -949,6 +1047,13 @@
           "data":
           {
             "value": "ONGOING"
+          }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ame/Deck Back.png"
           }
         }
       ]

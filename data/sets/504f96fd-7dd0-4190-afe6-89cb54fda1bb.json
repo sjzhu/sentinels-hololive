@@ -8,7 +8,7 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1644785101,
+      "last_modification_date_unix": 1650931560,
       "details":
       [
         {
@@ -67,12 +67,19 @@
           {
             "value": "\"A.O.-chan helps me out a lot!\""
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644468586,
+      "last_modification_date_unix": 1650931563,
       "details":
       [
         {
@@ -131,12 +138,19 @@
           {
             "value": "- Ninomae Ina'nis"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644470100,
+      "last_modification_date_unix": 1650931564,
       "details":
       [
         {
@@ -195,12 +209,19 @@
             "value": "Ina/chilldrawing.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644470127,
+      "last_modification_date_unix": 1650931564,
       "details":
       [
         {
@@ -259,12 +280,19 @@
           {
             "value": "\"Humu, humu.\""
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644469388,
+      "last_modification_date_unix": 1650931565,
       "details":
       [
         {
@@ -323,12 +351,19 @@
             "value": "Ina/halo.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644470450,
+      "last_modification_date_unix": 1650931565,
       "details":
       [
         {
@@ -388,12 +423,19 @@
             "value": "\"We will achieve world domINAtion via puns! Humu, humu.\"",
             "text_size": "1.9"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644470147,
+      "last_modification_date_unix": 1650931566,
       "details":
       [
         {
@@ -452,12 +494,19 @@
           {
             "value": "\"What's a cute little Takodachi like you doing here?\""
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644470248,
+      "last_modification_date_unix": 1650931566,
       "details":
       [
         {
@@ -517,12 +566,19 @@
           {
             "value": "\"Forgetti BEAMMMM!\""
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644785268,
+      "last_modification_date_unix": 1650931566,
       "details":
       [
         {
@@ -581,12 +637,19 @@
           {
             "value": "- Takodachi"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644469036,
+      "last_modification_date_unix": 1650931567,
       "details":
       [
         {
@@ -644,12 +707,19 @@
           {
             "value": "Ina/seisopriestess.png"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644469094,
+      "last_modification_date_unix": 1650931567,
       "details":
       [
         {
@@ -708,12 +778,19 @@
           {
             "value": "- Ninomae Ina'nis, 2 hours late"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644785306,
+      "last_modification_date_unix": 1650931568,
       "details":
       [
         {
@@ -764,12 +841,19 @@
           {
             "value": "- Ninomae Ina'nis"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644785314,
+      "last_modification_date_unix": 1650931568,
       "details":
       [
         {
@@ -822,12 +906,19 @@
           {
             "value": "- Ninomae Ina'nis"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644470402,
+      "last_modification_date_unix": 1650931572,
       "details":
       [
         {
@@ -886,12 +977,19 @@
           {
             "value": "- Ninomae Ina'nis"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644469603,
+      "last_modification_date_unix": 1650931573,
       "details":
       [
         {
@@ -951,12 +1049,19 @@
             "img_fit_mode": "fitheight",
             "img_offset": "2, 0"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644469522,
+      "last_modification_date_unix": 1650931573,
       "details":
       [
         {
@@ -1015,12 +1120,19 @@
             "value": "Ina/wah3.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644469615,
+      "last_modification_date_unix": 1650931575,
       "details":
       [
         {
@@ -1079,12 +1191,19 @@
             "value": "Ina/wah1.png",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644469645,
+      "last_modification_date_unix": 1650931577,
       "details":
       [
         {
@@ -1142,6 +1261,13 @@
           {
             "value": "Ina/wah2.png",
             "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ina/Deck Back.png"
           }
         }
       ]

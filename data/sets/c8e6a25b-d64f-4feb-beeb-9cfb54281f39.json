@@ -8,7 +8,7 @@
   [
     {
       "amount": 3,
-      "last_modification_date_unix": 1644174024,
+      "last_modification_date_unix": 1650931194,
       "details":
       [
         {
@@ -67,12 +67,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174027,
+      "last_modification_date_unix": 1650931199,
       "details":
       [
         {
@@ -131,12 +138,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644174032,
+      "last_modification_date_unix": 1650931200,
       "details":
       [
         {
@@ -195,12 +209,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1644174036,
+      "last_modification_date_unix": 1650931201,
       "details":
       [
         {
@@ -259,12 +280,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174039,
+      "last_modification_date_unix": 1650931201,
       "details":
       [
         {
@@ -323,12 +351,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1650899912,
+      "last_modification_date_unix": 1650931202,
       "details":
       [
         {
@@ -387,12 +422,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174046,
+      "last_modification_date_unix": 1650931202,
       "details":
       [
         {
@@ -452,12 +494,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174049,
+      "last_modification_date_unix": 1650931203,
       "details":
       [
         {
@@ -516,12 +565,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644174053,
+      "last_modification_date_unix": 1650931203,
       "details":
       [
         {
@@ -580,12 +636,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174056,
+      "last_modification_date_unix": 1650931204,
       "details":
       [
         {
@@ -644,12 +707,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174060,
+      "last_modification_date_unix": 1650931206,
       "details":
       [
         {
@@ -708,12 +778,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644174064,
+      "last_modification_date_unix": 1650931206,
       "details":
       [
         {
@@ -772,12 +849,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644174067,
+      "last_modification_date_unix": 1650931208,
       "details":
       [
         {
@@ -836,12 +920,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1650899920,
+      "last_modification_date_unix": 1650931209,
       "details":
       [
         {
@@ -900,12 +991,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644174074,
+      "last_modification_date_unix": 1650931209,
       "details":
       [
         {
@@ -962,6 +1060,13 @@
           "data":
           {
             "visible": "False"
+          }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "IRyS/Deck Back.png"
           }
         }
       ]

@@ -8,7 +8,7 @@
   [
     {
       "amount": 4,
-      "last_modification_date_unix": 1650900624,
+      "last_modification_date_unix": 1650931626,
       "details":
       [
         {
@@ -67,12 +67,19 @@
           {
             "value": "- Gawr Gura, first sound"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644784848,
+      "last_modification_date_unix": 1650931629,
       "details":
       [
         {
@@ -131,12 +138,19 @@
           {
             "value": "\"We're okay! I'm the apex predator. I'm the apex predator.\""
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644784873,
+      "last_modification_date_unix": 1650931630,
       "details":
       [
         {
@@ -196,12 +210,19 @@
             "img_fit_mode": "fitwidth",
             "img_offset": "0, -1"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644784924,
+      "last_modification_date_unix": 1650931630,
       "details":
       [
         {
@@ -254,12 +275,19 @@
           {
             "value": "- Bloop's other name"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644773774,
+      "last_modification_date_unix": 1650931631,
       "details":
       [
         {
@@ -319,12 +347,19 @@
             "img_fit_mode": "fitwidth",
             "img_offset": "0, -2"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644774247,
+      "last_modification_date_unix": 1650931631,
       "details":
       [
         {
@@ -385,12 +420,19 @@
           {
             "value": "- Gawr Gura"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644784954,
+      "last_modification_date_unix": 1650931632,
       "details":
       [
         {
@@ -449,12 +491,19 @@
           {
             "value": "- Gawr Gura"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644774393,
+      "last_modification_date_unix": 1650931632,
       "details":
       [
         {
@@ -513,12 +562,19 @@
             "value": "Gura/trident.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644774465,
+      "last_modification_date_unix": 1650931633,
       "details":
       [
         {
@@ -577,12 +633,19 @@
           {
             "value": "- Gawr Gura, last words"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644774510,
+      "last_modification_date_unix": 1650931633,
       "details":
       [
         {
@@ -641,12 +704,19 @@
             "value": "Gura/rhythmmaster.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644785049,
+      "last_modification_date_unix": 1650931634,
       "details":
       [
         {
@@ -705,12 +775,19 @@
           {
             "value": "- Gawr Gura"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1644774613,
+      "last_modification_date_unix": 1650931634,
       "details":
       [
         {
@@ -770,12 +847,19 @@
           {
             "value": "- Gawr Gura"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644774671,
+      "last_modification_date_unix": 1650931635,
       "details":
       [
         {
@@ -834,12 +918,19 @@
           {
             "value": "- Amelia Watson"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1650682622,
+      "last_modification_date_unix": 1650931636,
       "details":
       [
         {
@@ -898,12 +989,19 @@
           {
             "value": "ONE-SHOT"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644775034,
+      "last_modification_date_unix": 1650931637,
       "details":
       [
         {
@@ -961,6 +1059,13 @@
           "data":
           {
             "value": "- Gawr Gura, singing her BGM"
+          }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Gura/Deck Back.png"
           }
         }
       ]

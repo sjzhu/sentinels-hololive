@@ -8,7 +8,7 @@
   [
     {
       "amount": 4,
-      "last_modification_date_unix": 1648350432,
+      "last_modification_date_unix": 1650931124,
       "details":
       [
         {
@@ -69,12 +69,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1650900314,
+      "last_modification_date_unix": 1650931141,
       "details":
       [
         {
@@ -133,12 +140,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650900340,
+      "last_modification_date_unix": 1650931143,
       "details":
       [
         {
@@ -197,12 +211,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644173564,
+      "last_modification_date_unix": 1650931144,
       "details":
       [
         {
@@ -261,12 +282,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644294707,
+      "last_modification_date_unix": 1650931145,
       "details":
       [
         {
@@ -326,12 +354,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1648350524,
+      "last_modification_date_unix": 1650931146,
       "details":
       [
         {
@@ -390,12 +425,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644173578,
+      "last_modification_date_unix": 1650931146,
       "details":
       [
         {
@@ -454,12 +496,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644294717,
+      "last_modification_date_unix": 1650931147,
       "details":
       [
         {
@@ -519,12 +568,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644294730,
+      "last_modification_date_unix": 1650931148,
       "details":
       [
         {
@@ -583,12 +639,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1648350610,
+      "last_modification_date_unix": 1650931148,
       "details":
       [
         {
@@ -648,12 +711,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1644294815,
+      "last_modification_date_unix": 1650931149,
       "details":
       [
         {
@@ -713,12 +783,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1648350665,
+      "last_modification_date_unix": 1650931151,
       "details":
       [
         {
@@ -777,12 +854,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1648350679,
+      "last_modification_date_unix": 1650931154,
       "details":
       [
         {
@@ -841,12 +925,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 2,
-      "last_modification_date_unix": 1648350717,
+      "last_modification_date_unix": 1650931155,
       "details":
       [
         {
@@ -907,12 +998,19 @@
           {
             "visible": "False"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1644294872,
+      "last_modification_date_unix": 1650931156,
       "details":
       [
         {
@@ -971,6 +1069,13 @@
           "data":
           {
             "visible": "False"
+          }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Kronii/Deck Back.png"
           }
         }
       ]
