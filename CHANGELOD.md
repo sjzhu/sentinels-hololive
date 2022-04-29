@@ -7,7 +7,7 @@
 - Search for Atlantis
   - Removed
 - Shaaark!
-  - # of copies lowered to 3
+  - number of copies lowered to 3
 
 ## 0.8 (2022/04/27)
 
