@@ -1,4 +1,19 @@
 # Changelog
+## 0.8.1 (2022/04/28)
+## Gura
+- Memories of Atlantis
+  - Added, summons trident
+  - 4 copies
+- Search for Atlantis
+  - Removed
+- Shaaark!
+  - # of copies lowered to 3
+
+## 0.8 (2022/04/27)
+
+No gameplay changes, but changing all the card images to use images from https://unitysworkshop.com!
+They look much more like DE cards now. :D 
+
 ## 0.7 (2022/04/25)
 
 More changes for consistent play/balance
