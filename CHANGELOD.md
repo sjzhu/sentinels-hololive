@@ -3,6 +3,13 @@
 ## The Ministry
 Initial release! Only minorly playtested! Take 'em out before they take you out (or this timeline)
 
+## Fauna
+- Golden Apple
+  - PNG fixed to not be the same as Food Chain
+  - Discard cost removed from heal, heal lowered
+  - Damage cost removed from salvage, salvage lowered
+  - Added Sapling play
+
 ## 0.8.1 (2022/04/28)
 ## Gura
 - Memories of Atlantis
