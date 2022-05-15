@@ -8,7 +8,7 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1651282222,
+      "last_modification_date_unix": 1651684354,
       "details":
       [
         {
@@ -74,7 +74,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651282226,
+      "last_modification_date_unix": 1651684359,
       "details":
       [
         {
@@ -131,7 +131,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651284338,
+      "last_modification_date_unix": 1651684694,
       "details":
       [
         {
@@ -188,7 +188,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651284384,
+      "last_modification_date_unix": 1651684726,
       "details":
       [
         {
@@ -223,7 +223,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>BOAST:</b> Put the top card of H-2 Hero decks under Muman.\n<color=\"red\"><b>END PHASE</b></color>\nMuman deals X Hero targets with the highest HP 2 melee damage each, where X is the number of cards under this card. Destroy all cards under this card."
+            "value": "<b>BOAST:</b> Put the top card of (H)-2 hero decks under Muman.\n<color=\"red\"><b>END PHASE</b></color>\nMuman deals X Hero targets with the highest HP 2 melee damage each, where X is the number of cards under this card. Destroy all cards under this card."
           }
         },
         {
@@ -245,7 +245,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651282550,
+      "last_modification_date_unix": 1651684369,
       "details":
       [
         {
@@ -302,7 +302,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651282705,
+      "last_modification_date_unix": 1651684765,
       "details":
       [
         {
@@ -366,7 +366,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651282744,
+      "last_modification_date_unix": 1651684775,
       "details":
       [
         {
@@ -408,7 +408,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After this card is played, if San is not in play, play the top card of the Villain deck.\n+1 HP recovery by San.\r<color=\"red\"><b>"
+            "value": "After this card is played, if San is not in play, play the top card of the Villain deck.\r\n+1 HP recovery by San."
           }
         },
         {
@@ -430,7 +430,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651282770,
+      "last_modification_date_unix": 1651684784,
       "details":
       [
         {
@@ -497,7 +497,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651282633,
+      "last_modification_date_unix": 1651684797,
       "details":
       [
         {
@@ -561,7 +561,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651282643,
+      "last_modification_date_unix": 1651684811,
       "details":
       [
         {
@@ -603,7 +603,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After this card is played, if Muman is not in play, play the top card of the Villain deck.\nWhenever a card is discarded, place it under Muman instead."
+            "value": "After this card is played, if Muman is not in play, play the top card of the Villain deck.\r\nThe first time each turn a card is discarded, place it under Muman instead."
           }
         },
         {
@@ -625,7 +625,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1651282817,
+      "last_modification_date_unix": 1651684964,
       "details":
       [
         {
@@ -689,7 +689,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1651283750,
+      "last_modification_date_unix": 1651685052,
       "details":
       [
         {
@@ -717,7 +717,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Activate the <b>BOAST</b> effect of the Ministry target with the lowest HP.\nThat target regains H HP and deals the Hero target with the highest HP 2 melee damage."
+            "value": "Activate the <b>BOAST</b> effect of the Ministry target with the lowest HP.\nThat target regains (H) HP and deals the Hero target with the highest HP 2 melee damage."
           }
         },
         {
@@ -818,7 +818,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1651282674,
+      "last_modification_date_unix": 1651685068,
       "details":
       [
         {
