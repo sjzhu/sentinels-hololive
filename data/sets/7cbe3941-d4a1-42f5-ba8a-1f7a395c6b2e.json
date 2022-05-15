@@ -8,7 +8,7 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1645482510,
+      "last_modification_date_unix": 1651283012,
       "details":
       [
         {
@@ -29,8 +29,8 @@
           "name": "Back Rules Text",
           "data":
           {
-            "value": "When this card flips to this side, set The Ministry's HP to 80.\nIf there are ever no cards under this card, the Ministry has destroyed this timeline. Game Over.\r\nThis card counts as Faun, Hayko, Krono, Muman and San.\r\n\r\n<color=\"green\"><b>START PHASE</b></color>\nChoose a card under this card. Remove that card from the game.\r\n<color=\"red\"><b>END PHASE</b></color>\nPlay the top card of the Villain deck.",
-            "text_size": "3.4"
+            "value": "When this card flips to this side, set The Ministry's HP to 80.\nThis card counts as Faun, Hayko, Krono, Muman and San.\r\n\n<b>BOAST:</b> This card deals each Hero target 2 melee damage.\n\r\n<color=\"green\"><b>START PHASE</b></color>\nRemove a card under this card from the game. If there are no cards under this card, the Ministry has destroyed this timeline. Game Over.\r\n<color=\"red\"><b>END PHASE</b></color>\nPlay the top card of the Villain deck.",
+            "text_size": "3.3"
           }
         },
         {
@@ -45,7 +45,7 @@
           "name": "Setup Text",
           "data":
           {
-            "value": "<b>SETUP</b>: Discover (H)-1 Ministry targets."
+            "value": "<b>SETUP</b>: Discover (H)-2 Ministry targets."
           }
         },
         {

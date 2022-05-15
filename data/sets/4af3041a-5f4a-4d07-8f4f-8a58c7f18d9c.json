@@ -8,14 +8,15 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1650906162,
+      "last_modification_date_unix": 1651282222,
       "details":
       [
         {
           "name": "HP",
           "data":
           {
-            "value": "28"
+            "value": "28",
+            "text_char_spacing": "-1"
           }
         },
         {
@@ -36,7 +37,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>TAUNT:</b> Play the top card of the Villain deck.\n<color=\"red\"><b>END PHASE</b></color>\nH-1 heroes discard a card."
+            "value": "<b>BOAST:</b> Play the top card of the Villain deck.\n<color=\"red\"><b>END PHASE</b></color>\nH-1 heroes discard a card."
           }
         },
         {
@@ -73,7 +74,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1650906362,
+      "last_modification_date_unix": 1651282226,
       "details":
       [
         {
@@ -108,7 +109,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>TAUNT:</b> Hayko deals the 2 Hero targets with the lowest HP 2 melee damage each.\n<color=\"red\"><b>END PHASE</b></color>\nDiscover a One-Shot."
+            "value": "<b>BOAST:</b> Hayko deals the 2 Hero targets with the lowest HP 2 melee damage each.\n<color=\"red\"><b>END PHASE</b></color>\nDiscover a One-Shot."
           }
         },
         {
@@ -130,7 +131,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1650906574,
+      "last_modification_date_unix": 1651284338,
       "details":
       [
         {
@@ -165,7 +166,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": ".<b>TAUNT:</b> Faun deals the hero target with the highest HP X toxic damage, where X is the number of cards under this card.\n<color=\"red\"><b>END PHASE</b></color>\nReveal the top card of each hero deck. For each card revealed this way, either place it under this card, or deal 1 Hero 2 toxic damage."
+            "value": "<b>BOAST:</b> Faun deals the Hero target with the highest HP an amount of toxic damage equal to the number of cards under this card plus 1. Destroy 1 card under this card.\n<color=\"red\"><b>END PHASE</b></color>\nReveal the top card of 2 Hero decks. Place one under this card, and discard the other."
           }
         },
         {
@@ -187,7 +188,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1650905663,
+      "last_modification_date_unix": 1651284384,
       "details":
       [
         {
@@ -222,7 +223,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>TAUNT:</b> Put the top card of each hero deck under Muman.\n<color=\"red\"><b>END PHASE</b></color>\nDestroy all cards under Muman. For each card destroyed this way, deal the Hero target with the highest HP 2 melee damage."
+            "value": "<b>BOAST:</b> Put the top card of H-2 Hero decks under Muman.\n<color=\"red\"><b>END PHASE</b></color>\nMuman deals X Hero targets with the highest HP 2 melee damage each, where X is the number of cards under this card. Destroy all cards under this card."
           }
         },
         {
@@ -244,7 +245,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1650906269,
+      "last_modification_date_unix": 1651282550,
       "details":
       [
         {
@@ -279,7 +280,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>TAUNT:</b> Until the Villain START PHASE, redirect all damage dealt to Ministry targets to San.\n<color=\"red\"><b>END PHASE</b></color> \nSan regains 3 HP. San deals the Hero target with the highest HP 3 melee damage."
+            "value": "<b>BOAST:</b> Until the Villain START PHASE, redirect all damage dealt to Ministry targets to San.\n<color=\"red\"><b>END PHASE</b></color> \nSan regains 3 HP. San deals the Hero target with the highest HP 3 melee damage."
           }
         },
         {
@@ -301,7 +302,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1650905761,
+      "last_modification_date_unix": 1651282705,
       "details":
       [
         {
@@ -343,7 +344,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After a hero discards a card, Krono deals them 2 fixed psychic damage."
+            "value": "After this card is played, if Krono is not in play, play the top card of the Villain deck.\nAfter a Hero discards a card, Krono deals them 1 fixed psychic damage."
           }
         },
         {
@@ -365,7 +366,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1650905778,
+      "last_modification_date_unix": 1651282744,
       "details":
       [
         {
@@ -407,7 +408,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "+1 HP recovery by San.\r\n<color=\"red\"><b>END PHASE</b></color> \nEach Ministry target regains 1 HP."
+            "value": "After this card is played, if San is not in play, play the top card of the Villain deck.\n+1 HP recovery by San.\r<color=\"red\"><b>"
           }
         },
         {
@@ -429,7 +430,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1650906706,
+      "last_modification_date_unix": 1651282770,
       "details":
       [
         {
@@ -472,7 +473,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "When Faun is dealt damage, discard a card under him instead.\nWhen Faun deals damage to a hero target, place the top card of that deck under him.",
+            "value": "After this card is played, if Faun is not in play, play the top card of the Villain deck.\nWhen Faun is dealt damage, destroy a card under him instead.\nWhen Faun deals damage to a Hero target, place the top card of that deck under him.",
             "text_size": "2.3"
           }
         },
@@ -496,7 +497,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1650906777,
+      "last_modification_date_unix": 1651282633,
       "details":
       [
         {
@@ -538,7 +539,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After Hayko deals damage to a hero target, destroy an Ongoing or Item in that play area."
+            "value": "After this card is played, if Hayko is not in play, play the top card of the Villain deck.\nAfter Hayko deals damage to a Hero target, destroy an Ongoing or Item in that play area."
           }
         },
         {
@@ -560,7 +561,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1650905836,
+      "last_modification_date_unix": 1651282643,
       "details":
       [
         {
@@ -602,7 +603,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Whenever a card is discarded, place it under Muman instead."
+            "value": "After this card is played, if Muman is not in play, play the top card of the Villain deck.\nWhenever a card is discarded, place it under Muman instead."
           }
         },
         {
@@ -624,7 +625,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650905884,
+      "last_modification_date_unix": 1651282817,
       "details":
       [
         {
@@ -666,7 +667,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "The Ministry target with the highest HP deals the Hero target with the lowest HP 2 melee damage.\r\nActivate the <b>TAUNT</b> effect of the Ministry target with the highest health."
+            "value": "The Ministry target with the highest HP deals the Hero target with the lowest HP 2 melee damage.\r\nActivate the <b>BOAST</b> effect of the Ministry target with the highest HP."
           }
         },
         {
@@ -688,7 +689,7 @@
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1650905906,
+      "last_modification_date_unix": 1651283750,
       "details":
       [
         {
@@ -716,7 +717,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "The Ministry target with the lowest HP regains H HP.\r\nThat target deals the Hero target with the highest HP 2 melee damage.\nActivate the <b>TAUNT</b> effect of the Ministry target with the lowest HP."
+            "value": "Activate the <b>BOAST</b> effect of the Ministry target with the lowest HP.\nThat target regains H HP and deals the Hero target with the highest HP 2 melee damage."
           }
         },
         {
@@ -817,7 +818,7 @@
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1650905955,
+      "last_modification_date_unix": 1651282674,
       "details":
       [
         {
@@ -859,7 +860,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Each Ministry target deals a different Hero target 2 psychic damage. \nEach Hero character deals a different Ministry target 2 psychic damage.\nActivate the <b>TAUNT</b> effects of the two highest health Ministry targets."
+            "value": "Each Ministry target deals a different Hero target 2 psychic damage. \nEach Hero character deals a different Ministry target 2 psychic damage.\nActivate the <b>BOAST</b> effects of the two highest health Ministry targets."
           }
         },
         {
