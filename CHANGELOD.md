@@ -1,4 +1,75 @@
 # Changelog
+## 0.9.1 (2022/05/15)
+## Ame
+Added a bunch of optional plays (sometimes at the cost of toxic damage).
+- Gremlin Screech
+  - Added optional play clause
+- Ground Pound
+  - Added optional play clause
+- Magnifying Glass
+  - Changed to any deck
+  - Add play on ally deck
+- Team Player
+  - Replaced draw with play if target is destroyed
+- Time Shuffle
+  - Made bury effect optional
+- Toxic Attitude
+  - Remove after play effect
+  - Add extra power use
+  - Draw costs toxic damage now
+- Watson Industries
+  - Change draw to play
+
+## Bae
+- Bruh!
+  - Reword to interact better with new Council effect
+- The Council - Chaos
+  - Replace draw with reveal and replace (for true chaos shenanigans)
+ 
+## Calli
+- Reaper's Mic
+  - Replace START PHASE RAP effect with discover flow 
+  
+## Fauna
+- Blessings of Nature
+  - Down to 3 copies
+- Food Chain
+  - Change art/flavor text to the omurice
+- Nature's Regrowth
+  - Sapling destruction effect changed to salvage
+  - Added START PHASE sapling play
+- Nemu
+  - Added
+  - Heals and salvages Saplings
+  - May be a bit too helpful, given that she only naps, usually :P
+
+## Kronii
+- Boros
+  - Added
+  - Helps prevent psychic damage
+  - Might be too niche atm
+- It's Time To Stop
+  - Removed
+- Take Your Time
+  - Added
+  - Allows heroes to repeat phases
+- Time Authority
+  - Removed
+  - I really liked the flavor of this card, but it's too niche
+
+## Mumei
+- Berries
+  - Reworked to be an Item that grants a reaction
+
+- Nightmare
+  - Changed to be any discard trigger
+  - 1 fixed psychic damage
+
+## Sana
+- The Council - Space
+  - Passive effect changed to trigger on Hero Ongoing destruction
+  - Power changed to play/discover Constellation
+
 ## 0.9
 ## The Ministry
 Initial release! Only minorly playtested! Take 'em out before they take you out (or this timeline)
