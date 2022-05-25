@@ -1,4 +1,66 @@
 # Changelog
+## 0.9.3 (2022/05/24)
+All decks: Most usage of 'a' changed to '1' (unless it's a trigger)
+All decks: Added 'card' after most keywords in game text (i.e. 'Ongoing card' instead of 'Ongoing')
+
+## Ame
+- Gremlin Screech and Ground Pound
+  - Extra play deals highest more damage instead of large AOE
+  - incentivies bubba more
+- Watson Concoction
+  - START PHASE is now a choice of whether or not to blow it up
+
+## Bae
+- Revel in Confusion
+  - Renamed to Revel in Chaos and effect changed
+  - Ongoing destruction/top decking
+  - I have to reference the April Fools Bae/Fauna incident. It's too funny not to.
+- Play Dice!
+  - Effect changed to True Chaos
+- True Chaos
+  - Removed/renamed to Play Dice!
+- Yolo is my Ninja Way
+  - Uses Play Dice!'s old effect
+  
+## IRyS
+- Project: HOPE and YABAIRyS
+  - Removed 1 copy of each
+- Crystal Wings
+  - Added Limited keyword
+  - Added 1 copy
+- Duality of the Nephilim
+  - Added 1 copy
+- Only in Hope
+  - Effect changed to +1/-1 to 2 targets
+
+## Kiara
+- True Form
+  - Destruction moved to START PHASE choice
+
+
+## 0.9.2 (2022/05/20)
+## Kiara
+- Chimkin
+  - Transparent play
+  - Redirects damage from Kiara
+- KFP Employee
+  - Transparent play
+  - Heals on death
+- Kiara Fried Phoenix
+  - Buffed target destruction heal
+  - Power changed to salvage and play chicken
+## Ina
+- Bonk!
+  - Damage buffed to be able to bonk bad Takodachi
+- Tako
+  - Changed to place cards directly under Ritual cards
+  - Added START PHASE heal
+- Tako Cultist
+  - extra power now costs HP
+## Sana
+Rather large rework. Summoning the limiter has been moved off of the base power onto all constellations.
+This leaves more room for variant design! I might add more limiter summoning opportunities in the future on some other cards.
+
 ## 0.9.1 (2022/05/15)
 ## Ame
 Added a bunch of optional plays (sometimes at the cost of toxic damage).
