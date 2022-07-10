@@ -1,4 +1,151 @@
 # Changelog
+## 0.10 (2022/07/10)
+Sana's entirely reworked, a bunch of others have minor/major changes!
+
+## Bae
+- Play Dice!
+	- 2 -> 3 copies
+- Revel in Chaos
+	- 4 -> 3 copies
+- Yolo is my Ninja Way
+	- Renamed to Absolute Chaos
+	- Using fanart for and referencing her HoloCure special
+
+## Gura
+- Apex Predator
+	- Reworked to be extra power usage on destruction instead of execute effect
+- Jump Scare
+	- Damage made irreducible instead of fixed
+- Shark Instinct
+	- Reworded to make source of damage increase clear
+- Ukelele
+	- Buffed to play or draw top card
+
+## Ina
+- Protect the Priestess
+	- Changed redirection to a REACTION
+	
+## IRyS
+Generaly, I've tried to make decisionmaking more straightforward by making her Songs more opposite effects. 
+Hopefully this reduces her turn times.
+- Caesura of Despair
+	- Now discovers/destroys Ongoings
+- Chant the Melodies
+	- HOPE and DESPAIR turned to HOPE or DESPAIR (mostly to make this card not ridiculous with the Duality change)
+- Diorama
+	- Removed (sorry, fans of this song)
+- Duality of the Nephilim
+	- MAJOR CHANGE: Now turns all HOPE/DESPAIR into doing both of them. Hopefully the wording is clear.
+- HERE COMES Hope
+	- Now draws/discard -> play
+- Joy With You
+	- Now Healing/damage
+- Nameless Sadness
+	- Now AOE healing/damage
+
+## Kiara
+- Chimkin
+	- Redone to Employee Hiring
+	- No longer a One-Shot, just summons Employee
+	- Regains HP for chickens in play (possible interaction with a future env)
+- KFP Employee
+	- Nerfed to just be a transparent play + redirection
+- Kiara Fried Phoenix
+	- Power changed to play or summon KFP Employee (ends up being play+, which might be too powerful)
+- Kikkeriki!
+	- Discover changed to Summon (pretty much just avoids extra hat issues)
+
+## Kronii
+All cards with 3+ play thresholds have had the Burst tag added to them (cuz Tachyon isn't using it anymore, heheh)
+- Blessings of Time
+	- Changed to power usage to be less time consuming/swingy
+- GWAK!!
+	- Changed to bounce card and deal fixed sonic
+- Kroniicopter
+	- Changed to generic Collect
+- My Own Time
+	- Changed to a 1 turn buff that is destroyed in START PHASE
+- Only the Clock Will Tell
+	- Added
+	- Villain deck manipulation
+- Past Its Time
+	- Can execute without burst threshold now
+- Sadistic Warden
+	- Changed to limited
+	- Wording changed to DE terms
+- Take Your Time
+	- Changed to only deal damage to characters
+- The Council - Time
+	- Redo wording to be more clear
+	- Add "After" to personal buff
+
+## Mumei
+- A New Start
+	- Collect changed to 1 limited card
+- Blessing of Civilization
+	- Collect changed to 1 Item or Ongoing
+- Dagger
+	- Renamed to Flying Feathers
+	- Using HoloCure fanart!
+	- Chnaged to multi target attack that can be buffed with discards
+- Friend
+	- Wording changed slightly to use more regular terminology
+- Guardian of Civilization
+	- Removed
+- Helpful Hand
+	- Renamed to Artistic Hand
+	- Changes DRAW PHASE to draw up to 4
+	- 2 -> 3 copies
+- Nightmare
+	- 2 -> 3 copies
+- The Council - Civilization
+	- Added damage cost to passive draw ability
+	- Changed END PHASE to discard -> draw
+	
+## Sana
+Constellations have all been removed, as they were kind of random/difficult to parse
+Cards added mostly based on Astrogirl, which has provided much adorable art :D
+- Ancient Knowledge
+	- Removed
+- Beeg!
+	- reworded to allow for regaining past maximum HP instead of changing maximum HP
+- Celestial Body
+	 - Removed
+- Contingency Plan
+	- Art changed to comfy papa pako art
+	- Changed to be an easy way to resummon limiter
+	- Add extra power usage
+- Cosmic Presence
+	- Chnaged to draw or play with AOE damage
+- I'm Not Alone
+	- Added
+	- Summon target for the one-off targets in the deck (or just more Sanallites)
+	- Team draw
+- Neighbula
+	- Reworked to attract headpats instead of constellation damage
+- Planetary Dango
+	- Added
+	- Reaction for healing or play
+- Sana Landing!
+	- Reworked to summon Sana's Limiter or discover 1 Ongoing
+- Sanallite
+	- Added
+	- Provides healing or draw to a Hero
+- Sizeable Support
+	- Added
+	- Healing and draw/play for ally
+- Sneeze
+	- Constellation discover reworked to power usage
+- The Council - Space
+	- Team buff changed to draw on redirect
+	- Power changed to round duration redirect
+- Uncontrollable Growth
+	- Renamed to Destructive Growth cuz it's kind of controlled now
+	- Now deals damage only to non-Hero targets
+- Yatagarasu
+	- Deals damage based on Sana's HP now
+	
+
 ## 0.9.3 (2022/05/24)
 All decks: Most usage of 'a' changed to '1' (unless it's a trigger)
 All decks: Added 'card' after most keywords in game text (i.e. 'Ongoing card' instead of 'Ongoing')
