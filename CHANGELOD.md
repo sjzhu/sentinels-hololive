@@ -1,4 +1,27 @@
 # Changelog
+## 0.10.1 (2022/07/14)
+## Calli
+- Cheap Wine
+	- Transparent play added
+	- Added power usage on destruction
+- Dead Beats
+	- Added DRAW PHASE buff
+- Guh!
+	- (Unlisted change from previous patch) Removed 1 card draw for less ridiculous chaining
+	- Tweaked flavor text to reference song lyrics
+- Murder is Kawaii
+	- Added draw/discover
+- Self-Depreciating Rap
+	- Play or discover
+- Unalive
+	- Bury instead of destroy to avoid weird Dead Beats interaction
+	- Summon limited card instead of generic summon
+
+## Sana
+- Base power changed to reveal -> draw/play
+- Incap art changed to reflect her upcoming graduation
+- You will be missed, Sana. <3
+
 ## 0.10 (2022/07/10)
 Sana's entirely reworked, a bunch of others have minor/major changes!
 
@@ -26,7 +49,7 @@ Sana's entirely reworked, a bunch of others have minor/major changes!
 	- Changed redirection to a REACTION
 	
 ## IRyS
-Generaly, I've tried to make decisionmaking more straightforward by making her Songs more opposite effects. 
+Generaly, I've tried to make decision making more straightforward by making her Songs more opposite effects. 
 Hopefully this reduces her turn times.
 - Caesura of Despair
 	- Now discovers/destroys Ongoings
