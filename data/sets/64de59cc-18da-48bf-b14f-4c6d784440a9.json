@@ -1,0 +1,411 @@
+{
+  "json_version": 3,
+  "name": "The Algorithm Deck",
+  "blueprint_name": "Villain Card",
+  "hint_order_index": 14,
+  "zoom": 0,
+  "items":
+  [
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1660838483,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "6"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "Backseaters"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "Chat"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Play this card in a Hero play area.\nAfter that Hero plays a card, this card deals them 1 fixed psychic damage.\r\n<b><i><color=\"red\">END PHASE</color></i></b>\nIf a Hero played 2 or more cards this turn, add 1 token to The Algorithm."
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1659649361,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "8"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "Bloodthirsty Viewers",
+            "text_size": "6.7"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "Chat"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Play this card in a Hero play area.\n<b><i><color=\"green\">START PHASE</color></i></b>\n1 Hero character in that play area deals themselves 2 fixed psychic damage.\n<b><i><color=\"red\">END PHASE</color></i></b>\nIf 5 or more damage was dealt this turn, add 1 token to The Algorithm.",
+            "text_size": "2.9"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1660838519,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "5"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "Needy Chatters"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "Chat"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Play this card in a Hero play area.\n<b><i><color=\"green\">START PHASE</color></i></b>\nThat Hero discards 1 card.\n<b><i><color=\"red\">END PHASE</color></i></b>\nIf this card was dealt damage this turn, add 1 token to The Algorithm."
+          }
+        }
+      ]
+    },
+    {
+      "amount": 2,
+      "last_modification_date_unix": 1660839327,
+      "details":
+      [
+        {
+          "name": "HP",
+          "data":
+          {
+            "value": "10"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "Collab Partner"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "Streamer"
+          }
+        },
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "This card is an Environment target.\n<b><i><color=\"red\">END PHASE</color></i></b>\n1 Hero may discard 1 card. If they do, activate the <b>END PHASE</b> text of 1 Chat card."
+          }
+        },
+        {
+          "name": "Backing Color",
+          "data":
+          {
+            "color": "#218D00FF"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1660838580,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">Each Hero destroys 1 Item or Ongoing card in their play area.</align>"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "Technical Difficulties"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "One-Shot"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1659649651,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "For each Chat card in play, either remove 1 token from The Algorithm, or that Chat card deals the Hero target with the highest HP 2 psychic damage.\nIf the Algorithm has more than 20 HP, each Hero discards 1 card."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "Business Issues"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "One-Shot"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1659649775,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "Each Hero may discard up to 2 cards.\nIf (H) or more cards are discarded this way, add (H) tokens to The Algorithm.\nIf The Algorithm has more than 20 HP, it deals each Hero target 2 infernal damage."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "Sponsor Promotion"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "One-Shot"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 3,
+      "last_modification_date_unix": 1660838570,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">Destroy (H)-1 Hero Ongoing or Item cards.\nThe Algorithm deals each Chat card 2 psychic damage.\nIf the Algorithm has more than 2 HP, it deals each Hero character 2 infernal damage.</align>"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "Copyright Claim"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "One-Shot"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1660839473,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "<align=\"left\">After a token is added to The Algorithm during a Hero's turn, each Chat card in that Hero's play area deals 1 Hero character 2 irreducible psychic damage.</align>"
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "The Invisible Cost"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "Ongoing"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1660839488,
+      "details":
+      [
+        {
+          "name": "Card Text",
+          "data":
+          {
+            "value": "After a Chat card is played, the Hero target with the highest HP deals themselves 2 fixed psychic damage."
+          }
+        },
+        {
+          "name": "Card Name",
+          "data":
+          {
+            "value": "Chasing the Top"
+          }
+        },
+        {
+          "name": "HP",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "HP Icon",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "Keywords",
+          "data":
+          {
+            "value": "Ongoing"
+          }
+        }
+      ]
+    }
+  ]
+}

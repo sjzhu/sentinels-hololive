@@ -8,7 +8,7 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1651684354,
+      "last_modification_date_unix": 1658759326,
       "details":
       [
         {
@@ -37,7 +37,8 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>BOAST:</b> Play the top card of the Villain deck.\n<color=\"red\"><b>END PHASE</b></color>\nH-1 heroes discard a card."
+            "value": "<b>BOAST:</b> Play the top card of the Villain deck.\n<color=\"red\"><i><b>END PHASE</b></i></color>\n(H)-1 heroes discard a card.",
+            "text_bold": "False"
           }
         },
         {
@@ -74,7 +75,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651684359,
+      "last_modification_date_unix": 1658760438,
       "details":
       [
         {
@@ -109,7 +110,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>BOAST:</b> Hayko deals the 2 Hero targets with the lowest HP 2 melee damage each.\n<color=\"red\"><b>END PHASE</b></color>\nDiscover a One-Shot."
+            "value": "<b>BOAST:</b> Hayko deals the 2 Hero targets with the lowest HP 2 melee damage each.\n<color=\"red\"><i><b>END PHASE</b></i></color>\nDiscover 1 One-Shot card."
           }
         },
         {
@@ -126,12 +127,19 @@
             "value": "Ministry/hayko.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651684694,
+      "last_modification_date_unix": 1658760439,
       "details":
       [
         {
@@ -166,7 +174,8 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>BOAST:</b> Faun deals the Hero target with the highest HP an amount of toxic damage equal to the number of cards under this card plus 1. Destroy 1 card under this card.\n<color=\"red\"><b>END PHASE</b></color>\nReveal the top card of 2 Hero decks. Place one under this card, and discard the other."
+            "value": "<b>BOAST:</b> Faun deals the Hero target with the highest HP X toxic damage, where X is 1 + the number of cards under this card.\n<color=\"red\"><i><b>END PHASE</b></i></color>\nReveal the top card of 2 Hero decks. Place one under this card, and discard the other.",
+            "text_size": "2.9"
           }
         },
         {
@@ -183,12 +192,19 @@
             "value": "Ministry/faun.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651684726,
+      "last_modification_date_unix": 1659646006,
       "details":
       [
         {
@@ -223,7 +239,9 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>BOAST:</b> Put the top card of (H)-2 hero decks under Muman.\n<color=\"red\"><b>END PHASE</b></color>\nMuman deals X Hero targets with the highest HP 2 melee damage each, where X is the number of cards under this card. Destroy all cards under this card."
+            "value": "<b>BOAST:</b> Put the top card of (H)-2 hero decks under Muman.\n<color=\"red\"><i><b>END PHASE</b></i></color>\nMuman deals X Hero targets with the highest HP 2 melee damage each, where X is 1 plus the number of cards under this card. Destroy all cards under this card.",
+            "text_para_spacing": "30",
+            "text_size": "2.9"
           }
         },
         {
@@ -240,12 +258,19 @@
             "value": "Ministry/muman.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651684369,
+      "last_modification_date_unix": 1658760440,
       "details":
       [
         {
@@ -280,7 +305,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "<b>BOAST:</b> Until the Villain START PHASE, redirect all damage dealt to Ministry targets to San.\n<color=\"red\"><b>END PHASE</b></color> \nSan regains 3 HP. San deals the Hero target with the highest HP 3 melee damage."
+            "value": "<b>BOAST:</b> Until the Villain <b>START PHASE</b>, redirect all damage dealt to Ministry targets to San.\n<color=\"red\"><i><b>END PHASE</b></i></color> \nSan regains 3 HP. San deals the Hero target with the highest HP 3 melee damage."
           }
         },
         {
@@ -297,12 +322,19 @@
             "value": "Ministry/san.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651684765,
+      "last_modification_date_unix": 1658760441,
       "details":
       [
         {
@@ -344,7 +376,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After this card is played, if Krono is not in play, play the top card of the Villain deck.\nAfter a Hero discards a card, Krono deals them 1 fixed psychic damage."
+            "value": "After this card is played, if Krono is not in play, play the top card of the Villain deck.\nAfter a Hero discards a card, Krono deals that Hero character 1 fixed psychic damage.\n+1 damage dealt to and by Ministry targets."
           }
         },
         {
@@ -361,12 +393,19 @@
             "value": "Ministry/compareclocks.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651684775,
+      "last_modification_date_unix": 1659646063,
       "details":
       [
         {
@@ -408,7 +447,9 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After this card is played, if San is not in play, play the top card of the Villain deck.\r\n+1 HP recovery by San."
+            "value": "After this card is played, if San is not in play, play the top card of the Villain deck.\r\nAfter San is dealt damage, he regains 1 HP.\n+1 damage dealt to and by Ministry targets.",
+            "text_line_spacing": "-15",
+            "text_para_spacing": "30"
           }
         },
         {
@@ -425,12 +466,19 @@
             "value": "Ministry/myrocketisbigger.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651684784,
+      "last_modification_date_unix": 1659646328,
       "details":
       [
         {
@@ -445,7 +493,7 @@
           "data":
           {
             "value": "CAN'T ESCAPE YOUR NATURE",
-            "text_size": "4.3"
+            "text_size": "6.2"
           }
         },
         {
@@ -473,8 +521,8 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After this card is played, if Faun is not in play, play the top card of the Villain deck.\nWhen Faun is dealt damage, destroy a card under him instead.\nWhen Faun deals damage to a Hero target, place the top card of that deck under him.",
-            "text_size": "2.3"
+            "value": "After this card is played, if Faun is not in play, play the top card of the Villain deck.\nWhen Faun would be dealt damage, prevent that damage and destroy 1 card under him instead.\nAfter Faun deals damage to a target, put the top card of the associated deck under him.\n+1 damage dealt to and by Ministry targets.",
+            "text_size": "2.6"
           }
         },
         {
@@ -492,12 +540,19 @@
             "img_fit_mode": "fitwidth",
             "img_offset": "0, -2"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651684797,
+      "last_modification_date_unix": 1659646106,
       "details":
       [
         {
@@ -539,7 +594,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After this card is played, if Hayko is not in play, play the top card of the Villain deck.\nAfter Hayko deals damage to a Hero target, destroy an Ongoing or Item in that play area."
+            "value": "After this card is played, if Hayko is not in play, play the top card of the Villain deck.\nAfter Hayko deals damage to a target, destroy 1 Item or Ongoing card in that target's play area.\n+1 damage dealt to and by Ministry targets."
           }
         },
         {
@@ -556,12 +611,19 @@
             "value": "Ministry/lipslonely.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1651684811,
+      "last_modification_date_unix": 1658760443,
       "details":
       [
         {
@@ -603,7 +665,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "After this card is played, if Muman is not in play, play the top card of the Villain deck.\r\nThe first time each turn a card is discarded, place it under Muman instead."
+            "value": "After this card is played, if Muman is not in play, play the top card of the Villain deck.\r\nAfter a card is discarded, move it under Muman.\n+1 damage dealt to and by Ministry targets."
           }
         },
         {
@@ -620,12 +682,19 @@
             "value": "Ministry/ohhey.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1651684964,
+      "last_modification_date_unix": 1658760444,
       "details":
       [
         {
@@ -667,7 +736,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "The Ministry target with the highest HP deals the Hero target with the lowest HP 2 melee damage.\r\nActivate the <b>BOAST</b> effect of the Ministry target with the highest HP."
+            "value": "The Ministry target with the highest HP deals the Hero target with the lowest HP 2 melee damage.\r\nActivate the <b>BOAST</b> of the Ministry target with the highest HP."
           }
         },
         {
@@ -684,12 +753,19 @@
             "value": "Ministry/nohesitation.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1651685052,
+      "last_modification_date_unix": 1658760444,
       "details":
       [
         {
@@ -717,7 +793,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Activate the <b>BOAST</b> effect of the Ministry target with the lowest HP.\nThat target regains (H) HP and deals the Hero target with the highest HP 2 melee damage."
+            "value": "Activate the <b>BOAST</b> of the Ministry target with the lowest HP.\nThat target regains (H) HP and deals the Hero target with the highest HP 2 melee damage."
           }
         },
         {
@@ -749,12 +825,19 @@
             "img_fit_mode": "fitheight",
             "img_offset": "1, 0"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
+          }
         }
       ]
     },
     {
       "amount": 4,
-      "last_modification_date_unix": 1645485878,
+      "last_modification_date_unix": 1659645940,
       "details":
       [
         {
@@ -796,7 +879,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Discover 1 Taunt.\r\nIf no Taunts are played this way, shuffle the Villain trash into the Villain deck."
+            "value": "Discover 1 Taunt card.\r\nIf no cards are played this way, shuffle the Villain trash into the Villain deck and play the top card of the Villain deck.\nActivate the <b>BOAST</b> of the Ministry target with the highest HP."
           }
         },
         {
@@ -813,12 +896,19 @@
             "value": "Ministry/yourbestpickuplines.png",
             "img_fit_mode": "fitwidth"
           }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
+          }
         }
       ]
     },
     {
       "amount": 3,
-      "last_modification_date_unix": 1651685068,
+      "last_modification_date_unix": 1659646375,
       "details":
       [
         {
@@ -860,7 +950,7 @@
           "name": "Card Text",
           "data":
           {
-            "value": "Each Ministry target deals a different Hero target 2 psychic damage. \nEach Hero character deals a different Ministry target 2 psychic damage.\nActivate the <b>BOAST</b> effects of the two highest health Ministry targets."
+            "value": "Each Ministry target deals a different Hero character 2 psychic damage. \nEach Hero character deals a different Ministry target 2 melee damage.\nActivate the <b>BOAST</b>s of the two Ministry targets with the highest HP."
           }
         },
         {
@@ -876,6 +966,13 @@
           {
             "value": "Ministry/graduationspeedrun.png",
             "img_fit_mode": "stretch"
+          }
+        },
+        {
+          "name": "Back Image",
+          "data":
+          {
+            "value": "Ministry/ministryback.png"
           }
         }
       ]

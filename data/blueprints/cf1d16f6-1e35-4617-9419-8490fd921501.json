@@ -15,18 +15,20 @@
           "name": "HP",
           "data":
           {
-            "layout_position": "58.63508, 83.83025",
+            "layout_position": "59.35119, 84.54636",
             "layout_size": "10.61748, 6.384136",
             "panel_type": "text",
-            "value": "HP"
+            "value": "HP",
+            "text_font": "Astounder Squared BB",
+            "text_alignment_v": "top"
           }
         },
         {
           "name": "HP Icon",
           "data":
           {
-            "layout_position": "56.89395, 82.49879",
-            "layout_size": "10.41263, 10.89059",
+            "layout_position": "57.91697, 83.67525",
+            "layout_size": "8.3666, 8.537655",
             "panel_type": "icon",
             "value": "Character/CornerHP",
             "color": "#FFFFFFFF"
@@ -41,7 +43,13 @@
             "panel_type": "text",
             "value": "Text",
             "text_size": "2",
-            "text_font": "Arial Bold"
+            "text_font": "MightMakesRightBB(RUS BY LYAJKA",
+            "text_bold": "True",
+            "text_italic": "True",
+            "text_alignment_v": "top",
+            "text_char_spacing": "-3",
+            "text_line_spacing": "-5",
+            "text_para_spacing": "-5"
           }
         },
         {
@@ -75,25 +83,29 @@
           "name": "Flavor Text",
           "data":
           {
-            "layout_position": "31.28215, 6.086443",
-            "layout_size": "54.53983, 5.721086",
+            "layout_position": "31.28215, 6.5468",
+            "layout_size": "54.53983, 4.800372",
             "panel_type": "text",
             "value": "Text",
             "text_size": "2",
-            "text_font": "Arial Bold Italic"
+            "text_font": "MightMakesRightBB(RUS BY LYAJKA",
+            "text_char_spacing": "-3",
+            "text_line_spacing": "-10",
+            "text_para_spacing": "-10"
           }
         },
         {
           "name": "Keywords",
           "data":
           {
-            "layout_position": "23.68952, 37.32831",
+            "layout_position": "23.58722, 37.73751",
             "layout_size": "37.28762, 3.537794",
             "panel_type": "text",
             "value": "KEYWORDS",
-            "text_size": "2.5",
+            "text_size": "3.5",
             "text_alignment_h": "left",
-            "text_font": "Arial Bold"
+            "text_font": "Astounder Squared BB",
+            "text_char_spacing": "-3"
           }
         },
         {
@@ -152,7 +164,11 @@
             "text_outline_size": "2",
             "color": "#FFCB26FF",
             "background_color": "#01010100",
-            "text_font": "Calibri Bold Italic"
+            "text_font": "Astounder Squared BB",
+            "text_size": "7",
+            "text_alignment_v": "bottom",
+            "text_bold": "True",
+            "text_char_spacing": "-8"
           }
         },
         {
@@ -166,7 +182,11 @@
             "color": "#000000FF",
             "text_alignment_h": "left",
             "text_alignment_v": "top",
-            "text_size": "2.4"
+            "text_size": "3",
+            "text_font": "AvenirNext LT Pro Regular",
+            "text_char_spacing": "-3",
+            "text_line_spacing": "-15",
+            "text_para_spacing": "30"
           }
         },
         {
@@ -239,8 +259,7 @@
             "procedural_radius": "0.8",
             "color": "#CC0207FF",
             "layout_constraint_h": "scale",
-            "layout_constraint_v": "scale",
-            "panel_editable": "False"
+            "layout_constraint_v": "scale"
           }
         },
         {

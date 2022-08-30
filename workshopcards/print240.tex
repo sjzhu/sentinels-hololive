@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage[letterpaper, hmargin=0.5in, vmargin=0.2in]{geometry}
+\usepackage{graphicx}
+\usepackage{nopageno}
+\usepackage{tikz}
+\usepackage{eso-pic}
+
+\newcommand\card[1]{%
+	\IfFileExists{#1.png}{\includegraphics[width=2.5in,height=3.5in]{#1.png}}{\includegraphics[width=2.5in,height=3.5in]{white.png}}%
+}
+\newcommand\cardline[1]{%
+	\card{#1}\hspace{1pt}\card{\the\numexpr#1+1}\hspace{1pt}\card{\the\numexpr#1+2}%
+}
+\newcommand\cardpage[1]{%
+	\message{making page for card \the#1}
+	\cardline{\the\numexpr#1+1}\par
+	\cardline{\the\numexpr#1+4}\par
+	\cardline{\the\numexpr#1+7}
+	\newpage
+}
+
+\begin{document}
+\AddToShipoutPicture{%
+	\begin{tikzpicture}[overlay,remember picture]
+		\draw[line width=1pt,gray](0in, .27in) -- (8.5in, .27in);
+		\draw[line width=1pt,gray](0in, 10.8in) -- (8.5in, 10.8in);
+		\draw[line width=1pt,gray](0in, 3.785in) -- (8.5in, 3.785in);
+		\draw[line width=1pt,gray](0in, 7.295in) -- (8.5in, 7.295in);
+		\draw[line width=1pt,gray](3.00in, 0in) -- (3.00in, 11in);
+		\draw[line width=1pt,gray](5.52in, 0in) -- (5.52in, 11in);
+		\draw[line width=1pt,gray](0.5in, 0in) -- (0.5in, 11in);
+		\draw[line width=1pt,gray](8.04in, 0in) -- (8.04in, 11in);
+	\end{tikzpicture}%
+}
+\setlength{\parindent}{0pt}
+\newcounter{int}
+\setcounter{int}{0}
+\makeatletter
+\@whilenum\value{int}<13\do
+{\cardpage{\value{int}}\addtocounter{int}{9}}
+\makeatother
+\end{document}

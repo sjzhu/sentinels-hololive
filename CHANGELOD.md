@@ -1,4 +1,77 @@
 # Changelog
+## 0.10.2 (2022/08/29)
+## Ame
+- Gremlin Screech and Ground Pound
+  - Toxic cost for extra plays lowered to 2 fixed toxic
+- Time Shuffle
+  - Now discovers target instead of plays card
+- Toxic Attitude
+  - Initial play damage changed to non-Hero
+  - END PHASE draw cost changed to discard
+
+## Bae
+- Blessings of Chaos
+  - Standardized to 3 Heroes
+- Mr. Squeaks
+  - Lord Squeakers has been given his proper attribution
+  - Effect changed to change random plays to more controlled ones
+  - No longer does damage on death
+  
+## Calli
+- Calli's Mic
+  - (Unlisted change from previous patch) Renamed from Reaper's Mic
+- Dead Beats
+  - Effect swapped with Death Sensei's Teachings
+- Death Sensei's Teachings
+  - Effect swapped with Dead Beats
+- Guh!
+  - Changed power usage to RAP trigger
+- Self-Depreciating Rap 
+  - Additional effects changed to play 1 Flow and activate 1 RAP
+- UnAlive
+  - Bury changed to discard 1 card.
+- Workaholic Business Lady
+  - Draw nerfed to 1 card
+  - Damage changed to RAP activate
+  - Self damage adds play
+  
+## Fauna
+- Blessings of Nature
+  - Standardized to 3 Heroes
+
+## Gura
+- Hydrodynamic
+  - Added draw on non-target environment card play
+
+## Ina
+- A.O.-chan
+  - Added play option
+- Sleep
+  - Changed to be 1 card of any type
+
+## Kiara
+- Burn Bright
+  - Wording change to make the fixed damage clearer
+
+## Kronii
+- Blessings of Time
+  - Standardized to 3 Heroes
+  - HP gain nerfed to 1 per
+- Kroniicopter
+  - Collect changed to draw 3, discard 1
+
+## Mumei
+Added her official logo because she finally has one!
+- Artistic Hand
+  - Added START PHASE salvage
+  - Effect changed to END PHASE to avoid confusion
+- Blessings of Civilization
+  - Standardized to 3 Heroes
+  - Added Item/Ongoing play for Mumei
+- Oh Hello!
+  - Changed to Oh Hi! because she says that way more.
+
+
 ## 0.10.1 (2022/07/14)
 ## Calli
 - Cheap Wine

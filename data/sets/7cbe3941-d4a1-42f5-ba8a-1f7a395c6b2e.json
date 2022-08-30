@@ -1,6 +1,6 @@
 {
   "json_version": 3,
-  "name": "Ministry CC",
+  "name": "HoloVillain CCs",
   "blueprint_name": "Villan CC",
   "hint_order_index": 12,
   "zoom": 0,
@@ -8,14 +8,14 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1651283012,
+      "last_modification_date_unix": 1659645846,
       "details":
       [
         {
           "name": "Rules Text",
           "data":
           {
-            "value": "The Ministry is not a target.\nAfter a Ministry target is destroyed, place it under this card.\r\nIf there are ever 5 cards under this card, (flip).\r\n\n<color=\"red\"><b>END PHASE</b></color>\nDiscover 1 Ministry target"
+            "value": "After a Ministry target is destroyed, place it under this card.\r\nIf there are ever 5 cards under this card, (flip).\r\n<color=\"orange\"><b><i>PLAY PHASE</i></b></color>\nIf a Ministry target is played this phase, activate that target's <b>BOAST</b>.\n<color=\"red\"><i><b>END PHASE</b></i></color>\nDiscover 1 Ministry target."
           }
         },
         {
@@ -29,8 +29,9 @@
           "name": "Back Rules Text",
           "data":
           {
-            "value": "When this card flips to this side, set The Ministry's HP to 80.\nThis card counts as Faun, Hayko, Krono, Muman and San.\r\n\n<b>BOAST:</b> This card deals each Hero target 2 melee damage.\n\r\n<color=\"green\"><b>START PHASE</b></color>\nRemove a card under this card from the game. If there are no cards under this card, the Ministry has destroyed this timeline. Game Over.\r\n<color=\"red\"><b>END PHASE</b></color>\nPlay the top card of the Villain deck.",
-            "text_size": "3.3"
+            "value": "When this card flips to this side, set The Ministry's HP to 80. Then, remove all cards under this card from the game.\nThis card counts as Faun, Hayko, Krono, Muman and San.\r\n<b>BOAST:</b> This card deals each Hero target 2 melee damage. Add 1 token to this card.\n\r<color=\"green\"><i><b>START PHASE</b></i></color>\nAdd 1 token to this card. Then, if there are 5 or more tokens on this card, the Ministry has destroyed this timeline. <b>Game Over.</b>\r\n<color=\"red\"><i><b>END PHASE</b></i></color>\nPlay the top card of the Villain deck.",
+            "text_size": "3.3",
+            "text_para_spacing": "30"
           }
         },
         {
@@ -126,7 +127,128 @@
           "data":
           {
             "value": "80",
-            "text_font": "Arial Bold"
+            "text_para_spacing": "0"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1660838633,
+      "details":
+      [
+        {
+          "name": "Rules Text",
+          "data":
+          {
+            "value": "When The Algorithm would be destroyed, (flip) instead.\nAfter a Chat card is destroyed, discover 1 Chat card.\n<b><i><color=\"red\">END PHASE</color></i></b>\nDiscover 1 non-Chat card."
+          }
+        },
+        {
+          "name": "Character Art",
+          "data":
+          {
+            "visible": "False"
+          }
+        },
+        {
+          "name": "Background Art",
+          "data":
+          {
+            "value": "Algorithm/Algorithm.jpg",
+            "img_fit_mode": "fitheight"
+          }
+        },
+        {
+          "name": "Character Name",
+          "data":
+          {
+            "value": "Algorithm/thealgorithm.png",
+            "img_mask_zoom": "1",
+            "img_mask_fit_mode": "fit",
+            "img_fit_mode": "fit",
+            "color": "#EC8079FF"
+          }
+        },
+        {
+          "name": "Description",
+          "data":
+          {
+            "value": "Overseer of Viral Dreams"
+          }
+        },
+        {
+          "name": "HP Text",
+          "data":
+          {
+            "value": "80"
+          }
+        },
+        {
+          "name": "Tags",
+          "data":
+          {
+            "value": "VILLAIN"
+          }
+        },
+        {
+          "name": "Setup Text",
+          "data":
+          {
+            "value": "SETUP: Discover (H) Chat cards, playing each card in a different Hero play area."
+          }
+        },
+        {
+          "name": "Back Rules Text",
+          "data":
+          {
+            "value": "When flipped to this side, set The Algorithm's HP to 20.\nIf there are ever (H) x 5 tokens on this card, your group has gone viral and beaten The Algorithm! The Heroes win!\n<b><i><color=\"green\">START PHASE</color></i></b>\nIf The Algorithm is at 0 HP, add (H) tokens to it, and reset it to its maximum HP.\n<b><i><color=\"red\">END PHASE</color></i></b>\nEach Chat card deals 2 toxic damage to the Hero target with the highest HP in that Chat card's play area.",
+            "text_size": "3.4"
+          }
+        },
+        {
+          "name": "Back Tags",
+          "data":
+          {
+            "value": "VILLAIN, INDESTRUCTIBLE",
+            "text_size": "2.3"
+          }
+        },
+        {
+          "name": "Back Description",
+          "data":
+          {
+            "value": "The Cost of Success"
+          }
+        },
+        {
+          "name": "Back HP Text",
+          "data":
+          {
+            "value": "20"
+          }
+        },
+        {
+          "name": "Back Character Name",
+          "data":
+          {
+            "value": "Algorithm/thealgorithm.png"
+          }
+        },
+        {
+          "name": "Back Character Art",
+          "data":
+          {
+            "value": "Algorithm/downvote.png",
+            "img_offset": "-3, -1"
+          }
+        },
+        {
+          "name": "Back Background Art",
+          "data":
+          {
+            "value": "Algorithm/stonks.webp",
+            "img_fit_mode": "fitwidth"
           }
         }
       ]
