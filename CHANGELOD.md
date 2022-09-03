@@ -48,6 +48,12 @@
   - Added play option
 - Sleep
   - Changed to be 1 card of any type
+  
+## IRyS (EDIT)
+- CC power
+  - Added "Discover 1 Song card."
+- Duality of the Nephilim
+  - Dualifies first usage of a song per turn
 
 ## Kiara
 - Burn Bright
@@ -71,6 +77,14 @@ Added her official logo because she finally has one!
 - Oh Hello!
   - Changed to Oh Hi! because she says that way more.
 
+## Villains (EDIT)
+
+## The Ministry
+A few changes here:
+- Taunts now give +1 damage dealt and taken by Ministry targets
+  - Hopefully that will speed up the front side
+- Replaced targets under back side with tokens
+  - This removes an unintentional issue with Faun's taunt and the back side lose text
 
 ## 0.10.1 (2022/07/14)
 ## Calli
