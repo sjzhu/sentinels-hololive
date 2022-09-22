@@ -1,4 +1,39 @@
 # Changelog
+## 0.11 (2022/09/21)
+Variants! 
+Each Hero has received a variant! These are still somewhat early, let me know what you think!
+
+## Ame
+- Time Travel Pocket Watch
+  - Effect changed to grant PLAY PHASE on destruction. Optional destruction on START PHASE
+
+## Bae
+- Base CC
+  - Power changed to Collect ongoing, should make her more consistent (ironic for chaos)
+- Play Dice!
+  - Now specifies to replace the revealed card.
+  - Damage timing changed to After shuffle
+
+## Ina
+- Void Tentacles
+  - Damage power added
+
+## IRyS
+Not entirely sure if removing IRyS's only item will have weird effects with item discoverers like Ame
+- Crystal Wings
+  - Removed
+- Bloom and Gloom
+  - 10 HP target representing IRyS's mascots!
+  - Slightly tweaked versions of Crystal Wings's powers
+
+## Kiara
+- True Form
+  - Nerfed to only proc on hand card play
+
+## Kronii
+- Time Blades
+  - Nerfed to hit second target on threshold
+
 ## 0.10.2 (2022/08/29)
 ## Ame
 - Gremlin Screech and Ground Pound
