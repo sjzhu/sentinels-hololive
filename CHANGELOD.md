@@ -1,4 +1,19 @@
 # Changelog
+## 0.12.1 (2022/11/12)
+## Vesper
+Actually added art to all his cards, oops.
+- Garrulous Granpire
+  - Forced discard removed.
+- I Am A Humble Scholar
+  - Name changed to Resident Scholar
+  - Greeting keyword added
+- The Meta Strat
+  - Effect changed to discover instead of matching keywords
+
+## 0.12 (2022/11/10)
+New Hero!
+Noir Vesper is the resident scholar of the guild TEMPUS! I do plan to make the rest of TEMPUS as decks, things are slow going at the moment due to real life things!
+
 ## 0.11 (2022/09/21)
 Variants! 
 Each Hero has received a variant! These are still somewhat early, let me know what you think!
