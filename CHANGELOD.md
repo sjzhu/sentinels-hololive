@@ -1,4 +1,24 @@
 # Changelog
+## 0.12.2 (2022/11/30)
+## Calli
+A handful of changes to hopefully encourage smaller REAPs instead of always holding onto things until the last round.
+- Dead Beats
+  - renamed to Streaming Reaper (mostly for thematic reasons, plus i like the song in the quote)
+  - START PHASE effect removed
+  - Added heal on target destruction
+- Cursed Night
+  - Renamed to Scuffed Up Age (mostly for updated song reasons)
+  - Added a draw to the RAP effect
+- Death Scythe
+  - +1 damage replaced with irreducible
+  - melee damage of power increased by 1
+  - heal replaced with card draw
+- end of a life
+  - salvage increased to 2 cards
+- Reaper/Rapper
+  - new art cuz i like the dead beats cover art
+- Unalive
+  - heal replaced with multi-target attack
 ## 0.12.1 (2022/11/12)
 ## Vesper
 Actually added art to all his cards, oops.
