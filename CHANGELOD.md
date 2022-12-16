@@ -1,4 +1,20 @@
 # Changelog
+## 0.12.3 (2022/12/13
+Gave all Hololive members Nemesis icons based on their oshi marks on Twitter!
+## Gura
+- Cat Shark variant
+  - HP lowered from 27 -> 26
+## IRyS
+- New CC art based on IRyS 2.0! I might end up changing some of her cards to reflect 2.0 as well.
+- HP increased from 26 -> 27
+- Foolish Hope variant
+  - Made Song destruction optional and required for ally card play
+## Kiara
+- Tenchou variant
+  - Turned otherwise clause into a discover instead of draw 2
+## Mumei
+- Dan Dan variant
+  - Maximum buried cards reduced from 3 -> 2
 ## 0.12.2 (2022/11/30)
 ## Calli
 A handful of changes to hopefully encourage smaller REAPs instead of always holding onto things until the last round.
