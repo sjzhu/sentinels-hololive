@@ -1,0 +1,42 @@
+Title,Keywords,Count,HP,GameText,Quote,Attribution,ImageURL,ImageX,ImageY,GameTextSize,ImageZoom
+Ninomae Ina'nis,"Hero, Myth",,25,POWER - Comfy Priestess: Play up to 2 Sanity cards.,,,,,,,
+,Incap,,,"- One player may use a power now
+- One hero regains 2 HP
+- 1 target deals itself 2 fixed psychic damage",,,,,,,
+Ninomae Ina'nis,"Hero, Myth",,25,POWER - Artistic Priestess: Draw 2 cards. Play 1 card.,,,,,,,
+A.O.-chan,"Item, Relic",1,,"POWER: Play or discover 1 Ongoing card. 
+DRAW PHASE 
+You may draw an additional card this phase.","""A.O-chan is like a Siri or Cortana you can't turn off.""","-- Ninomae Ina'nis, Vampire Survivors, 2022/03/01",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/aochan.png,,,100,
+Bonk!,"One-Shot, Sanity",4,,"Ninomae Ina'nis deals 1 target 3 melee damage. 
+You may place this card under a Ritual card.","""What happens if you squish my squishy hair? I'll bonk you... with a crowbar!""","-- Ninomae Ina'nis, Q&A, 2020/10/30",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/bonk.png,,,100,
+Chill Drawing,"One-Shot, Sanity",3,,"Draw 2 cards. 
+You may place this card under a Ritual card.","""Tips for drawing? Just draw. When you're starting off, it's important to learn to enjoy the process a lot!""","-- Ninomae Ina'nis, DRAWING, 2021/07/14 ",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/chilldrawing.png,,,100,
+Eldritch Knowledge,"Ongoing, Ritual",2,,"POWER: Destroy up to 3 cards under this card. For every card destroyed this way, you may draw 2 cards.","""Ina of the mountain, what is your wisdom?""
+""There is only... Ina.""","-- Ninomae Ina'nis, Ina of the Mountain 9",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/eldritchknowledge.png,,,100,
+Halo,"Item, Relic",1,,"After you use a power on a Ritual card, you may salvage 1 Sanity card. 
+END PHASE 
+Put up to 1 Sanity card from your hand under 1 Ritual card in play.","""Hello! I have the super rare onion ring with my head today, chat. Hehe.""","-- Ninomae Ina'nis, Ender Lilies, 2021/08/17",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/halo.png,,,100,
+INAFF,"One-Shot, Sanity",4,,"You may destroy 1 Ongoing card. 
+You may place this card under a Ritual card.","""The world will become a punnier place. You can't spell world domination without ina!""","-- Ninomae Ina'nis, takoyaki party, 2021/01/06",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/inaff.png,,,100,
+Pet the Tako,"One-Shot, Sanity",3,,"Discover 1 Takodachi card. 
+You may place this card under a Ritual card.","""Oya oya... Such a cute takodachi made its way over here.""","-- Ninomae Ina'nis, minecraft, 2020/11/30",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/petthetako.png,,,100,
+Power of the Ancient Ones,"Ongoing, Ritual",2,,"POWER: Destroy up to 3 cards under this card. For every card destroyed this way, Ninomae Ina'nis deals 1 target 2 irreducible infernal damage.","""I'm such a blessed tako. I mean, human. Forgetti beam! You now only remember Ina.""","-- Ninomae Ina'nis, birthday, 2022/05/20",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/poweroftheancientones.png,,,100,
+Protect the Priestess,"Ongoing, Ritual",2,,"REACTION: Redirect that damage to a Takodachi card. 
+POWER: Destroy up to 3 cards under this card. For every card destroyed this way, play or salvage 1 Takodachi card.","""Cookie department? We have a code 962, a case of oatmeal raisin. We need to contact the security division to take them out.""","-- Ninomae Ina'nis, stray, 2022/07/26",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/protectthepriestess.png,,,100,
+Seiso Priestess,"Ongoing, Ritual",2,,"POWER: Destroy up to 3 cards under this card. For every card destroyed this way, 1 Hero target regains 2 HP.","""We are seiso if we say so!""","-- Ninomae Ina'nis, drawing, 2020/11/01",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/seisopriestess.png,,,100,
+Sleep,"One-Shot, Sanity",4,,"Salvage 1 card.
+You may place this card under a Ritual card.","""The... time machine broke.""","-- Ninomae Ina'nis, waiting for ina, 2021/05/18",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/sleep.png,,,100,
+Tako Cultist,Takodachi,3,5,"POWER PHASE
+You may use an additional power this phase. If you do, this card deals itself 2 fixed psychic damage.","""I knew it, as soon as someone said backside, everyone went 'backside?!'. You guys all share the same brain.""","-- Ninomae Ina'nis, splatoon 3, 2022/09/27",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/takocultist.png,,,100,
+Tako,Takodachi,4,3,"When this card is destroyed, choose up to two cards in your trash. Place them under a Ritual card.
+START PHASE
+Ninomae Ina'nis may regain 1 HP. If she does, this card deals itself 2 fixed psychic damage.","""Don't worry, everything you guys eat doesn't have any calories. All of it just goes into the void.""","-- Ninomae Ina'nis, drawing, 2022/03/28",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/tako.png,,,100,
+Void Tentacles,"Item, Relic",1,,"After you use a power on a Ritual card, Ninomae Ina'nis may deal 1 target 3 melee damage.
+POWER: You may discard up to 2 cards. For each card discarded this way, Ninomae Ina'nis deals 1 target 2 infernal damage.","""They're not attached to me. They come from a void portal, like you guys. They're beyond human understanding.""","-- Ninomae Ina'nis, chatting, 2022/03/20 ",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/voidtentacles.png,,,95,
+Wah!,"One-Shot, Greeting",4,,"Draw 1 card. 
+Discover 1 Relic card. 
+Play 1 card. 
+If 3 or more Wah!'s have already been played this turn, Ninomae Ina'nis deals each target 1 fixed psychic damage.","""We are happy!""","-- Ninomae Ina'nis, ender lilies, 2021/08/28",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/wah3.png,,,100,
+,,40,,,"""We are hype!""","-- Ninomae Ina'nis, ender lilies, 2021/08/28",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/wah1.png,,,100,
+,,,,,"""We are here!""","-- Ninomae Ina'nis, ender lilies, 2021/08/28",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/wah4.png,,,100,
+,,,,,"""We are hor-wait.""","-- Ninomae Ina'nis, ender lilies, 2021/08/28",https://github.com/sjzhu/sentinels-hololive/blob/main/assets/images/Ina/wah2.png,,,100,

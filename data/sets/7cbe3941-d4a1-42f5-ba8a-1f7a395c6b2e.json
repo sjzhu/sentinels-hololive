@@ -2,7 +2,7 @@
   "json_version": 3,
   "name": "HoloVillain CCs",
   "blueprint_name": "Villan CC",
-  "hint_order_index": 12,
+  "hint_order_index": 0,
   "zoom": 0,
   "items":
   [
@@ -134,14 +134,14 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1660838633,
+      "last_modification_date_unix": 1671232146,
       "details":
       [
         {
           "name": "Rules Text",
           "data":
           {
-            "value": "When The Algorithm would be destroyed, (flip) instead.\nAfter a Chat card is destroyed, discover 1 Chat card.\n<b><i><color=\"red\">END PHASE</color></i></b>\nDiscover 1 non-Chat card."
+            "value": "When The Algorithm would be destroyed, (flip) instead.\nAfter a Chat card is destroyed, discover 1 Chat card.\n<b><i><color=\"red\"></color></i></b>\nDiscover 1 non-Chat card."
           }
         },
         {
@@ -202,7 +202,7 @@
           "name": "Back Rules Text",
           "data":
           {
-            "value": "When flipped to this side, set The Algorithm's HP to 20.\nIf there are ever (H) x 5 tokens on this card, your group has gone viral and beaten The Algorithm! The Heroes win!\n<b><i><color=\"green\">START PHASE</color></i></b>\nIf The Algorithm is at 0 HP, add (H) tokens to it, and reset it to its maximum HP.\n<b><i><color=\"red\">END PHASE</color></i></b>\nEach Chat card deals 2 toxic damage to the Hero target with the highest HP in that Chat card's play area.",
+            "value": "When flipped to this side, set The Algorithm's HP to 20.\nIf there are ever (H) x 5 tokens on this card, your group has gone viral and beaten The Algorithm! The Heroes win!\n<b><i><color=\"green\"></color></i></b>\nIf The Algorithm is at 0 HP, add (H) tokens to it, and reset it to its maximum HP.\n<b><i><color=\"red\"></color></i></b>\nEach Chat card deals 2 toxic damage to the Hero target with the highest HP in that Chat card's play area.",
             "text_size": "3.4"
           }
         },

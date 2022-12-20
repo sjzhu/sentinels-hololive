@@ -87,8 +87,8 @@
           "name": "HP Text",
           "data":
           {
-            "layout_position": "124.1746, 75.7803",
-            "layout_size": "10.27667, 8.951248",
+            "layout_position": "123.8284, 75.60719",
+            "layout_size": "9.58426, 8.605043",
             "panel_type": "text",
             "value": "HP",
             "color": "#000000FF",
@@ -100,10 +100,10 @@
           "name": "HP",
           "data":
           {
-            "layout_position": "123.834, 75.42951",
-            "layout_size": "10.27667, 8.951248",
+            "layout_position": "124.1802, 75.34296",
+            "layout_size": "12.0077, 10.16297",
             "panel_type": "icon",
-            "value": "Character/HP",
+            "value": "Character/hpburst",
             "color": "#FFCF87FF"
           }
         },
@@ -306,8 +306,8 @@
           "name": "Back HP Text",
           "data":
           {
-            "layout_position": "124.1746, 75.7803",
-            "layout_size": "10.27667, 8.951248",
+            "layout_position": "123.8284, 75.69375",
+            "layout_size": "9.58426, 8.778146",
             "panel_type": "text",
             "value": "HP",
             "color": "#000000FF",
@@ -319,10 +319,10 @@
           "name": "Back HP",
           "data":
           {
-            "layout_position": "123.834, 75.42951",
-            "layout_size": "10.27667, 8.951248",
+            "layout_position": "124.1802, 75.42951",
+            "layout_size": "11.31529, 9.989863",
             "panel_type": "icon",
-            "value": "Character/HP",
+            "value": "Character/hpburst",
             "color": "#FFCF87FF"
           }
         },
