@@ -8,7 +8,7 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1659645846,
+      "last_modification_date_unix": 1672786790,
       "details":
       [
         {
@@ -29,8 +29,8 @@
           "name": "Back Rules Text",
           "data":
           {
-            "value": "When this card flips to this side, set The Ministry's HP to 80. Then, remove all cards under this card from the game.\nThis card counts as Faun, Hayko, Krono, Muman and San.\r\n<b>BOAST:</b> This card deals each Hero target 2 melee damage. Add 1 token to this card.\n\r<color=\"green\"><i><b>START PHASE</b></i></color>\nAdd 1 token to this card. Then, if there are 5 or more tokens on this card, the Ministry has destroyed this timeline. <b>Game Over.</b>\r\n<color=\"red\"><i><b>END PHASE</b></i></color>\nPlay the top card of the Villain deck.",
-            "text_size": "3.3",
+            "value": "When this card flips to this side, set The Ministry's HP to 80. Then, remove all cards under this card from the game.\nThis card counts as Faun, Hayko, Krono, Muman and San.\r\n<b>BOAST:</b> This card deals the (H) Hero targets with the highest HP 2 melee damage each. Add 1 token to this card.\n\r<color=\"green\"><i><b></b></i></color>\nIf there are no Taunt cards in play, destroy all cards under this card. \nIf there are 5 or more tokens on this card, the Ministry has destroyed this timeline. <b>Game Over.</b>\r\n<color=\"red\"><i><b></b></i></color>\nPlay the top card of the Villain deck.",
+            "text_size": "3",
             "text_para_spacing": "30"
           }
         },
@@ -134,14 +134,14 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1671232146,
+      "last_modification_date_unix": 1672786335,
       "details":
       [
         {
           "name": "Rules Text",
           "data":
           {
-            "value": "When The Algorithm would be destroyed, (flip) instead.\nAfter a Chat card is destroyed, discover 1 Chat card.\n<b><i><color=\"red\"></color></i></b>\nDiscover 1 non-Chat card."
+            "value": "After a Chat card is destroyed, discover 1 Chat card.\r\n\nIf The Algorithm is at 0 HP, add (H) tokens to it, and set its HP to 20. Then, if there are at least (H) x 5 tokens on this card, (flip)\r\n\nDiscover 1 non-Chat card."
           }
         },
         {
@@ -181,14 +181,15 @@
           "name": "HP Text",
           "data":
           {
-            "value": "80"
+            "value": "20"
           }
         },
         {
           "name": "Tags",
           "data":
           {
-            "value": "VILLAIN"
+            "value": "VILLAIN, INDESTRUCTIBLE",
+            "text_size": "2.3"
           }
         },
         {
@@ -202,15 +203,15 @@
           "name": "Back Rules Text",
           "data":
           {
-            "value": "When flipped to this side, set The Algorithm's HP to 20.\nIf there are ever (H) x 5 tokens on this card, your group has gone viral and beaten The Algorithm! The Heroes win!\n<b><i><color=\"green\"></color></i></b>\nIf The Algorithm is at 0 HP, add (H) tokens to it, and reset it to its maximum HP.\n<b><i><color=\"red\"></color></i></b>\nEach Chat card deals 2 toxic damage to the Hero target with the highest HP in that Chat card's play area.",
-            "text_size": "3.4"
+            "value": "When any number of tokens would be added to The Algorithm, instead bury 1 card from a Hero trash under this card.\r\nIf there are at least 2 cards from each Hero under this card, your group has gone viral, and the Heroes win!\r\nAfter a Chat card is destroyed, discover 1 Chat card.\r\n\nIf there is not an Ongoing card in the Villain play area, shuffle the Villain trash into the Villain deck and discover 1 Ongoing card.\r\n\nEach Chat card deals 2 irreducible toxic damage to a Hero character in its play area.",
+            "text_size": "3.1"
           }
         },
         {
           "name": "Back Tags",
           "data":
           {
-            "value": "VILLAIN, INDESTRUCTIBLE",
+            "value": "VILLAIN",
             "text_size": "2.3"
           }
         },
@@ -225,7 +226,8 @@
           "name": "Back HP Text",
           "data":
           {
-            "value": "20"
+            "value": "20",
+            "visible": "False"
           }
         },
         {
@@ -249,6 +251,13 @@
           {
             "value": "Algorithm/stonks.webp",
             "img_fit_mode": "fitwidth"
+          }
+        },
+        {
+          "name": "Back HP",
+          "data":
+          {
+            "visible": "False"
           }
         }
       ]

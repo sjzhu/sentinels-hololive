@@ -22,7 +22,7 @@
         "Count": "3",
         "HP": "",
         "GameText": "3 Hero characters may deal themselves 2 fixed psychic damage each.\nOuro Kronii regains 1 HP for each character dealt damage this way.\nEach Hero character dealt damage this way may use 1 power.",
-        "Quote": "        Yes, I seek it, I seek it           The memory of the days when things were",
+        "Quote": "                 Yes, I seek it, I seek it                The memory of the days when things were",
         "Attribution": "-- Ouro Kronii, daydream",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/blessings_of_time.png"
     },
@@ -47,12 +47,22 @@
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/gwak.png"
     },
     {
+        "Title": "Harsh Warden",
+        "Keywords": "Ongoing, Limited",
+        "Count": "2",
+        "HP": "",
+        "GameText": "After a target is dealt damage by Ouro Kronii, if it has 3 or fewer HP, you may destroy it. If you do, draw 1 card.\nSTART PHASE\nYou may draw 2 cards. If you do, destroy this card.",
+        "Quote": "If you want to blame someone, blame your own fate. You should know by now... that this world... is beyond salvation.",
+        "Attribution": "-- Ouro Kronii, mafia cover",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/mafia.png"
+    },
+    {
         "Title": "Kroniichiwa",
         "Keywords": "One-Shot, Greeting",
         "Count": "4",
         "HP": "",
         "GameText": "Draw 1 card.\nCollect 1 Limited card.\nPlay 1 card.",
-        "Quote": "      \"Kroniichiwa!\"         :\"... What was yours again?\"",
+        "Quote": "                       \"Kroniichiwa!\"                        \"... What was yours again?\"",
         "Attribution": "-- gura and kronii, escape simulator, 2022/01/29",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/kroniichiwa.png"
     },
@@ -61,10 +71,13 @@
         "Keywords": "Item",
         "Count": "3",
         "HP": "",
-        "GameText": "After this card is played, you and 1 ally Hero each draw 2 cards.\nWhen this card is destroyed, you may shuffle your trash into your deck and draw 1 card.\nREACTION: Salvage 1 card. Destroy this card",
+        "GameText": "After this card is played, you and 1 ally Hero each draw 2 cards.\nWhen this card is destroyed, you may shuffle your trash into your deck and draw 1 card.\nREACTION: Salvage 1 card. Destroy this card.",
         "Quote": "\"the kroniicopter has landed!\"",
         "Attribution": "-- Ouro Kronii, debut stream, 2021/08/22",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/kroniicopter.png"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/kroniicopter.png",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "91"
     },
     {
         "Title": "My Own Time",
@@ -74,7 +87,10 @@
         "GameText": "START PHASE\nDestroy this card.\nPLAY PHASE \nYou may play any number of cards this phase. \nAfter you play a card this phase, Ouro Kronii deals herself 1 fixed psychic damage.",
         "Quote": "\"I have all the time in the world, I don't see why I have to be rushed for it.\"",
         "Attribution": "-- Ouro Kronii, debut stream, 2021/08/22",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/myowntime.png"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/myowntime.png",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "85"
     },
     {
         "Title": "Only the Clock Will Tell",
@@ -84,7 +100,10 @@
         "GameText": "Reveal the top two cards of the Villain deck.\nIf you have played 3 or more cards this turn, you may discard or bury any number of the revealed cards, then replace the rest in any order.\nOtherwise, replace the revealed cards in any order.",
         "Quote": "      Humanity clings to the past and nostalgia                     Will they ever escape                                  from the chains of time?                Only the clock will tell",
         "Attribution": "-- Ouro Kronii, daydream",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/daydream.png"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/daydream.png",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "91"
     },
     {
         "Title": "Past Its Time",
@@ -97,16 +116,6 @@
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/sandwich.png"
     },
     {
-        "Title": "Sadistic Warden",
-        "Keywords": "Ongoing, Limited",
-        "Count": "2",
-        "HP": "",
-        "GameText": "After an ally is dealt damage from a non-Hero target, you may draw 1 card.\nSTART PHASE: Destroy this card.",
-        "Quote": "\"Oh yeah, keep crying.\"",
-        "Attribution": "-- Ouro Kronii, council meeting, 2021/08/22",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/sadisticwarden.jpg"
-    },
-    {
         "Title": "Take Your Time",
         "Keywords": "Ongoing",
         "Count": "3",
@@ -114,7 +123,10 @@
         "GameText": "Play this in an ally Hero's play area.\nEND PHASE\nThat Hero may take their PLAY PHASE, POWER PHASE, or DRAW PHASE. If they do, Ouro Kronii deals that Hero character 2 fixed psychic damage, then destroy this card.",
         "Quote": "\"What timing, eh?\"",
         "Attribution": "-- Ouro Kronii, twitter bio",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/takeyourtime.png"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/takeyourtime.png",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "97"
     },
     {
         "Title": "The Council - Time",
@@ -134,7 +146,10 @@
         "GameText": "This card's power deals +1 damage for each card played during your turn. \nPOWER: Ouro Kronii deals 1 target 2 melee damage. If you have played 3 or more cards this turn, Ouro Kronii may deal 1 second target 1 melee damage.",
         "Quote": "\"So, these are my swords. If you guys don't listen, you'll be made into shish-kabobs.\"",
         "Attribution": "-- Ouro Kronii, night delivery, 2021/10/13",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/timeblades.png"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/timeblades.png",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "92"
     },
     {
         "Title": "Time Slash",
@@ -142,7 +157,7 @@
         "Count": "4",
         "HP": "",
         "GameText": "If you have played 3 or more cards this turn, Ouro Kronii deals 1 target 4 melee damage.\nOtherwise, Ouro Kronii deals 1 target 2 melee damage. ",
-        "Quote": "\"What did I ever do to Ame?\"    \"Time, lore, you gave her a watch? I dunno.\"",
+        "Quote": "            \"What did I ever do to Ame?\"           \"Time, lore, you gave her a watch? I dunno.\"",
         "Attribution": "-- Kronii and Calli, sports festival, 2021/11/05",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/timeslash.png"
     },
@@ -154,7 +169,10 @@
         "GameText": "PLAY PHASE\nYou may play an additional card this phase.\nEND PHASE\nIf you played at least two cards this turn, draw 1 card.\nOtherwise, destroy this card.",
         "Quote": "\"I pray to myself and no one else! Look in the mirror, Kronii, god you're so beautiful!\"",
         "Attribution": "-- Ouro Kronii, 51 worldwide classics, 2021/12/01",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/unshakeableconfidence.png"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kronii/unshakeableconfidence.png",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "92"
     },
     {
         "Title": "Unwind Time",
