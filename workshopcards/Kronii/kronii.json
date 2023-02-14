@@ -1,22 +1,5 @@
 [
     {
-        "Title": "Ouro Kronii",
-        "Keywords": "Character Card",
-        "Count": "",
-        "HP": "28",
-        "GameText": "Power - Warden of Time: Ouro Kronii deals 1 target X melee damage, where X is the number of cards you have played this turn plus 1.",
-        "Quote": "",
-        "Attribution": "Standard"
-    },
-    {
-        "Title": "",
-        "Keywords": "Incap",
-        "Count": "",
-        "HP": "",
-        "GameText": "- One player may skip one of their turn phases on their next turn.\n- One player may repeat one of their turn phases on their next turn.\n- Ask a player what time it is, then they may play a card."
-    },
-    {},
-    {
         "Title": "Blessings of Time",
         "Keywords": "One-Shot",
         "Count": "3",
