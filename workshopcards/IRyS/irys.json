@@ -1,0 +1,170 @@
+[
+    {
+        "Title": "IRyS",
+        "Keywords": "Character Card",
+        "Count": "",
+        "HP": "26",
+        "GameText": "Power - Emissary of Hope: Discover 1 Song card. Activate 1 ♢ HOPE or 1 ♦ DESPAIR.",
+        "Quote": "",
+        "Attribution": "Standard"
+    },
+    {
+        "Title": "",
+        "Keywords": "Incap",
+        "Count": "",
+        "HP": "",
+        "GameText": "- 1 target deals itself 1 fixed infernal and 1 fixed radiant damage\n- One hero uses 1 power\n- One hero draws 1 card"
+    },
+    {
+        "Title": "A New Hope",
+        "Keywords": "One-Shot",
+        "Count": "3",
+        "HP": "",
+        "GameText": "Draw 1 card.\nActivate 1 ♢ HOPE.\nIRyS may deal herself 1 fixed radiant damage. If she is dealt damage this way, activate 1 ♢ HOPE.",
+        "Quote": "\"I won't look like a different person! What makes IRyS look like IRyS will still be there!\"",
+        "Attribution": "-- IRyS, chatting, 2022/08/04",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/duality2.jpg"
+    },
+    {
+        "Title": "Angelical Emissary",
+        "Keywords": "One-Shot",
+        "Count": "4",
+        "HP": "",
+        "GameText": "Draw 2 cards.\nYou may play 1 card or summon 1 Song card.",
+        "Quote": "\"I'm here to bring hope to the people!\"",
+        "Attribution": "-- Smol IRyS, smol adventures #1",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/angelicemissary.png"
+    },
+    {
+        "Title": "Bloom and Gloom",
+        "Keywords": "Pet, Cat, Limited",
+        "Count": "3",
+        "HP": "10",
+        "GameText": "POWER: Activate 1 ♢ HOPE. 1 target regains 2 HP. This card regains 2 HP.\nPOWER: Activate 1 ♦ DESPAIR. IRyS deals 1 target 2 infernal damage. This card deals 1 target 2 infernal damage.",
+        "Quote": "       \"Thank you for giving birth to these...                    these beautiful children!\"              \"We gave birth together!\"",
+        "Attribution": "-- IRyS and Sana, mascot design, 2022/07/04",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/bloomandgloom.png"
+    },
+    {
+        "Title": "Caesura of Despair",
+        "Keywords": "Ongoing, Song",
+        "Count": "2",
+        "HP": "",
+        "GameText": "♢ HOPE\n1 Hero may discover 1 Ongoing card.\n♦ DESPAIR \nDestroy up to 1 Ongoing card.",
+        "Quote": "              Darkness will fade away               Light will guide your way",
+        "Attribution": "-- IRyS, caesura of despair",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/caesuraofdespair.png"
+    },
+    {
+        "Title": "Chant the Melodies",
+        "Keywords": "One-Shot",
+        "Count": "4",
+        "HP": "",
+        "GameText": "You may play 1 Song card.\nActivate 1 ♢ HOPE or 1 ♦ DESPAIR.",
+        "Quote": "I'm here to chant the melodies for you!",
+        "Attribution": "-- IRyS, caesura of despair",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/chantmelodies2.jpg",
+        "ImageY": "-23"
+    },
+    {
+        "Title": "Descend",
+        "Keywords": "One-Shot",
+        "Count": "3",
+        "HP": "",
+        "GameText": "Draw 1 card or discover 1 Song card.\nActivate 1 ♢ HOPE. \nOne ally may regain 2 HP.",
+        "Quote": "Hope has descended and you are not alone!",
+        "Attribution": "-- IRyS, caesura of despair",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/descend2.jpg",
+        "ImageY": "-21"
+    },
+    {
+        "Title": "Duality of the Nephilim",
+        "Keywords": "Ongoing, Limited",
+        "Count": "3",
+        "HP": "",
+        "GameText": "After a ♢ HOPE or ♦ DESPAIR is activated on a Song card, you may activate the    ♢ HOPE or ♦ DESPAIR on that card that you have not activated this turn.",
+        "Quote": "               \"Half-angel, half-demon?\"             \"Yes, don't forget the half-demon part, but it's almost non-existent, so no worries.\"",
+        "Attribution": "-- calli and IRyS, chadcast #1, 2022/01/30",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/dualityofthenephilim.png"
+    },
+    {
+        "Title": "HERE COMES HOPE",
+        "Keywords": "Ongoing, Song",
+        "Count": "2",
+        "HP": "",
+        "GameText": "♢ HOPE\nEach Hero draws 1 card.\n♦ DESPAIR\n1 ally Hero may discard 1 card. If they do, they play 1 card.",
+        "Quote": "                 Who is the criminal                  Who knows the answer?",
+        "Attribution": "-- IRyS, HERE COMES HOPE",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/herecomeshope.png"
+    },
+    {
+        "Title": "HiRyS, It's IRyS!",
+        "Keywords": "One-Shot, Greeting",
+        "Count": "4",
+        "HP": "",
+        "GameText": "Draw 1 card.\nEither summon 1 Limited card or play 1 Song card.\nUse 1 power.",
+        "Quote": "                   \"HiRyS! Iiiit's IRyS!\"                     \"Oh shaddup, I'm not the only one with a greeting, right?\"",
+        "Attribution": "-- Gura and IRyS, overwatch, 2022/04/09",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/hirys.png"
+    },
+    {
+        "Title": "Joy With You",
+        "Keywords": "Ongoing, Song",
+        "Count": "2",
+        "HP": "",
+        "GameText": "♢ HOPE\nIRyS and 1 ally may each regain 2 HP.\n♦ DESPAIR\nIRyS and 1 ally each deal 1 target 2 infernal damage.",
+        "Quote": "        Knowing our emotions were as one        And I just want to chase that feeling again",
+        "Attribution": "-- IRyS, Joy with You",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/joywithyou.png"
+    },
+    {
+        "Title": "Nameless Sadness",
+        "Keywords": "Ongoing, Song",
+        "Count": "2",
+        "HP": "",
+        "GameText": "♢ HOPE\nEach Hero target regains 1 HP.\n♦ DESPAIR\nIRyS deals each non-Hero target 1 irreducible infernal damage.",
+        "Quote": "How can I stop this anger crying in my heart? Still, I can't stop wishing for better days",
+        "Attribution": "-- IRyS, Nameless Sadness",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/namelesssadness2.jpg",
+        "ImageY": "19"
+    },
+    {
+        "Title": "Only in Hope",
+        "Keywords": "Ongoing, Song",
+        "Count": "2",
+        "HP": "",
+        "GameText": "♢ HOPE\nSelect up to 2 targets. Until your next START PHASE, -1 damage dealt to those targets.\n♦ DESPAIR\nSelect up to 2 targets. Until your next START PHASE, -1 damage dealt by those targets.",
+        "Quote": "             Only in hope lies salvation               Do you hear my voice calling?",
+        "Attribution": "-- IRyS, only in hope",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/onlyinhope2.jpg",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "90"
+    },
+    {
+        "Title": "The Fall of Hope",
+        "Keywords": "One-Shot",
+        "Count": "3",
+        "HP": "",
+        "GameText": "Draw 1 card or discover 1 Song card.\nActivate 1 ♦ DESPAIR.\n1 ally Hero may use 1 power.",
+        "Quote": "\"Hope has descended and died at the same time. Okay.\"",
+        "Attribution": "-- IRyS, minecraft, 2021/08/08",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/descend.png"
+    },
+    {
+        "Title": "YABAIRyS",
+        "Keywords": "One-Shot",
+        "Count": "3",
+        "HP": "",
+        "GameText": "Draw 1 card.\r\nActivate 1 ♦ DESPAIR.\r\nIRyS may deal 1 ally 1 fixed infernal damage. If that ally is dealt damage this way, activate 1 ♦ DESPAIR.",
+        "Quote": "            \"Why are you running? There's                            nothing to be afraid of!\"                 \"Why is she like this?!\"",
+        "Attribution": "-- IRyS and Kronii, minecraft, 2021/09/14",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/IRyS/yabairys.png"
+    },
+    {},
+    {
+        "Title": "",
+        "Keywords": "",
+        "Count": "40"
+    }
+]
