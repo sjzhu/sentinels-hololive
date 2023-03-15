@@ -1,5 +1,56 @@
 # Changelog
-## 0.12.3 (2022/12/13
+## 0.12.5
+Substantial changes to Gura, slight tweaks to Kiara
+## Gura
+- Apex Predator
+  - Trigger changed to just when Gura destroys a target
+  - Added a heal power
+- Bathtub Pizza
+  - Added choice to salvage card
+- Jinx
+  - Removed
+- Poseidon's Trident
+  - UNTESTED CHANGE
+  - Removed damage buff, added Reaction to blow up trident for bigger damage.
+- Reflect
+  - Added
+  - Trying a way to allow Gura to use a hand of limited cards later in the game
+- Rhythm Master
+  - Added DRAW PHASE buff
+- Shaaark!
+  - Added draw
+  - Buff damage slightly
+- Shark Instinct
+  - Base damage increased to 4
+  - Heal on kill
+## Kiara
+- Kiara Fried Phoenix
+  - Heal changed to be any 1 Hero target
+- Phoenix Sword
+  - Power changed to 3 fire, 1 fixed to self
+## 0.12.4
+## Calli
+Added icons for RAP and REAP effects
+## Kiara
+- KFP Employee
+  - Changed to grant 1 power instead of 1 play on destruction
+  - Some concerns about the play slowing down play/being too powerful, so we're trying this out for now!
+- Phoenix Sword
+  - Fixed to buff damage outgoing, not incoming
+## IRyS
+Added icons for HOPE and DESPAIR effects
+- Angelical Emissary
+  - Removed
+  - This card was an auto-play and also was kind of filler from a lore perspective
+  - Quarter Bravery now fills this slot
+- HERE COMES HOPE
+  - Changed to Gravity
+  - DESPAIR effect changed to reflect lore a bit more
+  - This is mostly because Gravity has been stuck in my head for a while, and I didn't like the art I had for HERE COMES HOPE
+- Quarter Bravery
+  - Added
+  - Hopefully a good way to balance out hands in the early/late game to get more songs/less songs
+## 0.12.3 (2022/12/13)
 Gave all Hololive members Nemesis icons based on their oshi marks on Twitter!
 ## Gura
 - Cat Shark variant
