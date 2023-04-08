@@ -1,0 +1,668 @@
+<Defaults>
+  <TableLayout autoCalculateHeight="true" cellPadding="20 20 0 0" rowBackgroundColor="#FFFFFF" cellBackgroundColor="clear" />
+  <Dropdown fontSize="43" itemheight="100" sizeDelta="400 80" scrollSensitivity="43" resizeTextMaxSize="43" resizeTextForBestFit="true" dropdownHeight="800" />
+  <Text class="Warning" FontStyle="bold" color="#FF0000" fontSize="40" />
+  <Text class="selection" color="#5B219E" FontStyle="Italic"  resizeTextMaxSize="43" resizeTextForBestFit="true"/>
+  <Text class="Eselection" color="#000000" FontStyle="BoldAndItalic"  resizeTextMaxSize="43" resizeTextForBestFit="true"/>
+  <Text class="CEselection" color="#FF0000" FontStyle="BoldAndItalic"  resizeTextMaxSize="43" resizeTextForBestFit="true"/>
+  <Text class="label" FontStyle="bold" color="#000000" resizeTextMaxSize="43" resizeTextForBestFit="true" />
+  <Row visibility="" preferredHeight="100"/>
+  <Toggle toggleWidth="40" toggleHeight="40" fontSize="40" verticalOverflow="Overflow" tooltipFontSize="30" tooltipBackgroundColor="#000000" />
+</Defaults>
+
+<!--Setup Panel-->
+<Panel id="setup" position="0 0 -100" height="1000" width="1400" color="#FFFFFF" visibility="">
+  <TableLayout columnWidths="300 300 300 500">
+    <Row preferredHeight="150">
+      <Text class="Warning">Select the game boxes you would like to use for Randomizing any selections.</Text>
+    </Row>
+    <Row class="expansions" preferredHeight="50">
+      <Cell><Text class="label">Villains:</Text></Cell>
+      <Cell><Text class="label">Environments:</Text></Cell>
+      <Cell><Text class="label">Collections:</Text></Cell>
+      <Cell><Text class="label">Box:</Text></Cell>
+    </Row>
+    <Row preferredHeight="120">
+      <Cell><Toggle onValueChanged="update_isOn" id="DE_V_toggle" isOn="True"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="DE_E_toggle" isOn="True"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="DE_C_toggle" isOn="True"></Toggle></Cell>
+      <Cell><Text class="selection">Definitive Edition</Text></Cell>
+    </Row>
+    <Row preferredHeight="120">
+      <Cell><Toggle onValueChanged="update_isOn" id="RCR_V_toggle" isOn="True"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="RCR_E_toggle" isOn="True"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="RCR_C_toggle" isOn="True"></Toggle></Cell>
+      <Cell><Text class="selection">Rook City Renegades</Text></Cell>
+    </Row>
+    <Row preferredHeight="120">
+      <Cell><Toggle onValueChanged="update_isOn" id="Dis_V_toggle" isOn="False" interactable="False"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Dis_E_toggle" isOn="False" interactable="False"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Dis_C_toggle" isOn="False" interactable="False"></Toggle></Cell>
+      <Cell><Text class="selection">Disparation</Text></Cell>
+    </Row>
+    <Row preferredHeight="120">
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_V_toggle" isOn="False" interactable="False"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_E_toggle" isOn="False" interactable="False"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_C_toggle" isOn="False" interactable="False"></Toggle></Cell>
+      <Cell><Text class="selection">Box 4</Text></Cell>
+    </Row>
+    <Row preferredHeight="120">
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_V_toggle" isOn="False" interactable="False"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_E_toggle" isOn="False" interactable="False"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_C_toggle" isOn="False" interactable="False"></Toggle></Cell>
+      <Cell><Text class="selection">Box 5</Text></Cell>
+    </Row>
+    <Row preferredHeight="120">
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_V_toggle" isOn="False" interactable="False"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_E_toggle" isOn="False" interactable="False"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_C_toggle" isOn="False" interactable="False"></Toggle></Cell>
+      <Cell><Text class="selection">Box 6</Text></Cell>
+    </Row>
+    <Row preferredHeight="120">
+      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_V_toggle" isOn="True"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_toggle" isOn="True"></Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_toggle" isOn="True"></Toggle></Cell>
+      <Cell><Text class="selection">Holo EN</Text></Cell>
+    </Row>
+    <Row class="start_game">
+      <button onClick='go_to_events'><Text class='label' id="setup_button">Select Game Conditions</Text></button>
+    </Row>
+  </TableLayout>
+</Panel>
+
+<Panel id="event_select" position="0 0 -100" height="1200" width="1400" color="#FFFFFF" visibility="invisible">
+  <TableLayout>
+    <Row preferredHeight="200"><Text class="Warning">By selecting an event you may be locked out of selecting a villain or envrionment, due to the event's conditions.</Text></Row>
+    <Row class="event">
+      <Cell><Text class="label">Event:</Text></Cell>
+      <Cell><Text class="selection" id="event">None</Text></Cell>
+      <Cell><Button onClick='randomize_event'><Text class='label'>Randomize</Text></Button></Cell>
+    </Row>
+    <Row class="event">
+      <Dropdown id="event_d" onValueChanged="Set_Event_Variables" interactable="true">
+        <Option>None</Option>
+        <Option>Training Bot</Option>
+        <Option>Apr 1968 - Moonfall</Option>
+        <Option>Oct 1973 - Fabric of Despair</Option>
+        <Option>Nov 1973 -CE The Making of the Organization</Option>
+        <Option>Mar 1975 -CE Mad Bomber Blade</Option>
+        <Option>Apr 1976 - Singularity</Option>
+        <Option>Aug 1983 - Prelude of the Soulless</Option>
+        <Option>Apr 1984 -CE Deus Ex Machina</Option>
+        <Option>Jan 1986 - Mother Earth</Option>
+        <Option>Dec 1986 - Invasion of Earth</Option>
+        <Option>May 1987 - Wayward Sun</Option>
+        <Option>Apr 1988 - To Hunt a Hero</Option>
+        <Option>Aug 1988 - Dominion of the Plague Rat</Option>
+        <Option>Jan 1990 - Built in a Day</Option>
+        <Option>Sep 1993 -CE Diamonds are Forever</Option>
+        <Option>Jun 1994 -CE Abomination of Desolation</Option>
+        <Option>Sep 1996 -CE Earth, Inc.</Option>
+        <Option>Nov 1997 - Run of Luck</Option>
+        <Option>Oct 1998 - Night's Plutonian Shore</Option>
+        <Option>Mar 1999 -CE Strike Force Invasion</Option>
+        <Option>Nov 1999 -CE Sunrise</Option>
+        <Option>Mar 2000 -CE La Gloire</Option>
+        <Option>Jun 2001 -CE The Plagued Horde</Option>
+        <Option>Apr 2002 - The Terrorform Mark II</Option>
+        <Option>Jul 2002 - The Curse of the Fey Court</Option>
+        <Option>Apr 2007 -CE Waves of Fortune</Option>
+        <Option>Nov 2007 -CE A Murder Most Fowl</Option>
+        <Option>Nov 2008 -CE Terror's True Form</Option>
+        <Option>Apr 2010 - Throne to the Wolves</Option>
+        <Option>Apr 2011 -CE The Strength of the Wolf</Option>
+        <Option>DEC 2011 -CE A Winter's Engagement</Option>
+      </Dropdown>
+    </Row>
+    <Row class="environment">
+      <Cell><Text class="label">Environment:</Text></Cell>
+      <Cell><Text class="selection" id="environment">None</Text></Cell>
+      <Cell><Button onClick='randomize_environment'><Text class='label'>Randomize</Text></Button></Cell>
+    </Row>
+    <Row class="environment">
+      <Dropdown id="environment_d" onValueChanged="Set_Environment_Variables" interactable="true">
+        <Option>None</Option>
+        <!--<Option>Aeternus</Option>
+        <Option>The Block</Option>
+        <Option>The Final Wasteland</Option>
+        <Option>Silver Gulch 1883</Option>
+        <Option>Tomb of Anubis</Option>-->
+        <Option>Diamond Manor</Option>
+        <Option>Freedom Tower</Option>
+        <Option>Insula Primalis</Option>
+        <Option>Magmaria</Option>
+        <Option>Megalopolis</Option>
+        <Option>Pike Industrial Complex</Option>
+        <Option>Realm of Discord</Option>
+        <Option>Rook City</Option>
+        <Option>Ruins of Atlantis</Option>
+        <Option>Temple of Zhu Long</Option>
+        <Option>Wagner Mars Base</Option>
+      </Dropdown>
+    </Row>
+    <Row class="villain">
+      <Cell><Text class="label">Villain:</Text></Cell>
+      <Cell><Text class="selection" id="villain">None</Text></Cell>
+      <Cell><Button id="villain_r" onClick='randomize_villain'><Text class='label'>Randomize</Text></Button></Cell>
+    </Row>
+    <Row class="villain">
+      <Dropdown id="villain_d" onValueChanged="Set_Villain_Variables" interactable="true">
+        <Option>None</Option>
+        <!--<Option>Apostate</Option>
+        <Option>Dreamer</Option>
+        <Option>Ennead</Option>
+        <Option>Grimm</Option>
+        <Option>La Capitan</Option>
+        <Option>Iron Legacy</Option>
+        <Option>Miss Information</Option>
+        <Option>Necrosis</Option>
+        <Option>Ruler of Aeternus</Option>-->
+        <Option>Akash'Bhuta</Option>
+        <Option>Ambuscade</Option>
+        <Option>Apex</Option>
+        <Option>Baron Blade</Option>
+        <Option>Citizen Dawn</Option>
+        <Option>Fey Court</Option>
+        <Option>Gloomweaver</Option>
+        <Option>Grand Warlord Voss</Option>
+        <Option>Kismet</Option>
+        <Option>Omnitron</Option>
+        <Option>Plague Rat</Option>
+        <Option>Spite</Option>
+        <Option>TerrorForm</Option>
+        <Option>The Matriarch</Option>
+        <Option>The Organization</Option>
+      </Dropdown>
+    </Row>
+    <Row preferredHeight="400">
+      <Cell><Text class="Eselection" id="vevent">Event:</Text></Cell>
+      <Cell><Text class="CEselection" id="vce">CE:</Text></Cell>
+    </Row>
+    <Row class="start_game">
+      <Cell><button onClick='go_to_collections'><Text class='label' id="setup_button">Select Heroes</Text></button></Cell>
+      <Cell><button onClick='Start_Over'><Text class='label'>Go Back</Text></button></Cell>
+    </Row>
+  </TableLayout>
+</Panel>
+
+<!--Collection Panel-->
+<Panel id="collections" position="0 95 -100" height="1000" width="1400" color="#FFFFFF" visibility="invisible">
+  <TableLayout>
+    <Row preferredHeight="200"><Text id='collection_number' class="Warning"></Text></Row>
+    <Row>
+      <Cell><Text class="label">Collection 1:</Text></Cell>
+      <Cell><Text class="selection" id="collection1">None</Text></Cell>
+    </Row>
+    <Row class="collection1">
+      <Dropdown id="collection1_d" onValueChanged="Set_collection_Variables" interactable="false">
+        <Option>None</Option>
+        <Option>Random</Option>
+        <Option>Moonfall</Option>
+        <Option>Wayward Sun</Option>
+        <Option>Invasion of Earth</Option>
+        <Option>Singularity</Option>
+        <Option>Night's Plutonian Shore</Option>
+        <Option>Mother Earth</Option>
+        <Option>To Hunt a Hero</Option>
+        <Option>Throne to the Wolves</Option>
+        <Option>Curse of the Fey Court</Option>
+        <Option>Fabric of Despair</Option>
+        <Option>Run of Luck</Option>
+        <Option>Built in a Day</Option>
+        <Option>Dominion of the Plague Rat</Option>
+        <Option>Prelude of the Soulless</Option>
+        <Option>The Terrorform Mark II</Option>
+      </Dropdown>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Collection 2:</Text></Cell>
+      <Cell><Text class="selection" id="collection2">None</Text></Cell>
+    </Row>
+    <Row class="collection2">
+      <Dropdown id="collection2_d" onValueChanged="Set_collection_Variables" interactable="false">
+        <Option>None</Option>
+        <Option>Random</Option>
+        <Option>Moonfall</Option>
+        <Option>Wayward Sun</Option>
+        <Option>Invasion of Earth</Option>
+        <Option>Singularity</Option>
+        <Option>Night's Plutonian Shore</Option>
+        <Option>Mother Earth</Option>
+        <Option>To Hunt a Hero</Option>
+        <Option>Throne to the Wolves</Option>
+        <Option>Curse of the Fey Court</Option>
+        <Option>Fabric of Despair</Option>
+        <Option>Run of Luck</Option>
+        <Option>Built in a Day</Option>
+        <Option>Dominion of the Plague Rat</Option>
+        <Option>Prelude of the Soulless</Option>
+        <Option>The Terrorform Mark II</Option>
+      </Dropdown>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Collection 3:</Text></Cell>
+      <Cell><Text class="selection" id="collection3">None</Text></Cell>
+    </Row>
+    <Row class="collection3">
+      <Dropdown id="collection3_d" onValueChanged="Set_collection_Variables" interactable="false">
+        <Option>None</Option>
+        <Option>Random</Option>
+        <Option>Moonfall</Option>
+        <Option>Wayward Sun</Option>
+        <Option>Invasion of Earth</Option>
+        <Option>Singularity</Option>
+        <Option>Night's Plutonian Shore</Option>
+        <Option>Mother Earth</Option>
+        <Option>To Hunt a Hero</Option>
+        <Option>Throne to the Wolves</Option>
+        <Option>Curse of the Fey Court</Option>
+        <Option>Fabric of Despair</Option>
+        <Option>Run of Luck</Option>
+        <Option>Built in a Day</Option>
+        <Option>Dominion of the Plague Rat</Option>
+        <Option>Prelude of the Soulless</Option>
+        <Option>The Terrorform Mark II</Option>
+      </Dropdown>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Collection 4:</Text></Cell>
+      <Cell><Text class="selection" id="collection4">None</Text></Cell>
+    </Row>
+    <Row class="collection4">
+      <Dropdown id="collection4_d" onValueChanged="Set_collection_Variables" interactable="false">
+        <Option>None</Option>
+        <Option>Random</Option>
+        <Option>Moonfall</Option>
+        <Option>Wayward Sun</Option>
+        <Option>Invasion of Earth</Option>
+        <Option>Singularity</Option>
+        <Option>Night's Plutonian Shore</Option>
+        <Option>Mother Earth</Option>
+        <Option>To Hunt a Hero</Option>
+        <Option>Throne to the Wolves</Option>
+        <Option>Curse of the Fey Court</Option>
+        <Option>Fabric of Despair</Option>
+        <Option>Run of Luck</Option>
+        <Option>Built in a Day</Option>
+        <Option>Dominion of the Plague Rat</Option>
+        <Option>Prelude of the Soulless</Option>
+        <Option>The Terrorform Mark II</Option>
+      </Dropdown>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Collection 5:</Text></Cell>
+      <Cell><Text class="selection" id="collection5">None</Text></Cell>
+    </Row>
+    <Row class="collection5">
+      <Dropdown id="collection5_d" onValueChanged="Set_collection_Variables" interactable="false">
+        <Option>None</Option>
+        <Option>Random</Option>
+        <Option>Moonfall</Option>
+        <Option>Wayward Sun</Option>
+        <Option>Invasion of Earth</Option>
+        <Option>Singularity</Option>
+        <Option>Night's Plutonian Shore</Option>
+        <Option>Mother Earth</Option>
+        <Option>To Hunt a Hero</Option>
+        <Option>Throne to the Wolves</Option>
+        <Option>Curse of the Fey Court</Option>
+        <Option>Fabric of Despair</Option>
+        <Option>Run of Luck</Option>
+        <Option>Built in a Day</Option>
+        <Option>Dominion of the Plague Rat</Option>
+        <Option>Prelude of the Soulless</Option>
+        <Option>The Terrorform Mark II</Option>
+      </Dropdown>
+    </Row>
+    <Row class="start_game">
+      <Cell><button onClick='go_to_heroes'><Text class='label'>Select Heroes</Text></button></Cell>
+      <Cell><button onClick='Start_Over'><Text class='label'>Go Back</Text></button></Cell>
+    </Row>
+  </TableLayout>
+</Panel>
+
+<!--Heroes Panel-->
+<Panel id="Heroes" position="0 350 -100" height="1000" width="1400" color="#FFFFFF" visibility="invisible">
+  <TableLayout>
+    <Row>
+      <Text class="Warning">Select your hero. Check boxes are for the boxes of random heroes</Text>
+    </Row>
+    <Row>
+      <Cell columnSpan="3"><Text class="label" alignment="MiddleRight">Red Seat:</Text></Cell>
+      <Cell><Text class="selection" id="Red_sel">None</Text></Cell>
+      <Cell><Button id="Red" onClick='randomize_hero'><Text class='label'>Randomize</Text></Button></Cell>
+    </Row>
+    <Row class="Red_Seat">
+      <Dropdown id="Red_Seat" onValueChanged="Set_hero_Variables" interactable="true">
+        <Option>None</Option>
+        <!--<Option>Chrono-Ranger</Option>
+        <Option>Darkstrife and Painstake</Option>
+        <Option>KNYFE</Option>
+        <Option>Omnitron-X</Option>
+        <Option>Parse</Option>
+        <Option>Visionary</Option>-->
+        <Option>Absolute Zero</Option>
+        <Option>Alpha</Option>
+        <Option>Argent Adept</Option>
+        <Option>Bunker</Option>
+        <Option>Captain Cosmic</Option>
+        <Option>Expatriette</Option>
+        <Option>Fanatic</Option>
+        <Option>Haka</Option>
+        <Option>Legacy</Option>
+        <Option>Mr. Fixer</Option>
+        <Option>Nightmist</Option>
+        <Option>Ra</Option>
+        <Option>Setback</Option>
+        <Option>Tachyon</Option>
+        <Option>Tempest</Option>
+        <Option>The Harpy</Option>
+        <Option>Unity</Option>
+        <Option>Wraith</Option>
+        <Option>Ame</Option>
+        <Option>Calli</Option>
+        <Option>Gura</Option>
+        <Option>Kiara</Option>
+        <Option>Ina</Option>
+        <Option>IRyS</Option>
+        <Option>Bae</Option>
+        <Option>Fauna</Option>
+        <Option>Kronii</Option>
+        <Option>Mumei</Option>
+        <Option>Sana</Option>
+      </Dropdown>
+    </Row>
+    <Row>
+      <Cell><Toggle onValueChanged="update_isOn" id="DE_Red_H_toggle" isOn="True">DE</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="RCR_Red_H_toggle" isOn="True">RCR</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Dis_Red_H_toggle" isOn="False" interactable="False">Dis</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_Red_H_toggle" isOn="False" interactable="False">Exp4</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_Red_H_toggle" isOn="False" interactable="False">Exp5</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_Red_H_toggle" isOn="False" interactable="False">Exp6</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_Red_H_toggle" isOn="True">Holo EN</Toggle></Cell>
+    </Row>
+    <Row>
+      <Cell columnSpan="3"><Text class="label" alignment="MiddleRight">Yellow Seat:</Text></Cell>
+      <Cell><Text class="selection" id="Yellow_sel">None</Text></Cell>
+      <Cell><Button id="Yellow" onClick='randomize_hero'><Text class='label'>Randomize</Text></Button></Cell>
+    </Row>
+    <Row class="Yellow_Seat">
+      <Dropdown id="Yellow_Seat" onValueChanged="Set_hero_Variables" interactable="true">
+        <Option>None</Option>
+        <!--<Option>Chrono-Ranger</Option>
+        <Option>Darkstrife and Painstake</Option>
+        <Option>KNYFE</Option>
+        <Option>Omnitron-X</Option>
+        <Option>Parse</Option>
+        <Option>Visionary</Option>-->
+        <Option>Absolute Zero</Option>
+        <Option>Alpha</Option>
+        <Option>Argent Adept</Option>
+        <Option>Bunker</Option>
+        <Option>Captain Cosmic</Option>
+        <Option>Expatriette</Option>
+        <Option>Fanatic</Option>
+        <Option>Haka</Option>
+        <Option>Legacy</Option>
+        <Option>Mr. Fixer</Option>
+        <Option>Nightmist</Option>
+        <Option>Ra</Option>
+        <Option>Setback</Option>
+        <Option>Tachyon</Option>
+        <Option>Tempest</Option>
+        <Option>The Harpy</Option>
+        <Option>Unity</Option>
+        <Option>Wraith</Option>
+        <Option>Ame</Option>
+        <Option>Calli</Option>
+        <Option>Gura</Option>
+        <Option>Kiara</Option>
+        <Option>Ina</Option>
+        <Option>IRyS</Option>
+        <Option>Bae</Option>
+        <Option>Fauna</Option>
+        <Option>Kronii</Option>
+        <Option>Mumei</Option>
+        <Option>Sana</Option>
+      </Dropdown>
+    </Row>
+    <Row>
+      <Cell><Toggle onValueChanged="update_isOn" id="DE_Red_H_toggle" isOn="True">DE</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="RCR_Red_H_toggle" isOn="True">RCR</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Dis_Red_H_toggle" isOn="False" interactable="False">Dis</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_Red_H_toggle" isOn="False" interactable="False">Exp4</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_Red_H_toggle" isOn="False" interactable="False">Exp5</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_Red_H_toggle" isOn="False" interactable="False">Exp6</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_Red_H_toggle" isOn="True">Holo EN</Toggle></Cell>
+    </Row>
+    <Row>
+      <Cell columnSpan="3"><Text class="label" alignment="MiddleRight">Green Seat:</Text></Cell>
+      <Cell><Text class="selection" id="Green_sel">None</Text></Cell>
+      <Cell><Button id="Green" onClick='randomize_hero'><Text class='label'>Randomize</Text></Button></Cell>
+    </Row>
+    <Row class="Green_Seat">
+      <Dropdown id="Green_Seat" onValueChanged="Set_hero_Variables" interactable="true">
+        <Option>None</Option>
+        <!--<Option>Chrono-Ranger</Option>
+        <Option>Darkstrife and Painstake</Option>
+        <Option>KNYFE</Option>
+        <Option>Omnitron-X</Option>
+        <Option>Parse</Option>
+        <Option>Visionary</Option>-->
+        <Option>Absolute Zero</Option>
+        <Option>Alpha</Option>
+        <Option>Argent Adept</Option>
+        <Option>Bunker</Option>
+        <Option>Captain Cosmic</Option>
+        <Option>Expatriette</Option>
+        <Option>Fanatic</Option>
+        <Option>Haka</Option>
+        <Option>Legacy</Option>
+        <Option>Mr. Fixer</Option>
+        <Option>Nightmist</Option>
+        <Option>Ra</Option>
+        <Option>Setback</Option>
+        <Option>Tachyon</Option>
+        <Option>Tempest</Option>
+        <Option>The Harpy</Option>
+        <Option>Unity</Option>
+        <Option>Wraith</Option>
+        <Option>Ame</Option>
+        <Option>Calli</Option>
+        <Option>Gura</Option>
+        <Option>Kiara</Option>
+        <Option>Ina</Option>
+        <Option>IRyS</Option>
+        <Option>Bae</Option>
+        <Option>Fauna</Option>
+        <Option>Kronii</Option>
+        <Option>Mumei</Option>
+        <Option>Sana</Option>
+      </Dropdown>
+    </Row>
+    <Row>
+      <Cell><Toggle onValueChanged="update_isOn" id="DE_Red_H_toggle" isOn="True">DE</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="RCR_Red_H_toggle" isOn="True">RCR</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Dis_Red_H_toggle" isOn="False" interactable="False">Dis</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_Red_H_toggle" isOn="False" interactable="False">Exp4</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_Red_H_toggle" isOn="False" interactable="False">Exp5</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_Red_H_toggle" isOn="False" interactable="False">Exp6</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_Red_H_toggle" isOn="True">Holo EN</Toggle></Cell>
+    </Row>
+    <Row>
+      <Cell columnSpan="3"><Text class="label" alignment="MiddleRight">Blue Seat:</Text></Cell>
+      <Cell><Text class="selection" id="Blue_sel">None</Text></Cell>
+      <Cell><Button id="Blue" onClick='randomize_hero'><Text class='label'>Randomize</Text></Button></Cell>
+    </Row>
+    <Row class="Blue_Seat">
+      <Dropdown id="Blue_Seat" onValueChanged="Set_hero_Variables" interactable="true">
+        <Option>None</Option>
+        <!--<Option>Chrono-Ranger</Option>
+        <Option>Darkstrife and Painstake</Option>
+        <Option>KNYFE</Option>
+        <Option>Omnitron-X</Option>
+        <Option>Parse</Option>
+        <Option>Visionary</Option>-->
+        <Option>Absolute Zero</Option>
+        <Option>Alpha</Option>
+        <Option>Argent Adept</Option>
+        <Option>Bunker</Option>
+        <Option>Captain Cosmic</Option>
+        <Option>Expatriette</Option>
+        <Option>Fanatic</Option>
+        <Option>Haka</Option>
+        <Option>Legacy</Option>
+        <Option>Mr. Fixer</Option>
+        <Option>Nightmist</Option>
+        <Option>Ra</Option>
+        <Option>Setback</Option>
+        <Option>Tachyon</Option>
+        <Option>Tempest</Option>
+        <Option>The Harpy</Option>
+        <Option>Unity</Option>
+        <Option>Wraith</Option>
+        <Option>Ame</Option>
+        <Option>Calli</Option>
+        <Option>Gura</Option>
+        <Option>Kiara</Option>
+        <Option>Ina</Option>
+        <Option>IRyS</Option>
+        <Option>Bae</Option>
+        <Option>Fauna</Option>
+        <Option>Kronii</Option>
+        <Option>Mumei</Option>
+        <Option>Sana</Option>
+      </Dropdown>
+    </Row>
+    <Row>
+      <Cell><Toggle onValueChanged="update_isOn" id="DE_Red_H_toggle" isOn="True">DE</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="RCR_Red_H_toggle" isOn="True">RCR</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Dis_Red_H_toggle" isOn="False" interactable="False">Dis</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_Red_H_toggle" isOn="False" interactable="False">Exp4</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_Red_H_toggle" isOn="False" interactable="False">Exp5</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_Red_H_toggle" isOn="False" interactable="False">Exp6</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_Red_H_toggle" isOn="True">Holo EN</Toggle></Cell>
+    </Row>
+    <Row>
+      <Cell columnSpan="3"><Text class="label" alignment="MiddleRight">Purple Seat:</Text></Cell>
+      <Cell><Text class="selection" id="Purple_sel">None</Text></Cell>
+      <Cell><Button id="Purple" onClick='randomize_hero'><Text class='label'>Randomize</Text></Button></Cell>
+    </Row>
+    <Row class="Purple_Seat">
+      <Dropdown id="Purple_Seat" onValueChanged="Set_hero_Variables" interactable="true">
+        <Option>None</Option>
+        <!--<Option>Chrono-Ranger</Option>
+        <Option>Darkstrife and Painstake</Option>
+        <Option>KNYFE</Option>
+        <Option>Omnitron-X</Option>
+        <Option>Parse</Option>
+        <Option>Visionary</Option>-->
+        <Option>Absolute Zero</Option>
+        <Option>Alpha</Option>
+        <Option>Argent Adept</Option>
+        <Option>Bunker</Option>
+        <Option>Captain Cosmic</Option>
+        <Option>Expatriette</Option>
+        <Option>Fanatic</Option>
+        <Option>Haka</Option>
+        <Option>Legacy</Option>
+        <Option>Mr. Fixer</Option>
+        <Option>Nightmist</Option>
+        <Option>Ra</Option>
+        <Option>Setback</Option>
+        <Option>Tachyon</Option>
+        <Option>Tempest</Option>
+        <Option>The Harpy</Option>
+        <Option>Unity</Option>
+        <Option>Wraith</Option>
+        <Option>Ame</Option>
+        <Option>Calli</Option>
+        <Option>Gura</Option>
+        <Option>Kiara</Option>
+        <Option>Ina</Option>
+        <Option>IRyS</Option>
+        <Option>Bae</Option>
+        <Option>Fauna</Option>
+        <Option>Kronii</Option>
+        <Option>Mumei</Option>
+        <Option>Sana</Option>
+      </Dropdown>
+    </Row>
+    <Row>
+      <Cell><Toggle onValueChanged="update_isOn" id="DE_Red_H_toggle" isOn="True">DE</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="RCR_Red_H_toggle" isOn="True">RCR</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Dis_Red_H_toggle" isOn="False" interactable="False">Dis</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_Red_H_toggle" isOn="False" interactable="False">Exp4</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_Red_H_toggle" isOn="False" interactable="False">Exp5</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_Red_H_toggle" isOn="False" interactable="False">Exp6</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_Red_H_toggle" isOn="True">Holo EN</Toggle></Cell>
+    </Row>
+    <Row class="start_game">
+      <cell columnSpan="3"><button onClick='go_to_final_review'><Text class='label'>Final Review</Text></button></cell>
+      <cell columnSpan="3"><button onClick='Start_Over'><Text class='label'>Go back</Text></button></cell>
+    </Row>
+  </TableLayout>
+</Panel>
+
+<!--Final Settings-->
+<Panel id="Final_review" position="0 320 -100" height="1000" width="1400" color="#FFFFFF" visibility="invisible">
+  <TableLayout>
+    <Row preferredHeight="200"><Text class="Warning">Look over the final selection settings</Text></Row>
+    <Row class="event">
+      <Cell><Text class="label">Event:</Text></Cell>
+      <Cell><Text class="selection" id="fevent">None</Text></Cell>
+    </Row>
+    <Row class="environment">
+      <Cell><Text class="label">Environment:</Text></Cell>
+      <Cell><Text class="selection" id="fenvironment">Random</Text></Cell>
+    </Row>
+    <Row class="villain">
+      <Cell><Text class="label">Villain:</Text></Cell>
+      <Cell><Text class="selection" id="fvillain">Random</Text></Cell>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Collection 1:</Text></Cell>
+      <Cell><Text class="selection" id="fcollection1">None</Text></Cell>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Collection 2:</Text></Cell>
+      <Cell><Text class="selection" id="fcollection2">None</Text></Cell>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Collection 3:</Text></Cell>
+      <Cell><Text class="selection" id="fcollection3">None</Text></Cell>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Collection 4:</Text></Cell>
+      <Cell><Text class="selection" id="fcollection4">None</Text></Cell>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Collection 5:</Text></Cell>
+      <Cell><Text class="selection" id="fcollection5">None</Text></Cell>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Red Seat:</Text></Cell>
+      <Cell><Text class="selection" id="fRed">None</Text></Cell>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Yellow Seat:</Text></Cell>
+      <Cell><Text class="selection" id="fYellow">None</Text></Cell>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Green Seat:</Text></Cell>
+      <Cell><Text class="selection" id="fGreen">None</Text></Cell>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Blue Seat:</Text></Cell>
+      <Cell><Text class="selection" id="fBlue">None</Text></Cell>
+    </Row>
+    <Row>
+      <Cell><Text class="label">Purple Seat:</Text></Cell>
+      <Cell><Text class="selection" id="fPurple">None</Text></Cell>
+    </Row>
+    <Row class="start_game">
+      <Cell><button onClick='start_game'><Text class='label' id="setup_button">Deploy Assets</Text></button></Cell>
+      <cell><button onClick='Start_Over'><Text class='label'>Go back</Text></button></cell>
+    </Row>
+  </TableLayout>
+</Panel>
