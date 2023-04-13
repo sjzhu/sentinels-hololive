@@ -427,13 +427,13 @@
       </Dropdown>
     </Row>
     <Row>
-      <Cell><Toggle onValueChanged="update_isOn" id="DE_Red_H_toggle" isOn="True">DE</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="RCR_Red_H_toggle" isOn="True">RCR</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Dis_Red_H_toggle" isOn="False" interactable="False">Dis</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_Red_H_toggle" isOn="False" interactable="False">Exp4</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_Red_H_toggle" isOn="False" interactable="False">Exp5</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_Red_H_toggle" isOn="False" interactable="False">Exp6</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_Red_H_toggle" isOn="True">Holo EN</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="DE_Yellow_H_toggle" isOn="True">DE</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="RCR_Yellow_H_toggle" isOn="True">RCR</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Dis_Yellow_H_toggle" isOn="False" interactable="False">Dis</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_Yellow_H_toggle" isOn="False" interactable="False">Exp4</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_Yellow_H_toggle" isOn="False" interactable="False">Exp5</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_Yellow_H_toggle" isOn="False" interactable="False">Exp6</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_Yellow_H_toggle" isOn="True">Holo EN</Toggle></Cell>
     </Row>
     <Row>
       <Cell columnSpan="3"><Text class="label" alignment="MiddleRight">Green Seat:</Text></Cell>
@@ -481,13 +481,13 @@
       </Dropdown>
     </Row>
     <Row>
-      <Cell><Toggle onValueChanged="update_isOn" id="DE_Red_H_toggle" isOn="True">DE</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="RCR_Red_H_toggle" isOn="True">RCR</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Dis_Red_H_toggle" isOn="False" interactable="False">Dis</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_Red_H_toggle" isOn="False" interactable="False">Exp4</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_Red_H_toggle" isOn="False" interactable="False">Exp5</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_Red_H_toggle" isOn="False" interactable="False">Exp6</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_Red_H_toggle" isOn="True">Holo EN</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="DE_Green_H_toggle" isOn="True">DE</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="RCR_Green_H_toggle" isOn="True">RCR</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Dis_Green_H_toggle" isOn="False" interactable="False">Dis</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_Green_H_toggle" isOn="False" interactable="False">Exp4</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_Green_H_toggle" isOn="False" interactable="False">Exp5</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_Green_H_toggle" isOn="False" interactable="False">Exp6</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_Green_H_toggle" isOn="True">Holo EN</Toggle></Cell>
     </Row>
     <Row>
       <Cell columnSpan="3"><Text class="label" alignment="MiddleRight">Blue Seat:</Text></Cell>
@@ -535,13 +535,13 @@
       </Dropdown>
     </Row>
     <Row>
-      <Cell><Toggle onValueChanged="update_isOn" id="DE_Red_H_toggle" isOn="True">DE</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="RCR_Red_H_toggle" isOn="True">RCR</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Dis_Red_H_toggle" isOn="False" interactable="False">Dis</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_Red_H_toggle" isOn="False" interactable="False">Exp4</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_Red_H_toggle" isOn="False" interactable="False">Exp5</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_Red_H_toggle" isOn="False" interactable="False">Exp6</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_Red_H_toggle" isOn="True">Holo EN</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="DE_Blue_H_toggle" isOn="True">DE</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="RCR_Blue_H_toggle" isOn="True">RCR</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Dis_Blue_H_toggle" isOn="False" interactable="False">Dis</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_Blue_H_toggle" isOn="False" interactable="False">Exp4</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_Blue_H_toggle" isOn="False" interactable="False">Exp5</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_Blue_H_toggle" isOn="False" interactable="False">Exp6</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_Blue_H_toggle" isOn="True">Holo EN</Toggle></Cell>
     </Row>
     <Row>
       <Cell columnSpan="3"><Text class="label" alignment="MiddleRight">Purple Seat:</Text></Cell>
@@ -589,13 +589,13 @@
       </Dropdown>
     </Row>
     <Row>
-      <Cell><Toggle onValueChanged="update_isOn" id="DE_Red_H_toggle" isOn="True">DE</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="RCR_Red_H_toggle" isOn="True">RCR</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Dis_Red_H_toggle" isOn="False" interactable="False">Dis</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_Red_H_toggle" isOn="False" interactable="False">Exp4</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_Red_H_toggle" isOn="False" interactable="False">Exp5</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_Red_H_toggle" isOn="False" interactable="False">Exp6</Toggle></Cell>
-      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_Red_H_toggle" isOn="True">Holo EN</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="DE_Purple_H_toggle" isOn="True">DE</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="RCR_Purple_H_toggle" isOn="True">RCR</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Dis_Purple_H_toggle" isOn="False" interactable="False">Dis</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp4_Purple_H_toggle" isOn="False" interactable="False">Exp4</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp5_Purple_H_toggle" isOn="False" interactable="False">Exp5</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="Exp6_Purple_H_toggle" isOn="False" interactable="False">Exp6</Toggle></Cell>
+      <Cell><Toggle onValueChanged="update_isOn" id="HoloEN_Purple_H_toggle" isOn="True">Holo EN</Toggle></Cell>
     </Row>
     <Row class="start_game">
       <cell columnSpan="3"><button onClick='go_to_final_review'><Text class='label'>Final Review</Text></button></cell>
