@@ -1,4 +1,31 @@
 # Changelog
+## 0.13.1 (beta)
+ - Mumei
+   - A New Start
+     - Changed to add a destroy proc for a play
+   - Artistic Hand
+     - START PHASE salvage changed to salvage/play a target
+   - Blessing of Civilization
+     - Simplified
+     - AOE draw, play non-One-Shot, optional power
+   - Flying Feathers
+     - Discard proc changed to power usage
+     - Power changed to 2 targets 1 irreducible
+   - Never Stop Moomin'
+     - ADDED
+     - Extra draw
+     - END PHASE to check if discard
+   - The Council - Civilization
+     - Support proc changed to "discard any number of cards"
+   - Vengeful Nature
+     - Removed
+## 0.13 (beta)
+ - New Table! Bunch of features:
+   - Highest/Lowest HP tracker on the left
+   - Hotkeys to spawn tokens
+   - automatic buttons for HP for cards
+   - automated setup!
+   - more that I have forgotten!
 ## 0.12.5
 Substantial changes to Gura, slight tweaks to Kiara
 ## Gura

@@ -172,8 +172,8 @@ Heroes = {
   Set = "HoloEN"
   },
   {  Name = 'Mumei',
-  guid = '0ad38b',
-  Deck = 'f12698',
+  guid = '11aad6',
+  Deck = '455e2e',
   Set = "HoloEN"
   },
   {  Name = 'Sana',
