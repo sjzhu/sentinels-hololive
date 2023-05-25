@@ -1,4 +1,31 @@
 # Changelog
+## 0.13.2 (beta)
+ - Sana
+   - Large changes overall! New symbol introduced to CC to track her health rounding
+   - CC
+     - Added 🌟 symbol for HP/10 rounded up value
+     - Added SETUP text to summon limiter before hand DRAW
+   - Merciless variant
+     - Same changes as base
+     - Lowered max HP by 1 for "balance"
+   - Beeg!
+     - Now buffs 🌟 value instead of uncapping max HP
+     - Added card draw to power
+   - Blessings of Space
+     - Added heal on START PHASE
+   - Destructive Growth
+     - Lowered initial heal to 2
+     - Now deals damage based on 🌟 value
+     - Based on 🌟 value, allows extra play or more Healing
+   - Sana is Beeg!
+     - Same changes as Destructive Growth
+   - The Council - Space
+     - Allows change to psychic damage instead of damage buff
+     - Power lets all non-character damage be redirected
+     - END PHASE instead of passive, allows discard for Healing
+   - Yatagarasu
+     - Added START PHASE 🌟 check for play or Healing
+     - END PHASE damage now based on 🌟
 ## 0.13.1 (beta)
  - Mumei
    - A New Start
