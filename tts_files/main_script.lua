@@ -177,8 +177,8 @@ Heroes = {
   Set = "HoloEN"
   },
   {  Name = 'Sana',
-  guid = '5d26ec',
-  Deck = '07249e',
+  guid = '874b87',
+  Deck = 'f0ebaf',
   Set = "HoloEN"
   },
   {  Name = 'Random',
