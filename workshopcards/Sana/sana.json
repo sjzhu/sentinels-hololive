@@ -166,16 +166,19 @@
     },
     {
         "Title": "Sneeze",
-        "Keywords": "Suddenly, One-Shot",
-        "Count": "2",
         "HP": "",
-        "GameText": "Tsukumo Sana deals Sana's Limiter 3 fixed melee damage.\nTsukumo Sana deals each target 2 melee damage.\nYou may use 1 power.",
+        "Keywords": "One-Shot",
+        "BoldedTerms": "",
+        "GameText": "Tsukumo Sana deals Sana's Limiter 3 fixed melee damage.\nTsukumo Sana deals each target 2 melee damage.\nTsukumo Sana regains 3 HP.",
+        "GameTextSize": "100",
         "Quote": "\"If I sneeze, all the Earth's volcanoes will erupt apparently... But it's okay!\"",
         "Attribution": "-- Tsukumo Sana, holoscopes, 2021/12/10",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Sana/sneeze.png",
-        "ImageX": "",
-        "ImageY": "-3"
-    },
+        "ImageX": "0",
+        "ImageY": "-3",
+        "ImageZoom": "100",
+        "Suddenly": "true"
+      },
     {
         "Title": "The Council - Space",
         "HP": "",
