@@ -19,17 +19,20 @@
         "Keywords": "Ministry",
         "Count": "1",
         "HP": "28",
-        "GameText": "   BOAST\nBury the top card of the Villain trash. If there are any cards in the Villain trash, Krono deals 1 Hero target X infernal damage, where X is the number of cards in the Villain trash.\nEND PHASE\n(H)-1 Heroes discard 1 card each.",
+        "GameText": "💪 BOAST\nBury the top card of the Villain trash. Then, Krono deals 1 Hero target X infernal damage, where X is the number of cards in the Villain trash.\nEND PHASE\n(H)-1 Heroes discard 1 card each.",
         "Quote": "\"I'll be right on time.\"",
         "Attribution": "-- Ouro Krono, ministry meeting, 2022/01/25",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/krono.png"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/krono.png",
+        "ImageX": "",
+        "ImageY": "-2",
+        "GameTextSize": "89"
     },
     {
         "Title": "Hayko",
         "Keywords": "Ministry",
         "Count": "1",
         "HP": "25",
-        "GameText": "   BOAST\nHayko deals the 2 Hero targets with the lowest HP 2 melee damage each.\nEND PHASE\nDiscover 1 One-Shot card.",
+        "GameText": "💪 BOAST\r\nHayko deals the 2 Hero targets with the lowest HP 2 melee damage each.\nEND PHASE\nDiscover 1 One-Shot card.",
         "Quote": "\"Will you play with me?\"",
         "Attribution": "-- Hayko, ministry meeting, 2022/01/25",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/hayko.png"
@@ -39,27 +42,33 @@
         "Keywords": "Ministry",
         "Count": "1",
         "HP": "31",
-        "GameText": "   BOAST\nFaun deals the Hero target with the highest HP X toxic damage where X is 1 + the number of cards under this card.\nEND PHASE\nReveal the top card of 2 Hero decks. Place one under this card, and discard the other.",
+        "GameText": "💪 BOAST\r\nFaun deals the Hero target with the highest HP X toxic damage where X is 1 + the number of cards under this card.\nEND PHASE\nReveal the top card of 2 Hero decks. Place one under this card, and discard the other.",
         "Quote": "\"I don't steal people to put into my basement.\"",
         "Attribution": "-- Faun, ministry meeting, 2022/01/25",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/faun.png"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/faun.png",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "90"
     },
     {
         "Title": "Muman",
         "Keywords": "Ministry",
         "Count": "1",
         "HP": "27",
-        "GameText": "   BOAST\nPut the top card of (H)-2 Hero decks under Muman.\nEND PHASE \nMuman deals X Hero targets with the highest HP 2 melee damage each, where X is the number of cards under this card. Destroy all cards under this card.",
+        "GameText": "💪 BOAST\r\nPut the top card of (H)-2 Hero decks under Muman.\nEND PHASE \nMuman deals X Hero targets with the highest HP 2 melee damage each, where X is the number of cards under this card. Destroy all cards under this card.",
         "Quote": "\"I want a *stable* relationship with you.\"",
         "Attribution": "-- Muman, ministry meeting, 2022/01/25",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/muman.png"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/muman.png",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "81"
     },
     {
         "Title": "San",
         "Keywords": "Ministry",
         "Count": "1",
         "HP": "35",
-        "GameText": "   BOAST\nUntil the Villain START PHASE, redirect all damage dealt to Ministry targets to San. San regains 3 HP.\nEND PHASE\nSan deals the Hero target with the highest HP 3 melee damage.",
+        "GameText": "💪 BOAST\r\nUntil the Villain START PHASE, redirect all damage dealt to Ministry targets to San. San regains 3 HP.\nEND PHASE\nSan deals the Hero target with the highest HP 3 melee damage.",
         "Quote": "\"Don't call me small! I'll prove you wrong!\"",
         "Attribution": "-- San, ministry meeting, 2022/01/25",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/san.png"
@@ -70,9 +79,9 @@
         "Keywords": "Ongoing, Taunt",
         "Count": "1",
         "HP": "",
-        "GameText": "After this card is played, if Krono is not in play, play the top card of the Villain deck.\nAfter a Hero discards a card, Krono deals them 1 fixed psychic damage.\n+1 damage dealt to and by Ministry targets.",
-        "Quote": "",
-        "Attribution": "",
+        "GameText": "After this card is played, if Krono is not in play, play the top card of the Villain deck.\nAfter a Hero discards a card, Krono deals them 1 fixed psychic damage.\n+1 damage dealt to and by Krono.",
+        "Quote": "\"Between my clock and your rocket, which one is bigger?\"",
+        "Attribution": "-- Krono, Ministry MEeting, 2022/01/25",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/compareclocks.png"
     },
     {
@@ -80,9 +89,9 @@
         "Keywords": "Ongoing, Taunt",
         "Count": "1",
         "HP": "",
-        "GameText": "After this card is played, if San is not in play, play the top card of the Villain deck.\nAfter San is dealt damage, he regains 1 HP.\n+1 damage dealt to and by Ministry targets.",
-        "Quote": "",
-        "Attribution": "",
+        "GameText": "After this card is played, if San is not in play, play the top card of the Villain deck.\nAfter San is dealt damage, he regains 1 HP.\n+1 damage dealt to and by San.",
+        "Quote": "\"Wait til you see my rocket...\"",
+        "Attribution": "-- San, Ministry Meeting, 2022/01/25",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/myrocketisbigger.png"
     },
     {
@@ -90,9 +99,9 @@
         "Keywords": "Ongoing, Taunt",
         "Count": "1",
         "HP": "",
-        "GameText": "After this card is played, if Faun is not in play, play the top card of the Villain deck.\nWhen Faun would be dealt damage, destroy 1 card under him. If a card is destroyed this way, prevent that damage.\nAfter Faun deals damage to a target, put the top card of the associated deck under him.\n+1 damage dealt to and by Ministry targets.",
-        "Quote": "",
-        "Attribution": "",
+        "GameText": "After this card is played, if Faun is not in play, play the top card of the Villain deck.\nWhen Faun would be dealt damage, destroy 1 card under him. If a card is destroyed this way, prevent that damage.\nAfter Faun deals damage to a target, put the top card of the associated deck under him.\n+1 damage dealt to and by Faun.",
+        "Quote": "\"I'm going to naturally select you.\"",
+        "Attribution": "-- Faun, Ministry MEeting, 2022/01/25",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/cantescapeyournature.png"
     },
     {
@@ -100,9 +109,9 @@
         "Keywords": "Ongoing, Taunt",
         "Count": "1",
         "HP": "",
-        "GameText": "After this card is played, if Hayko is not in play, play the top card of the Villain deck.\nAfter Hayko deals damage to a Hero target, destroy an Ongoing or Item in that play area.\n+1 damage dealt to and by Ministry targets.",
-        "Quote": "",
-        "Attribution": "",
+        "GameText": "After this card is played, if Hayko is not in play, play the top card of the Villain deck.\nAfter Hayko deals damage to a Hero target, destroy an Ongoing or Item in that play area.\n+1 damage dealt to and by Hayko.",
+        "Quote": "\"Ey, cousin, I didn't do nothing!\"",
+        "Attribution": "-- Hayko, Twitter, 2022/01/25",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/lipslonely.png"
     },
     {
@@ -110,20 +119,20 @@
         "Keywords": "Ongoing, Taunt",
         "Count": "1",
         "HP": "",
-        "GameText": "After this card is played, if Muman is not in play, play the top card of the Villain deck.\nAfter the first time each turn a card is discarded, place it under Muman.\n+1 damage dealt to and by Ministry targets.",
-        "Quote": "",
-        "Attribution": "",
+        "GameText": "After this card is played, if Muman is not in play, play the top card of the Villain deck.\nAfter the first time each turn a card is discarded, place it under Muman.\n+1 damage dealt to and by Muman.",
+        "Quote": "\"You can find me at the gym. Any gym.\"",
+        "Attribution": "-- Muman, Ministry Meeting, 2022/01/25",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/ohhey.png"
     },
     {},
     {
         "Title": "Back to the Gym",
         "Keywords": "One-Shot",
-        "Count": "4",
+        "Count": "3",
         "HP": "",
-        "GameText": "Activate the    BOAST effect of the Ministry target with the lowest HP.\nThat target regains H HP and deals the Hero target with the highest HP 2 melee damage.",
-        "Quote": "",
-        "Attribution": "",
+        "GameText": "Activate the 💪 BOAST effect of the Ministry target with the lowest HP.\nThat target regains H HP and deals the Hero target with the highest HP 2 melee damage.",
+        "Quote": "\"I'm getting gym separation anxiety...\"",
+        "Attribution": "-- Faun, Ministry Meeting, 2022/01/25",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/backtothegym.png"
     },
     {
@@ -131,30 +140,39 @@
         "Keywords": "One-Shot",
         "Count": "3",
         "HP": "",
-        "GameText": "Each Ministry target deals a different Hero character 2 psychic damage. \nEach Hero character deals a different Ministry target 2 psychic damage.\nActivate the    BOAST effects of the two Ministry targets with the highest HP.",
-        "Quote": "",
-        "Attribution": "",
+        "GameText": "Each Ministry target deals a different Hero character 2 psychic damage. \nEach Hero character deals a different Ministry target 2 psychic damage.\nActivate the 💪 BOAST effects of the two Ministry targets with the highest HP.",
+        "Quote": "\"Welcome to our debut and graduation stream! We're speedrunning it!\"",
+        "Attribution": "-- Krono, Ministry meeting, 2022/01/25",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/graduationspeedrun.png"
     },
     {
         "Title": "No Hesitation",
         "Keywords": "One-Shot",
-        "Count": "4",
+        "Count": "3",
         "HP": "",
-        "GameText": "The Ministry target with the highest HP deals the Hero target with the lowest HP 2 melee damage.\nActivate the    BOAST effect of the Ministry target with the highest HP.",
-        "Quote": "",
-        "Attribution": "",
+        "GameText": "The Ministry target with the highest HP deals the Hero target with the lowest HP 2 melee damage.\nActivate the 💪 BOAST effect of the Ministry target with the highest HP.",
+        "Quote": "\"The ministry must not hesitate.\"",
+        "Attribution": "-- Harbinger, ministry PV, 2022/01/25",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/nohesitation.png"
     },
     {
         "Title": "Your Best Pickup Lines",
         "Keywords": "One-Shot",
-        "Count": "4",
+        "Count": "3",
         "HP": "",
-        "GameText": "Discover 1 Taunt.\nIf no Taunts are played this way, shuffle the Villain trash into the Villain deck.\nActivate the    BOAST effect of the Ministry target with the highest HP.",
-        "Quote": "",
-        "Attribution": "",
+        "GameText": "Discover 1 Taunt.\nIf no Taunts are played this way, shuffle the Villain trash into the Villain deck.\nActivate the 💪 BOAST effect of the Ministry target with the highest HP.",
+        "Quote": "\"Let's hear your best pickup lines, boys.\"",
+        "Attribution": "-- Krono, Ministry meeting, 2022/01/25",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/yourbestpickuplines.png"
+    },
+    {
+        "Title": "Negative Rizz",
+        "Keywords": "One-Shot",
+        "Count": "3",
+        "HP": "",
+        "GameText": "Each Ministry target deals themselves 2 fixed psychic damage.\nFor each target dealt damage this way, reveal the top card of the Villain deck. If it is a One-Shot, discard it, otherwise, play it.",
+        "Quote": "\"Hayko just told me he has a 4 million dollar debt. He is never allowed in the shed again.\"",
+        "Attribution": "-- Baelz Hakos, twitter, 2023/02/01"
     },
     {},
     {
