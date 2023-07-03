@@ -147,7 +147,7 @@ Heroes = {
   Set = "HoloEN"
   },
   {  Name = 'Ina',
-  guid = 'f1d2dd',
+  guid = '1eafa2',
   Deck = 'a73e6c',
   Set = "HoloEN"
   },
@@ -158,7 +158,7 @@ Heroes = {
   },
   {  Name = 'Bae',
   guid = '3da151',
-  Deck = 'bcff13',
+  Deck = 'a38e1b',
   Set = "HoloEN"
   },
   {  Name = 'Fauna',
