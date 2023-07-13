@@ -1,4 +1,42 @@
 # Changelog
+## 0.13.5
+ - Ina
+   - Sanity cards
+     - Added an optional discover Ritual to all of them
+   - A.O.-chan
+     - Power changed to play or discover sanity card.
+
+## 0.13.4
+Idol Variants added! Balance is probably off.
+
+## 0.13.3
+ - Bae
+   - Moderate rework!
+   - Blessing of chaos
+     - Only 1 Hero target deals damage
+   - Chaotic Battlefield
+     - REMOVED
+   - Chaotic Tactics
+     - Added
+     - Gives a damage proc when you discover a card that's already in play
+     - Also procs effects that happen when you destroy your own cards.
+   - Mr. Squeaks
+     - Removed the draw
+       - Lord Squeakers was too strong.
+   - Play Dice!
+     - Power changed to shuffle trash into deck.
+   - The Council - Chaos
+     - Team buff changed to draw after card Destruction
+   - Toxictaro
+     - Full rework
+     - Now plays top of ally's deck when destroyed
+     - After another card is destroyed, deal damage and destroy this card
+     - reaction to deal damage and destroy this card
+   - You Wanna Go?
+     - Full rework
+     - Deals damage on play
+     - START PHASE upkeep damage buffed, now destroys as well
+     - Play top card of ally's deck when destroyed
 ## 0.13.2 (beta)
  - Sana
    - Large changes overall! New symbol introduced to CC to track her health rounding
@@ -156,7 +194,7 @@ New Hero!
 Noir Vesper is the resident scholar of the guild TEMPUS! I do plan to make the rest of TEMPUS as decks, things are slow going at the moment due to real life things!
 
 ## 0.11 (2022/09/21)
-Variants! 
+Variants!
 Each Hero has received a variant! These are still somewhat early, let me know what you think!
 
 ## Ame
@@ -207,7 +245,7 @@ Not entirely sure if removing IRyS's only item will have weird effects with item
   - Lord Squeakers has been given his proper attribution
   - Effect changed to change random plays to more controlled ones
   - No longer does damage on death
-  
+
 ## Calli
 - Calli's Mic
   - (Unlisted change from previous patch) Renamed from Reaper's Mic
@@ -217,7 +255,7 @@ Not entirely sure if removing IRyS's only item will have weird effects with item
   - Effect swapped with Dead Beats
 - Guh!
   - Changed power usage to RAP trigger
-- Self-Depreciating Rap 
+- Self-Depreciating Rap
   - Additional effects changed to play 1 Flow and activate 1 RAP
 - UnAlive
   - Bury changed to discard 1 card.
@@ -225,7 +263,7 @@ Not entirely sure if removing IRyS's only item will have weird effects with item
   - Draw nerfed to 1 card
   - Damage changed to RAP activate
   - Self damage adds play
-  
+
 ## Fauna
 - Blessings of Nature
   - Standardized to 3 Heroes
@@ -239,7 +277,7 @@ Not entirely sure if removing IRyS's only item will have weird effects with item
   - Added play option
 - Sleep
   - Changed to be 1 card of any type
-  
+
 ## IRyS (EDIT)
 - CC power
   - Added "Discover 1 Song card."
@@ -325,9 +363,9 @@ Sana's entirely reworked, a bunch of others have minor/major changes!
 ## Ina
 - Protect the Priestess
 	- Changed redirection to a REACTION
-	
+
 ## IRyS
-Generaly, I've tried to make decision making more straightforward by making her Songs more opposite effects. 
+Generaly, I've tried to make decision making more straightforward by making her Songs more opposite effects.
 Hopefully this reduces her turn times.
 - Caesura of Despair
 	- Now discovers/destroys Ongoings
@@ -402,7 +440,7 @@ All cards with 3+ play thresholds have had the Burst tag added to them (cuz Tach
 - The Council - Civilization
 	- Added damage cost to passive draw ability
 	- Changed END PHASE to discard -> draw
-	
+
 ## Sana
 Constellations have all been removed, as they were kind of random/difficult to parse
 Cards added mostly based on Astrogirl, which has provided much adorable art :D
@@ -445,7 +483,7 @@ Cards added mostly based on Astrogirl, which has provided much adorable art :D
 	- Now deals damage only to non-Hero targets
 - Yatagarasu
 	- Deals damage based on Sana's HP now
-	
+
 
 ## 0.9.3 (2022/05/24)
 All decks: Most usage of 'a' changed to '1' (unless it's a trigger)
@@ -469,7 +507,7 @@ All decks: Added 'card' after most keywords in game text (i.e. 'Ongoing card' in
   - Removed/renamed to Play Dice!
 - Yolo is my Ninja Way
   - Uses Play Dice!'s old effect
-  
+
 ## IRyS
 - Project: HOPE and YABAIRyS
   - Removed 1 copy of each
@@ -535,11 +573,11 @@ Added a bunch of optional plays (sometimes at the cost of toxic damage).
   - Reword to interact better with new Council effect
 - The Council - Chaos
   - Replace draw with reveal and replace (for true chaos shenanigans)
- 
+
 ## Calli
 - Reaper's Mic
-  - Replace START PHASE RAP effect with discover flow 
-  
+  - Replace START PHASE RAP effect with discover flow
+
 ## Fauna
 - Blessings of Nature
   - Down to 3 copies
@@ -604,7 +642,7 @@ Initial release! Only minorly playtested! Take 'em out before they take you out 
 ## 0.8 (2022/04/27)
 
 No gameplay changes, but changing all the card images to use images from https://unitysworkshop.com!
-They look much more like DE cards now. :D 
+They look much more like DE cards now. :D
 
 ## 0.7 (2022/04/25)
 
@@ -635,7 +673,7 @@ More changes for consistent play/balance
   - Power changed to reveal top card of a deck (shuffle will happen anyway)
 - You Wanna Go?
   - Removed limited restriction
-  
+
 ## Calli
 - Cheap Wine
   - Add card draw effect
@@ -656,7 +694,7 @@ More changes for consistent play/balance
 - Workaholic Business Lady
   - Change to draw -> play flow
   - Increased to 4 cards
-  
+
 ## Fauna
 - Blessings of Nature
   - Reword redirection to use less text (should still work the same)
@@ -666,7 +704,7 @@ More changes for consistent play/balance
   - Add optional trash shuffle
 - Taken By Nature
   - Discover -> discover/play
-  
+
 ## Gura
 - A
   - Add card play
@@ -696,7 +734,7 @@ More changes for consistent play/balance
   - Swapped END PHASE timings so you can get 3 uses out of Friend
 - The Council - Civilization
   - Clarified trigger to be any hero
-  
+
 ## Sana
 - Cosmic Presence
   - Sana is eternal
@@ -818,7 +856,7 @@ Added! Tenchou commands both the power of the phoenix and KFP! Don't worry about
 
 ### IRyS
 - CC buffed to 25 HP
- 
+
 ### Fauna
 #### Changed
 - Mother Nature's Orders
@@ -838,7 +876,7 @@ Added! Tenchou commands both the power of the phoenix and KFP! Don't worry about
 	- Effect moved to Red
 - Red
 	- REAP effect changed to 2 damage to all non-hero targets
-	
+
 ### Fauna
 #### Changed
 - Blessings of Nature
@@ -911,7 +949,7 @@ Refactored card structure to use the same blueprint for all cards. Unsure if thi
 
 ### Mumei
 #### Notes
-All of Mumei's items have had the "Another hero may use..." clause removed. 
+All of Mumei's items have had the "Another hero may use..." clause removed.
 #### Changed
 - Character card
 	- Base power changed.
@@ -968,7 +1006,7 @@ All of Mumei's items have had the "Another hero may use..." clause removed.
 ### Fauna
 #### Changed
 
- - Fixed typos on some cards 
+ - Fixed typos on some cards
 
 ### Kronii
 #### Changed
