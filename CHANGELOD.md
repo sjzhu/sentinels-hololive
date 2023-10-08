@@ -1,4 +1,93 @@
 # Changelog
+## 0.13.7
+UNTESTED CHANGES
+- Kronii
+  - All Burst cards changed to Moment cards.
+    - Changed extra effects on card play threshold to 2 fixed damage to play card
+  - Character Card
+    - Power changed to filter or 2 damage
+  - Boros
+    - Added END PHASE heal or draw
+  - Gwak!!
+    - Added discover Moment card
+  - Kroniicopter
+    - Increased on play draw
+    - Changed destruction effect to discard and salvage
+  - My Own Time
+    - Reworked to heal based on trash size
+  - Only the Clock Will Tell
+    - Burst -> Moment
+  - Past Its Time
+    - Burst -> Moment
+  - Take Your Time
+    - Added on play draw
+  - The Council - Time
+    - Changed art
+    - Added on play AOE draw instead of first passive
+  - Time Blades
+    - Changed first damage proc to flat 2. Second damage proc scales with card plays, unrestricted targeting
+  - Time Slash
+    - Burst -> Moment
+    - Base damage changed to 3 irreducible
+    - Added discard villain effect
+  - Unwind Time
+    - Burst -> Moment
+    - Salvage reduced to 1 ally Hero
+    - HP regain made baseline
+- Ame
+  - Character Card
+    - Power changed to check top cards for more draw
+  - Bubba
+    - Added END PHASE heal or draw
+  - Creative Force of Will
+    - END PHASE changed to check top cards for AOE draw
+  - Hic!
+    - Remove 2 of the draws to manipulate top cards of 3 decks.
+  - Industrious Spirit
+    - Added on play deck manipulation
+  - Magnifying Glass
+    - Added on play salvage
+  - Salty Rage
+    - Damage increased, added Hero Ongoing/Item destruction
+  - Smol Ame
+    - END PHASE upkeep gated behind top deck check
+  - Technical Aptitude
+    - START PHASE changed to check top deck and destroy to play
+  - Time Shuffle
+    - Post bury changed to check top deck for maybe play
+  - Time Travel Pocketwatch
+    - Power changed to target START PHASE or END PHASE of a non-Hero in play
+  - Timeline Management
+    - Changed to manipulate top deck on draw
+
+## 0.13.6
+- Mumei
+  - A New Start
+    - Reworked to do discards for Items/Ongoings
+  - Artistic Hand
+    - Power added to summon ongoings
+  - Flying Feathers
+    - Discard passive removed
+    - Added on play effect
+  - Friend
+    - Passive removed
+    - On play effect added
+    - Destruction effect removed
+  - Hand Lamp
+    - Added on play effect
+  - History of Violence
+    - Changed art and flavor text because destroying printers is hilarious
+  - Never Stop Moomin'
+    - Nerfed to 2 damage
+  - Nightmare
+    - Changed to Terrifying Creations
+    - Changed to Ongoing
+    - Changed to flat 2 damage
+    - Power added to discard 3 cards
+  - The Council - Civilization
+    - Added on play effect
+    - Removed END PHASE passive
+    - Changed art
 ## 0.13.5
  - Ina
    - Sanity cards
