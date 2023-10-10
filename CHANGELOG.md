@@ -1,12 +1,15 @@
 # Changelog
 ## 0.14 (ALPHA FOR RELEASE)
 Massive number of mostly cosmetic changes:
-All references to characters have been changed to their commonly used names/nicknames
+
+- All references to characters have been changed to their commonly used names/nicknames
 i.e. "Mori Calliope" -> "Calli"
-This was done to save on card space and also to show people unfamiliar with HoloEN what names
+- This was done to save on card space and also to show people unfamiliar with HoloEN what names
 are usually used to refer to the members.
-All Council cards have been given new art to distinguish themselves from each other
-To celebrate the new unit Hololive English ~Promise~, all Blessing cards have been refluffed to be Promise cards.
+- All Council cards have been given new art to distinguish themselves from each other
+- To celebrate the new unit Hololive English ~Promise~, all Blessing cards have been refluffed to be Promise cards.
+- I'm hoping this will be the last major set of changes I'll need to make (the rest being just balance/tuning) for these decks!
+Then I can focus on some new decks :D
 
 - Ame
   - Gremlin Screeching
