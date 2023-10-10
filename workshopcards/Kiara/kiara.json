@@ -1,181 +1,181 @@
 [
     {
-        "Card Name": "Kiara",
-        "Tags": "Hero, Myth",
+        "Title": "Kiara",
+        "Keywords": "Hero, Myth",
         "Count": "",
         "HP": "24",
-        "Card Text": "Power - Phoenix Strike: Kiara deals 1 target 2 fire damage.",
-        "Flavor Text": "",
-        "Misc": "Standard"
+        "GameText": "Power - Phoenix Strike: Kiara deals 1 target 2 fire damage.",
+        "Quote": "",
+        "Attribution": "Standard"
     },
     {
-        "Card Name": "",
-        "Tags": "Incap",
+        "Title": "",
+        "Keywords": "Incap",
         "Count": "",
         "HP": "",
-        "Card Text": "- Return all of Kiara's deck to the game. Shuffle it and draw 4 cards. Replace this card with another Kiara character card, active side up, restoring it to 10 HP and ending your turn.\n- Each hero draws a card.\n- 1 target deals itself 2 fixed fire damage."
+        "GameText": "- Return all of Kiara's deck to the game. Shuffle it and draw 4 cards. Replace this card with another Kiara character card, active side up, restoring it to 10 HP and ending your turn.\n- Each hero draws a card.\n- 1 target deals itself 2 fixed fire damage."
     },
     {
-        "Card Name": "Kiara",
-        "Tags": "Character Card",
+        "Title": "Kiara",
+        "Keywords": "Character Card",
         "Count": "",
         "HP": "22",
-        "Card Text": "Power - Tenchou: You may destroy 1 Chicken card. If you do, Kiara deals up to 3 targets 1 fire damage each. Otherwise, discover 1 Chicken card."
+        "GameText": "Power - Tenchou: You may destroy 1 Chicken card. If you do, Kiara deals up to 3 targets 1 fire damage each. Otherwise, discover 1 Chicken card."
     },
     {},
     {
-        "Card Name": "Burn Bright",
-        "Tags": "One-Shot",
+        "Title": "Burn Bright",
+        "Keywords": "One-Shot",
         "Count": "4",
         "HP": "",
-        "Card Text": "Up to 3 times, Kiara deals 1 Hero target in her play area 1 fixed fire damage.\nFor each damage dealt this way, Kiara may deal 1 target 2 fire damage.",
-        "Flavor Text": "Blazing flames!\nShow me the path to luminance!",
-        "Misc": "",
-        "Quote Link": "-- Kiara, hinotori"
+        "GameText": "Up to 3 times, Kiara deals 1 Hero target in her play area 1 fixed fire damage.\nFor each damage dealt this way, Kiara may deal 1 target 2 fire damage.",
+        "Quote": "Blazing flames!\nShow me the path to luminance!",
+        "Attribution": "-- Kiara, hinotori",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/burnbright.png"
     },
     {
-        "Card Name": "Employee Hiring",
-        "Tags": "One-Shot",
+        "Title": "Employee Hiring",
+        "Keywords": "One-Shot",
         "Count": "3",
         "HP": "",
-        "Card Text": "Play or summon 1 Chicken card.\nFor every Chicken card in play, draw 1 card or Kiara regains 2 HP.",
-        "Flavor Text": "\"So, you wanna work at KFP?\"",
-        "Misc": "",
-        "Quote Link": "-- Kiara, KFP Hiring, 2022/02/08"
+        "GameText": "Play or summon 1 Chicken card.\nFor every Chicken card in play, draw 1 card or Kiara regains 2 HP.",
+        "Quote": "\"So, you wanna work at KFP?\"",
+        "Attribution": "-- Kiara, KFP Hiring, 2022/02/08",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/chimkin.png"
     },
     {
-        "Card Name": "Extra Hats",
-        "Tags": "Item, Limited",
+        "Title": "Extra Hats",
+        "Keywords": "Item, Limited",
         "Count": "2",
         "HP": "",
-        "Card Text": "POWER PHASE\nYou may use an additional power this phase.\nEND PHASE\nYou may discard 1 card. If you do, draw 1 card.",
-        "Flavor Text": "\"I feel naked without my hat...\" - Kiara",
-        "Misc": "",
-        "Quote Link": "-- Kiara, super mario 64, 2020/09/22"
+        "GameText": "POWER PHASE\nYou may use an additional power this phase.\nEND PHASE\nYou may discard 1 card. If you do, draw 1 card.",
+        "Quote": "\"I feel naked without my hat...\" - Kiara",
+        "Attribution": "-- Kiara, super mario 64, 2020/09/22",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/extrahat.png"
     },
     {
-        "Card Name": "Hinotori",
-        "Tags": "Ongoing, Limited",
+        "Title": "Hinotori",
+        "Keywords": "Ongoing, Limited",
         "Count": "2",
         "HP": "",
-        "Card Text": "After the first time each turn any Hero target in your play area is dealt damage, you may draw 1 card.\nPOWER: Kiara deals 1 Hero target in her play area 1 fixed fire damage. Deal up to 3 targets 1 fire damage each.",
-        "Flavor Text": "Don't break, I will never give up\nDon't break hane ga kuchite mo",
-        "Misc": "",
-        "Quote Link": "-- Kiara, Hinotori"
+        "GameText": "After the first time each turn a Hero target in your play area is dealt damage, you may draw 1 card.\nPOWER: Kiara deals 1 Hero target in her play area 1 fixed fire damage. Deal up to 3 targets 1 fire damage each.",
+        "Quote": "Don't break, I will never give up\nDon't break hane ga kuchite mo",
+        "Attribution": "-- Kiara, Hinotori",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/hinotori.png"
     },
     {
-        "Card Name": "Holo Talk",
-        "Tags": "One-Shot",
+        "Title": "Holo Talk",
+        "Keywords": "One-Shot",
         "Count": "3",
         "HP": "",
-        "Card Text": "You may use 1 power.\n1 ally Hero may play 1 card.",
-        "Flavor Text": "\"Welcome to another episode of Holo Talk! I don't have audio feedback, let's goooo!\"",
-        "Misc": "",
-        "Quote Link": "-- Kiara, Holo Talk, 2022/11/20"
+        "GameText": "You may use 1 power.\n1 ally Hero may play 1 card.",
+        "Quote": "\"Welcome to another episode of Holo Talk! I don't have audio feedback, let's goooo!\"",
+        "Attribution": "-- Kiara, Holo Talk, 2022/11/20",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/holotalk.png"
     },
     {
-        "Card Name": "KFP Employee",
-        "Tags": "Chicken, Employee",
+        "Title": "KFP Employee",
+        "Keywords": "Chicken, Employee",
         "Count": "4",
         "HP": "3",
-        "Card Text": "After you play this card, you may play 1 card.\nYou may redirect damage dealt to Kiara to this card.",
-        "Flavor Text": "\"Viva la Kiara! We are not a cult!\"",
-        "Misc": "",
-        "Quote Link": "-- KFP Employees, Welcome to KFP, 2021/10/05"
+        "GameText": "After you play this card, you may play 1 card.\nYou may redirect damage dealt to Kiara to this card.",
+        "Quote": "\"Viva la Kiara! We are not a cult!\"",
+        "Attribution": "-- KFP Employees, Welcome to KFP, 2021/10/05",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/employee.png"
     },
     {
-        "Card Name": "Kiara Fried Phoenix",
-        "Tags": "Ongoing, Limited",
+        "Title": "Kiara Fried Phoenix",
+        "Keywords": "Ongoing, Limited",
         "Count": "2",
         "HP": "",
-        "Card Text": "After a Chicken card is destroyed, 1 Hero target may regain 2 HP.\nPOWER: Play or summon 1 Chicken card.",
-        "Flavor Text": "\"Since when do we have insurance? They're supposed to pay me for the privilege of working for me!\"",
-        "Misc": "",
-        "Quote Link": "-- Kiara, KFP Complaint Department, 2022/06/12"
+        "GameText": "After a Chicken card is destroyed, 1 Hero target may regain 2 HP.\nPOWER: Play or summon 1 Chicken card.",
+        "Quote": "\"Since when do we have insurance? They're supposed to pay me for the privilege of working for me!\"",
+        "Attribution": "-- Kiara, KFP Complaint Department, 2022/06/12",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/kfp.png"
     },
     {
-        "Card Name": "Kikkeriki!",
-        "Tags": "One-Shot, Greeting",
+        "Title": "Kikkeriki!",
+        "Keywords": "One-Shot, Greeting",
         "Count": "4",
         "HP": "",
-        "Card Text": "Draw 2 cards. \nSummon 1 Item card or 1 Chicken card.\nKiara deals 1 target 2 fire damage.",
-        "Flavor Text": "\"That's what kikkeriki going for! It's the German rooster sound!\"",
-        "Misc": "",
-        "Quote Link": "-- Kiara, Korean with Kronii, 2022/01/13"
+        "GameText": "Draw 2 cards. \nSummon 1 Item card or 1 Chicken card.\nKiara deals 1 target 2 fire damage.",
+        "Quote": "\"That's what kikkeriki going for! It's the German rooster sound!\"",
+        "Attribution": "-- Kiara, Korean with Kronii, 2022/01/13",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/kikkeriki.png"
     },
     {
-        "Card Name": "Part-Time Warrior",
-        "Tags": "Ongoing, Limited",
+        "Title": "Part-Time Warrior",
+        "Keywords": "Ongoing, Limited",
         "Count": "3",
         "HP": "",
-        "Card Text": "After this card is played, draw 1 card.\n-1 damage dealt to ally targets.\n+1 damage dealt by Kiara.\nSTART PHASE\nDestroy this card.",
-        "Flavor Text": "\"I may be a part-time warrior, but I'm a full time worrier.\"",
-        "Misc": "",
-        "Quote Link": "-- Kiara, twitter, 2022/03/27"
+        "GameText": "After this card is played, draw 1 card.\n-1 damage dealt to ally targets.\n+1 damage dealt by Kiara.\nSTART PHASE\nDestroy this card.",
+        "Quote": "\"I may be a part-time warrior, but I'm a full time worrier.\"",
+        "Attribution": "-- Kiara, twitter, 2022/03/27",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/parttimewarrior.png"
     },
     {
-        "Card Name": "Phoenix Shield",
-        "Tags": "Item, Relic",
+        "Title": "Phoenix Shield",
+        "Keywords": "Item, Relic",
         "Count": "1",
         "HP": "",
-        "Card Text": "-1 damage dealt to Kiara.\nPOWER: Choose 1 ally target. Until your START PHASE, redirect all damage dealt to that target to Kiara.",
-        "Flavor Text": "I'll dance in burning embers unyielding\nYour love's given me wings!",
-        "Misc": "",
-        "Quote Link": "-- Kiara, non-fiction"
+        "GameText": "-1 damage dealt to Kiara.\nPOWER: Choose 1 ally target. Until your START PHASE, redirect all damage dealt to that target to Kiara.",
+        "Quote": "I'll dance in burning embers unyielding\nYour love's given me wings!",
+        "Attribution": "-- Kiara, non-fiction",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/phoenixshield.png"
     },
     {
-        "Card Name": "Phoenix Sword",
-        "Tags": "Item, Relic",
+        "Title": "Phoenix Sword",
+        "Keywords": "Item, Relic",
         "Count": "1",
         "HP": "",
-        "Card Text": " +1 damage dealt by Kiara\nPOWER: Kiara deals herself 1 fixed fire damage. Kiara deals 1 target 3 melee damage.",
-        "Flavor Text": "       Gotta make it hot like a volcano  \n     strike a match and burn it up!",
-        "Misc": "",
-        "Quote Link": "-- Kiara, sparks"
+        "GameText": " +1 damage dealt by Kiara\nPOWER: Kiara deals herself 1 fixed fire damage. Kiara deals 1 target 3 melee damage.",
+        "Quote": "       Gotta make it hot like a volcano  \n     strike a match and burn it up!",
+        "Attribution": "-- Kiara, sparks",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/phoenixsword.png"
     },
     {
-        "Card Name": "Re-Debut",
-        "Tags": "Ongoing, Limited",
+        "Title": "Re-Debut",
+        "Keywords": "Ongoing, Limited",
         "Count": "2",
         "HP": "",
-        "Card Text": "When Kiara would be reduced to 0 HP, prevent that damage and regain 5 HP instead.\nThen, move each Hero card in her play area other than this card to their associated Hero's hand, play up to 2 cards and destroy this card.",
-        "Flavor Text": "\"You can't get me down, I'm a phoenix! You can't get a phoenix down that easily!\"",
-        "Misc": "",
-        "Quote Link": "-- Kiara, revival stream, 2020/12/09"
+        "GameText": "When Kiara would be reduced to 0 HP, prevent that damage and regain 5 HP instead.\nThen, move each Hero card in her play area other than this card to their associated Hero's hand, play up to 2 cards and destroy this card.",
+        "Quote": "\"You can't get me down, I'm a phoenix! You can't get a phoenix down that easily!\"",
+        "Attribution": "-- Kiara, revival stream, 2020/12/09",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/redebut.png"
     },
     {
-        "Card Name": "Sparks Light the Flame",
-        "Tags": "One-Shot",
+        "Title": "Sparks Light the Flame",
+        "Keywords": "One-Shot",
         "Count": "4",
         "HP": "",
-        "Card Text": "Kiara deals 1 Hero target in her play area 2 fixed fire damage.\nIf she deals damage this way, summon 1 Ongoing card and draw 1 card.",
-        "Flavor Text": "                  sparks light the flame                                     so don't wait                     start a fire today!",
-        "Misc": "",
-        "Quote Link": "-- Kiara, Sparks"
+        "GameText": "Kiara deals 1 Hero target in her play area 2 fixed fire damage.\nIf she deals damage this way, summon 1 Ongoing card and draw 1 card.",
+        "Quote": "                  sparks light the flame                                     so don't wait                     start a fire today!",
+        "Attribution": "-- Kiara, Sparks",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/sparkslighttheflame.png"
     },
     {
-        "Card Name": "To the Usual Room!",
-        "Tags": "One-Shot",
+        "Title": "To the Usual Room!",
+        "Keywords": "One-Shot",
         "Count": "3",
         "HP": "",
-        "Card Text": "Destroy 1 target with 3 or less HP.\nKiara deals up to X targets 2 fire damage each, where X = the destroyed target's HP.",
-        "Flavor Text": "\"My cute little owl... I might want to show you the usual room though. A good place for birbs to learn what they did wrong.\"",
-        "Misc": "",
-        "Quote Link": "-- Kiara, mario party, 2021/11/06"
+        "GameText": "Destroy 1 target with 3 or less HP.\nKiara deals up to X targets 2 fire damage each, where X = the destroyed target's HP.",
+        "Quote": "\"My cute little owl... I might want to show you the usual room though. A good place for birbs to learn what they did wrong.\"",
+        "Attribution": "-- Kiara, mario party, 2021/11/06",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/totheusualroom.png"
     },
     {
-        "Card Name": "True Form",
-        "Tags": "Ongoing, Limited",
+        "Title": "True Form",
+        "Keywords": "Ongoing, Limited",
         "Count": "2",
         "HP": "",
-        "Card Text": "After you play a card from your hand, Kiara may deal each non-Hero target 1 fire damage.\nSTART PHASE\nEither destroy this card or Kiara deals herself 3 fixed psychic damage.\nPLAY PHASE\nYou may play an additional card this phase.",
-        "Flavor Text": "\"How big am I in phoenix form? When people see me, they scream and run away! Don't underestimate me!\"",
-        "Misc": "",
-        "Quote Link": "-- Kiara, deathloop, 2022/01/05"
+        "GameText": "After you play a card from your hand, Kiara may deal each non-Hero target 1 fire damage.\nSTART PHASE\nEither destroy this card or Kiara deals herself 3 fixed psychic damage.\nPLAY PHASE\nYou may play an additional card this phase.",
+        "Quote": "\"How big am I in phoenix form? When people see me, they scream and run away! Don't underestimate me!\"",
+        "Attribution": "-- Kiara, deathloop, 2022/01/05",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Kiara/trueform.png"
     },
     {
-        "Card Name": "",
-        "Tags": "",
+        "Title": "",
+        "Keywords": "",
         "Count": "40"
     }
 ]

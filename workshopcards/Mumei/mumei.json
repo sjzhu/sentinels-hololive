@@ -101,14 +101,14 @@
         "GameText": "Mumei deals 1 target 3 melee damage. \nYou may discard 1 card. If you do, Mumei deals 1 target 2 melee damage.\nOtherwise, draw 1 card.",
         "Quote": "\"Gonna club 'em into nothingness!\"",
         "Attribution": "-- Nanashi Mumei, hologra, 2023/06/11",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Mumei/historyofviolence.png"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Mumei/violence2.png"
     },
     {
         "Title": "Never Stop Moomin'",
         "Keywords": "Ongoing, Limited",
         "Count": "2",
         "HP": "",
-        "GameText": "DRAW PHASE\nYou may draw 1 additional card this phase.\nEND PHASE\nIf you discarded a card this turn, Mumei deals 1 target 2 projectile damage. Otherwise, she deals 1 Hero target 2 projectile damage.",
+        "GameText": "DRAW PHASE\nYou may draw 1 additional card this phase.\nEND PHASE\nIf you discarded a card this turn, Mumei deals 1 target 3 projectile damage. Otherwise, she deals 1 Hero target 3 projectile damage.",
         "Quote": "\"You better have not stopped moomin'! If you weren't before, you are now!\"",
         "Attribution": "-- Nanashi Mumei, sc catchup, 2023/04/05",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Mumei/gun.jpg",
