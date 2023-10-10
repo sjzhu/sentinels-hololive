@@ -1,4 +1,127 @@
 # Changelog
+## 0.14 (ALPHA FOR RELEASE)
+Massive number of mostly cosmetic changes:
+All references to characters have been changed to their commonly used names/nicknames
+i.e. "Mori Calliope" -> "Calli"
+This was done to save on card space and also to show people unfamiliar with HoloEN what names
+are usually used to refer to the members.
+All Council cards have been given new art to distinguish themselves from each other
+To celebrate the new unit Hololive English ~Promise~, all Blessing cards have been refluffed to be Promise cards.
+
+- Ame
+  - Gremlin Screeching
+    - Added card draw
+  - Ground Pound
+    - Added card draw
+  - Hic!
+    - Card draw increased
+  - Smol Ame
+    - Keyword changed to Amelia to avoid confusion
+  - Time Shuffle
+    - HP limit increased to 6
+- Bae
+  - Blessing of Chaos -> Promise of Chaos
+  - Bruh!
+    - Simplified to play the top card of an ally deck
+    - Consolation damage added
+  - Dynamic Relationship
+    - New art added based on hilarious cooking stream interaction
+  - Play Dice!
+    - Changed to 1 irreducible infernal damage
+  - Rat Student -> Zoomer Rat
+    - Art changed to Boomer v Zoomer stream fanart
+  - The Council - Chaos
+    - Art changed
+    - Passive damage removed
+    - On play effect added
+    - Damage added to power
+- Calli
+  - Casual Rapper Variant
+    - HP regain reduced to 2
+  - Reaper/Rapper
+    - Changed to minor setup one-shot
+  - Scuffed Up Age
+    - Draw buffed
+- Fauna
+  - Blessing of Nature -> Promise of Nature
+  - Faunatic
+    - Changed to dealing toxic damage
+  - Food Chain
+    - Increased to 3 copies
+  - Let Me Stay Here
+    - Reduced to 2 copies
+  - Sprout
+    - Changed to toxic damage
+  - The Council - Nature
+    - Art changed
+    - Passive changed to redirect env damage to saplings
+    - Power changed to environment control
+  - Wrath of Nature
+    - Art changed
+    - Damage changed to melee
+    - Slap god quote added
+- Gura
+  - Cat Shark Variant
+    - Nerfed to either play 1 one-shot or draw 1 card
+  - Poseidon's Trident
+    - Removed REACTION and draw
+    - Now makes damage irreducible
+    - Power changed to either 3 melee or 3 cold
+- IRyS
+  - A New Hope and Descend have swapped effects
+    - I felt like Descend should be the one that damages her, cuz, y'know, falling
+  - Caesura of Despair
+    - Added discard cost to Ongoing destruction
+  - Chant the Melodies
+    - Removed
+  - Gravity
+    - DESPAIR effect changed to only allow non-IRyS heroes to play cards
+  - Promise of Hope
+    - Added
+  - The Fall of Hope and YabaIRyS have swapped effects
+  - YabaIRyS
+    - New quote and art to reflect actual usage of yabairys
+- Kiara
+  - All self damage one-shots/powers now can damage any hero target in her play area (except for the sword)
+    - Yes, this means KFP's getting roasted even harder
+    - Might be too strong
+  - KFP Employee
+    - New art cuz it's cuter
+  - Phoenix Shield
+    - POWER removed for END PHASE effect that functionally does the same thing
+- Kronii
+  - All Moment cards have had a salvage added if you don't take the play
+  - Blessing of Time -> Promise of Time
+  - Boros
+    - Increased to 2 copies
+  - Gwak!!
+    - No longer suddenly, added Moment keyword/effect
+    - Deals damage and cycles hand
+  - Kroniicopter
+    - Decreased to 2 copies
+  - Unwind Time
+    - Added damage choice
+- Mumei
+  - A New Start
+    - Decreased to 3 copies
+  - Blessing of Civiliation -> Promise of Civilization
+  - History of Violence
+    - Decreased to 3 copies
+  - Nameless
+    - Added
+    - Using art from Mumei's new MV
+    - Support effect and discard reaction
+  - Never Stop Moomin'
+    - Increased to 3 copies
+  - Terrifying Creations
+    - POWER nerfed to 2 discards
+- Sana
+  - Blessings of Space -> Promise of Space
+  - The Council - Space
+    - New art
+    - First passive changed to on play summon limiter or draw
+    - Power changed to collect ongoing, sac limiter to play
+
 ## 0.13.7
 UNTESTED CHANGES
 - Kronii
