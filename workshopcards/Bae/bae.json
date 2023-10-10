@@ -57,7 +57,9 @@
         "Quote": "\"Dear IRyS, You have brought so much happiness to me. Thank you for being in a divorce with me. I love you.\"",
         "Attribution": "-- Bae, NEW YEAR CELEBRATION, 2022/01/01",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/dynamic.png",
+        "ImageX": "",
         "ImageY": "2",
+        "GameTextSize": "",
         "ImageZoom": "95"
     },
     {
@@ -123,7 +125,10 @@
         "GameText": "When this card is destroyed, play the top card of 1 ally Hero's deck.\nAfter one of your cards is destroyed, Bae may deal 1 target 2 infernal damage and destroy this card.\nREACTION: Bae deals the attacker 2 infernal damage. Destroy this card.",
         "Quote": "\"You are all beaches. You are all mother freaking beaches. I will not have my Mario Kart legacy like this!!\"",
         "Attribution": "-- Bae, mario kart, 2022/01/05",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/trythatagain.jpg"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/trythatagain.jpg",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "87"
     },
     {
         "Title": "Wazzzup!",

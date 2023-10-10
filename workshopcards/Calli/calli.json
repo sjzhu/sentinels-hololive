@@ -30,8 +30,9 @@
         "Count": "2",
         "HP": "",
         "GameText": "POWER: Activate 1 🎤 RAP.\nSTART PHASE\nYou may discard 1 card. If you discard a card this way, draw 1 card or play 1 Flow card.",
-        "Quote": "         Calli on this goddamn mic                    I don't want your fxxkin' money          I just want your life!",
+        "Quote": "         Calliope Mori on this goddamn mic                    I don't want your fxxkin' money          I just want your life!",
         "Attribution": "-- Calli, dead beats",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/reapersmic.png"
     },
     {
@@ -42,6 +43,7 @@
         "GameText": "After this card is played, you may play 1 card.\nAfter Calli is dealt damage, she may regain 2 HP. If she regains HP this way, use 1 power and destroy this card.\nPOWER: Draw 1 card. Activate 1 🎤 RAP.",
         "Quote": "By your side with my scythe and red wine.",
         "Attribution": "-- Calli, dead beats",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/wine2.png",
         "ImageX": "",
         "ImageY": "",
@@ -55,6 +57,7 @@
         "GameText": "🎤 RAP\nPlay up to 2 Flow cards.\n💀 REAP\nCalli deals 1 target 4 infernal damage. Destroy this card.",
         "Quote": "                 I'm not asking for much                                 Do me a favor and die?               Gomen, shitsurei shimasu ga shinde kudasai~",
         "Attribution": "-- Calli, 失礼しますが、RIP♡",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/couldyoupleaserip.jpg",
         "ImageX": "",
         "ImageY": "",
@@ -69,6 +72,7 @@
         "GameText": "Damage dealt by Calli is irreducible.\nPOWER: Calli deals 1 target 2 melee and 1 infernal damage. Either activate 1 💀 REAP or draw 1 card.",
         "Quote": "My scythe is very hard, very rigid and very long.",
         "Attribution": "-- Calli, debut stream, 2020/09/12",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/deathscythe.png",
         "ImageX": "",
         "ImageY": "",
@@ -82,6 +86,7 @@
         "GameText": "After a Flow card is destroyed, you may activate 1 💀 REAP.\nDRAW PHASE\nYou may draw an additional card this phase.",
         "Quote": "\"Everyone dies in the end, Mori. We are the end. We do not make friends with the ones we bring across the river.\"",
         "Attribution": "-- death-sensei, calli's christmas catastrophe #2",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/deathsensei.png"
     },
     {
@@ -92,6 +97,7 @@
         "GameText": "🎤 RAP\nSalvage 2 Flow cards.\n💀 REAP\nDestroy 1 target with 5 or fewer HP. Destroy this card.",
         "Quote": "Disappearing into the mist of 'never happened'        Is the me that I can never befriend          I let it go",
         "Attribution": "-- Calli, end of a life",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/endofalife.png"
     },
     {
@@ -102,6 +108,7 @@
         "GameText": "Draw 1 card.\nDiscover 1 Flow card.\nYou may play 1 card or activate 1 🎤 RAP.",
         "Quote": "G to the U.H., saying give up haters!",
         "Attribution": "-- Calli, GUH",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/guh.png",
         "ImageX": "5",
         "ImageY": "",
@@ -115,16 +122,18 @@
         "GameText": "Draw 1 card or discover 1 Flow card.\nActivate up to 2 💀 REAP. \nCalli regains 4 HP.",
         "Quote": "          Kurosu no koto ga tanoshi!           Murder is so fxxking kawaii!",
         "Attribution": "-- Calli, 失礼しますが、RIP♡",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/murderiskawaii.png"
     },
     {
         "Title": "Reaper Rapper",
-        "Keywords": "Ongoing, Flow",
+        "Keywords": "One-Shot",
         "Count": "2",
         "HP": "",
-        "GameText": "🎤 RAP\nActivate another card's 💀 REAP.\n💀 REAP\nActivate another card's🎤 RAP. Destroy this card.",
+        "GameText": "Draw 1 card or discover 1 Flow card.\nYou may activate 1 💀 REAP or 1 🎤 RAP.\nIf a Flow card is destroyed this way, you may play 1 Flow card.",
         "Quote": "Reaper or Rapper? Either is fine.",
         "Attribution": "-- Calli, reaper/rapper",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/deadbeats.png"
     },
     {
@@ -135,6 +144,7 @@
         "GameText": "🎤 RAP\nDiscover 1 Flow card.\n💀 REAP\nCalli deals each non-Hero target 2 infernal damage. Destroy this card.",
         "Quote": "           I'd rather kick it in the dungeon            \n              'cause I'm that kind of beast                        \nI'll bet my heart on the cards       \n    because I trust me the least",
         "Attribution": "-- Calli, red",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/red.png",
         "ImageX": "",
         "ImageY": "",
@@ -145,9 +155,10 @@
         "Keywords": "Ongoing, Flow",
         "Count": "2",
         "HP": "",
-        "GameText": "🎤 RAP\nUntil your START PHASE, -1 damage dealt to Calli. Draw 1 card.\n💀 REAP\nDestroy up to 2 Ongoing cards. Destroy this card.",
+        "GameText": "🎤 RAP\nUntil your START PHASE, -1 damage dealt to Calli. Draw 2 cards.\n💀 REAP\nDestroy up to 2 Ongoing cards. Destroy this card.",
         "Quote": "               Must be something surreal                             An endless dream we can't heal                        This rusted world wound up real             Still wanna love the way it feels",
         "Attribution": "-- Calli, scuffed up age",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/scuffed%20up%20age.png"
     },
     {
@@ -158,6 +169,7 @@
         "GameText": "Play or discover 1 Flow card.\nCalli may deal herself 1 fixed psychic damage. If she does, play 1 Flow card. \nCalli may deal herself 1 fixed psychic damage. If she does, activate 1 🎤 RAP. ",
         "Quote": "       I'm filling syllables with curse words                   because I am an amateur              Everybody likes... self depreciating... rap.",
         "Attribution": "-- caliope mori, dead beats",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/selfdepreciatingrap.png",
         "ImageX": "",
         "ImageY": "",
@@ -171,6 +183,7 @@
         "GameText": "After you play a Flow card for the first time each turn, draw 1 card.\nAfter Calli destroys a target, she regains 2 HP.",
         "Quote": "                Transmission live before you!                                  I’ll reap in real-time                                   \r\nJust don’t forget admission,             \r\nThat soul is still mine!",
         "Attribution": "-- Calli, grim reaper is a live-streamer",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/streamingreaper.png"
     },
     {
@@ -181,6 +194,7 @@
         "GameText": "🎤 RAP\nDiscard 1 card. Summon 1 Limited card.\n💀 REAP\nCalli regains 4 HP. Destroy this card.",
         "Quote": "\"                             My home,                                   a place I'll never know until I'm satisfied                           \nTo move forward,                       the lore is I must be void inside\"",
         "Attribution": "-- caliope mori, unalive",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/unalive.png"
     },
     {
@@ -191,6 +205,7 @@
         "GameText": "Draw 1 card.\nYou may activate 1 🎤 RAP.\nCalli may deal herself 2 fixed psychic damage. If she is dealt damage this way, play 1 card.",
         "Quote": "       Go ahead and BE sore, but I won't run       \r\nCause I'm a workaholic business lady, getting shxt done",
         "Attribution": "-- Calli, 失礼しますが、RIP♡",
+        "BoldedTerms": "rap, reap",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/workaholicbusinesslady.png"
     },
     {

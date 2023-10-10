@@ -109,7 +109,7 @@
         "Keywords": "Item, Relic, Limited",
         "Count": "2",
         "HP": "",
-        "GameText": "+1 damage dealt by Gura\nPOWER: Gura deals 1 target 2 melee damage or 2 cold damage.",
+        "GameText": "Damage dealt by Gura is irreducible.\nPOWER: Gura deals 1 target 3 melee damage or 3 cold damage.",
         "Quote": "\"If I see one person say cringe in this chat, I'm throwing my trident at the wall. That thing hasn't seen action in a millennia.\"",
         "Attribution": "-- gawr, unarchived karaoke, 2021/08/21",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Gura/poseidontrident.png",
@@ -124,7 +124,7 @@
         "GameText": "Draw 1 card.\nDiscard any number of cards that share a name with a card in your play area.\nFor each card discarded this way, Gura deals 1 target 3 infernal damage.",
         "Quote": "Return to what you know    It ain't much, I know     Heh, it shows",
         "Attribution": "-- Gawr, reflect",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Gura/jinx.png"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Gura/reflect.png"
     },
     {
         "Title": "Rhythm Master",
