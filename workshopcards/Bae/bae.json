@@ -1,6 +1,6 @@
 [
     {
-        "Title": "Hakos Baelz",
+        "Title": "Baelz Hakos",
         "Keywords": "Character Card",
         "Count": "",
         "HP": "25",
@@ -22,29 +22,17 @@
         "HP": "",
         "GameText": "Reveal the top card of your deck. Draw it or replace it.\nPlay the top card of your deck.",
         "Quote": "                 Yolo is my ninja way!                 It's time to put those moves out on display!",
-        "Attribution": "-- Baelz Hakos, Play Dice",
+        "Attribution": "-- Bae, Play Dice",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/absolute%20chaos.jpg"
-    },
-    {
-        "Title": "Blessing of Chaos",
-        "Keywords": "One-Shot",
-        "Count": "3",
-        "HP": "",
-        "GameText": "3 Heroes may reveal the top card of their respective decks. They may replace or bury those cards.\n1 Hero target may deal 1 target 3 infernal damage.",
-        "Quote": "\"I would like to ask for new pants, more rng luck, and world chaos! Strictly for Council work purposes.\"",
-        "Attribution": "-- Baelz Hakos, prep for xmas, 2021/12/13",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/blessingsofchaos.jpg",
-        "ImageX": "",
-        "ImageY": "-8"
     },
     {
         "Title": "Bruh!",
         "Keywords": "One-Shot",
         "Count": "3",
         "HP": "",
-        "GameText": "1 ally Hero may reveal and replace the top card of their deck.\nIf the revealed card was a One-Shot card, they may play the top card of their deck.\nIf it was not, they may draw 1 card, and Hakos Baelz deals 1 target 2 infernal damage.",
+        "GameText": "1 ally Hero may play the top card of their deck.\nIf no card was played this way, Bae deals 1 target 4 infernal damage.",
         "Quote": "              \"It's an expression that can               be used in so many different scenarios...   bruh is a way of life.\"",
-        "Attribution": "-- baelz hakos, coffee n chill, 2022/01/10",
+        "Attribution": "-- Bae, coffee n chill, 2022/01/10",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/bruh.png",
         "ImageX": "",
         "ImageY": "",
@@ -55,20 +43,22 @@
         "Keywords": "Ongoing, Limited",
         "Count": "3",
         "HP": "",
-        "GameText": "When you would play a card that shares the name of a card in play, you may first destroy the card in play. If you do, Hakos Baelz deals up to 3 targets 2 infernal damage each.\nPOWER: Discover 1 Ongoing card. ",
+        "GameText": "When you would play a card that shares the name of a card in play, you may first destroy the card in play. If you do, Bae deals up to 3 targets 2 infernal damage each.\nPOWER: Discover 1 Ongoing card. ",
         "Quote": "          I got the tactics I need          \r\nPatience is just not for me",
         "Attribution": "-- Gura and Bae, sweet appetite",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/aimdoko.jpg"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/chaoticappetite.png"
     },
     {
         "Title": "Dynamic Relationship",
         "Keywords": "One-Shot",
         "Count": "4",
         "HP": "",
-        "GameText": "Hakos Baelz may deal 1 ally character 2 fixed psychic damage. That character may deal Hakos Baelz 2 fixed psychic damage.\nEach Hero dealt damage this way may discover 1 Ongoing card or discover 1 Item card.",
+        "GameText": "Bae may deal 1 ally character 2 fixed psychic damage. That character may deal Bae 2 fixed psychic damage.\nEach Hero dealt damage this way may discover 1 Ongoing card or discover 1 Item card.",
         "Quote": "\"Dear IRyS, You have brought so much happiness to me. Thank you for being in a divorce with me. I love you.\"",
-        "Attribution": "-- Baelz Hakos, NEW YEAR CELEBRATION, 2022/01/01",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/chaoticrelationship.jpg"
+        "Attribution": "-- Bae, NEW YEAR CELEBRATION, 2022/01/01",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/dynamic.png",
+        "ImageY": "2",
+        "ImageZoom": "95"
     },
     {
         "Title": "Mr. Squeaks",
@@ -85,20 +75,22 @@
         "Keywords": "Ongoing, Limited",
         "Count": "3",
         "HP": "",
-        "GameText": "After a revealed card is replaced in a deck, you may shuffle that deck.\nAfter a deck is shuffled, Hakos Baelz deals 1 target 1 fixed infernal damage.\nPOWER: You may shuffle 1 trash into its associated deck.",
+        "GameText": "After a revealed card is replaced in a deck, you may shuffle that deck.\nAfter a deck is shuffled, Bae deals 1 target 1 irreducible infernal damage.\nPOWER: You may shuffle 1 trash into its associated deck.",
         "Quote": "For this moment I am truly really me!",
-        "Attribution": "-- baelz hakos, play dice",
+        "Attribution": "-- Bae, play dice",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/playdiceback.png"
     },
     {
-        "Title": "Rat Student",
+        "Title": "Promise of Chaos",
         "Keywords": "One-Shot",
         "Count": "3",
         "HP": "",
-        "GameText": "Discover 1 Limited card. If no card was played this way, play the top card of your deck.\nYou may discard 1 card. If you do, draw 2 cards.",
-        "Quote": "\"Rat school? Yeah, of course I have to go to rat school. I'm forever twelve.\"",
-        "Attribution": "-- Baelz Hakos, SUPERCHAT READING, 2022/02/21",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/baewatch.jpg"
+        "GameText": "3 Heroes may reveal the top card of their respective decks. They may replace or bury those cards.\n1 Hero target may deal 1 target 3 infernal damage.",
+        "Quote": "\"I would like to ask for new pants, more rng luck, and world chaos! Strictly for Council work purposes.\"",
+        "Attribution": "-- Bae, prep for xmas, 2021/12/13",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/blessingsofchaos.jpg",
+        "ImageX": "",
+        "ImageY": "-8"
     },
     {
         "Title": "Revel in Chaos",
@@ -107,7 +99,7 @@
         "HP": "",
         "GameText": "Destroy up to 2 Ongoing cards.\nFor each Hero Ongoing card destroyed this way, play the top card of your deck.",
         "Quote": "\"How many cups of coffee do you need before you completely lose touch with reality and become unhinged?\"",
-        "Attribution": "-- baelz hakos (played by ceres fauna), !???!?!?!!, 2022/04/01",
+        "Attribution": "-- Bae (played by ceres fauna), !???!?!?!!, 2022/04/01",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/revelinconfusion2.png"
     },
     {
@@ -115,7 +107,7 @@
         "Keywords": "Ongoing, Limited",
         "Count": "2",
         "HP": "",
-        "GameText": "After a card in an ally Hero's play area is destroyed, that Hero may draw 1 card.\nAfter you play a One-Shot card, Hakos Baelz may deal 1 target 2 infernal damage.\nPOWER: Discover 1 One-Shot card.",
+        "GameText": "After this card is played, discover 1 Ongoing card.\nAfter a card in an ally Hero's play area is destroyed, that Hero may draw 1 card.\nPOWER: Discover 1 One-Shot card. Bae deals 1 target 2 infernal damage.",
         "Quote": "       \"What have we learned this meeting?\"                              \"Nothing.\"                        \"Sweet.\"",
         "Attribution": "-- bae and sana, council meeting, 2021/08/21",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/holocouncil.jpg",
@@ -128,20 +120,19 @@
         "Keywords": "Ongoing",
         "Count": "3",
         "HP": "",
-        "GameText": "When this card is destroyed, play the top card of 1 ally Hero's deck.\nAfter one of your cards is destroyed, Hakos Baelz may deal 1 target 2 infernal damage and destroy this card.\nREACTION: Hakos Baelz deals the attacker 2 infernal damage. Destroy this card.",
+        "GameText": "When this card is destroyed, play the top card of 1 ally Hero's deck.\nAfter one of your cards is destroyed, Bae may deal 1 target 2 infernal damage and destroy this card.\nREACTION: Bae deals the attacker 2 infernal damage. Destroy this card.",
         "Quote": "\"You are all beaches. You are all mother freaking beaches. I will not have my Mario Kart legacy like this!!\"",
-        "Attribution": "-- baelz hakos, mario kart, 2022/01/05",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/trythatagain.jpg",
-        "GameTextSize": "84"
+        "Attribution": "-- Bae, mario kart, 2022/01/05",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/trythatagain.jpg"
     },
     {
         "Title": "Wazzzup!",
         "Keywords": "One-Shot, Greeting",
         "Count": "4",
         "HP": "",
-        "GameText": "Draw 1 card\nDiscover 1 Ongoing card.\nHakos Baelz may deal herself 2 fixed psychic damage. If she does, play the top card of your deck.",
+        "GameText": "Draw 1 card\nDiscover 1 Ongoing card.\nBae may deal herself 2 fixed psychic damage. If she does, play the top card of your deck.",
         "Quote": "\"Wazzzup! Good morning. Ohayo... I have coffee. Cawfeee...\"",
-        "Attribution": "-- baelz hakos, just chatting ,2022/11/26",
+        "Attribution": "-- Bae, just chatting ,2022/11/26",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/baecoffee2.png"
     },
     {
@@ -149,7 +140,7 @@
         "Keywords": "Ongoing",
         "Count": "4",
         "HP": "",
-        "GameText": "After this card is played, select 1 target. Hakos Baelz deals that target 3 infernal damage.\nWhen this card is destroyed, play the top card of 1 ally Hero's deck.\nSTART PHASE\nThat target deals Hakos Baelz 3 melee damage. Destroy this card.",
+        "GameText": "After this card is played, select 1 target. Bae deals that target 3 infernal damage.\nWhen this card is destroyed, play the top card of 1 ally Hero's deck.\nSTART PHASE\nThat target deals Bae 3 melee damage. Destroy this card.",
         "Quote": "                  \"Lovers' quarrel?\"                    \"Bae, I mean, waifu killed me with an axe.\"",
         "Attribution": "-- ina and irys, minecraft, 2021/09/28",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/youwannago2.jpg",
@@ -157,6 +148,17 @@
         "ImageY": "",
         "GameTextSize": "90"
     },
+    {
+        "Title": "Zoomer Rat",
+        "Keywords": "One-Shot",
+        "Count": "3",
+        "HP": "",
+        "GameText": "Discover 1 Limited card. If no card was played this way, play the top card of your deck.\nYou may discard 1 card. If you do, draw 2 cards.",
+        "Quote": "\"Do you understand that there was a point in human history where cellphones didn't exist? Can that enter your consciousness? ... I can't talk this way to a senpai.\"",
+        "Attribution": "-- vesper noir, boomer vs zoomer, 2022/09/02",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/zoomerrat.png"
+    },
+    {},
     {
         "Title": "",
         "Keywords": "",

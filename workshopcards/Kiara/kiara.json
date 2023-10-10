@@ -1,0 +1,181 @@
+[
+    {
+        "Card Name": "Kiara",
+        "Tags": "Hero, Myth",
+        "Count": "",
+        "HP": "24",
+        "Card Text": "Power - Phoenix Strike: Kiara deals 1 target 2 fire damage.",
+        "Flavor Text": "",
+        "Misc": "Standard"
+    },
+    {
+        "Card Name": "",
+        "Tags": "Incap",
+        "Count": "",
+        "HP": "",
+        "Card Text": "- Return all of Kiara's deck to the game. Shuffle it and draw 4 cards. Replace this card with another Kiara character card, active side up, restoring it to 10 HP and ending your turn.\n- Each hero draws a card.\n- 1 target deals itself 2 fixed fire damage."
+    },
+    {
+        "Card Name": "Kiara",
+        "Tags": "Character Card",
+        "Count": "",
+        "HP": "22",
+        "Card Text": "Power - Tenchou: You may destroy 1 Chicken card. If you do, Kiara deals up to 3 targets 1 fire damage each. Otherwise, discover 1 Chicken card."
+    },
+    {},
+    {
+        "Card Name": "Burn Bright",
+        "Tags": "One-Shot",
+        "Count": "4",
+        "HP": "",
+        "Card Text": "Up to 3 times, Kiara deals 1 Hero target in her play area 1 fixed fire damage.\nFor each damage dealt this way, Kiara may deal 1 target 2 fire damage.",
+        "Flavor Text": "Blazing flames!\nShow me the path to luminance!",
+        "Misc": "",
+        "Quote Link": "-- Kiara, hinotori"
+    },
+    {
+        "Card Name": "Employee Hiring",
+        "Tags": "One-Shot",
+        "Count": "3",
+        "HP": "",
+        "Card Text": "Play or summon 1 Chicken card.\nFor every Chicken card in play, draw 1 card or Kiara regains 2 HP.",
+        "Flavor Text": "\"So, you wanna work at KFP?\"",
+        "Misc": "",
+        "Quote Link": "-- Kiara, KFP Hiring, 2022/02/08"
+    },
+    {
+        "Card Name": "Extra Hats",
+        "Tags": "Item, Limited",
+        "Count": "2",
+        "HP": "",
+        "Card Text": "POWER PHASE\nYou may use an additional power this phase.\nEND PHASE\nYou may discard 1 card. If you do, draw 1 card.",
+        "Flavor Text": "\"I feel naked without my hat...\" - Kiara",
+        "Misc": "",
+        "Quote Link": "-- Kiara, super mario 64, 2020/09/22"
+    },
+    {
+        "Card Name": "Hinotori",
+        "Tags": "Ongoing, Limited",
+        "Count": "2",
+        "HP": "",
+        "Card Text": "After the first time each turn any Hero target in your play area is dealt damage, you may draw 1 card.\nPOWER: Kiara deals 1 Hero target in her play area 1 fixed fire damage. Deal up to 3 targets 1 fire damage each.",
+        "Flavor Text": "Don't break, I will never give up\nDon't break hane ga kuchite mo",
+        "Misc": "",
+        "Quote Link": "-- Kiara, Hinotori"
+    },
+    {
+        "Card Name": "Holo Talk",
+        "Tags": "One-Shot",
+        "Count": "3",
+        "HP": "",
+        "Card Text": "You may use 1 power.\n1 ally Hero may play 1 card.",
+        "Flavor Text": "\"Welcome to another episode of Holo Talk! I don't have audio feedback, let's goooo!\"",
+        "Misc": "",
+        "Quote Link": "-- Kiara, Holo Talk, 2022/11/20"
+    },
+    {
+        "Card Name": "KFP Employee",
+        "Tags": "Chicken, Employee",
+        "Count": "4",
+        "HP": "3",
+        "Card Text": "After you play this card, you may play 1 card.\nYou may redirect damage dealt to Kiara to this card.",
+        "Flavor Text": "\"Viva la Kiara! We are not a cult!\"",
+        "Misc": "",
+        "Quote Link": "-- KFP Employees, Welcome to KFP, 2021/10/05"
+    },
+    {
+        "Card Name": "Kiara Fried Phoenix",
+        "Tags": "Ongoing, Limited",
+        "Count": "2",
+        "HP": "",
+        "Card Text": "After a Chicken card is destroyed, 1 Hero target may regain 2 HP.\nPOWER: Play or summon 1 Chicken card.",
+        "Flavor Text": "\"Since when do we have insurance? They're supposed to pay me for the privilege of working for me!\"",
+        "Misc": "",
+        "Quote Link": "-- Kiara, KFP Complaint Department, 2022/06/12"
+    },
+    {
+        "Card Name": "Kikkeriki!",
+        "Tags": "One-Shot, Greeting",
+        "Count": "4",
+        "HP": "",
+        "Card Text": "Draw 2 cards. \nSummon 1 Item card or 1 Chicken card.\nKiara deals 1 target 2 fire damage.",
+        "Flavor Text": "\"That's what kikkeriki going for! It's the German rooster sound!\"",
+        "Misc": "",
+        "Quote Link": "-- Kiara, Korean with Kronii, 2022/01/13"
+    },
+    {
+        "Card Name": "Part-Time Warrior",
+        "Tags": "Ongoing, Limited",
+        "Count": "3",
+        "HP": "",
+        "Card Text": "After this card is played, draw 1 card.\n-1 damage dealt to ally targets.\n+1 damage dealt by Kiara.\nSTART PHASE\nDestroy this card.",
+        "Flavor Text": "\"I may be a part-time warrior, but I'm a full time worrier.\"",
+        "Misc": "",
+        "Quote Link": "-- Kiara, twitter, 2022/03/27"
+    },
+    {
+        "Card Name": "Phoenix Shield",
+        "Tags": "Item, Relic",
+        "Count": "1",
+        "HP": "",
+        "Card Text": "-1 damage dealt to Kiara.\nPOWER: Choose 1 ally target. Until your START PHASE, redirect all damage dealt to that target to Kiara.",
+        "Flavor Text": "I'll dance in burning embers unyielding\nYour love's given me wings!",
+        "Misc": "",
+        "Quote Link": "-- Kiara, non-fiction"
+    },
+    {
+        "Card Name": "Phoenix Sword",
+        "Tags": "Item, Relic",
+        "Count": "1",
+        "HP": "",
+        "Card Text": " +1 damage dealt by Kiara\nPOWER: Kiara deals herself 1 fixed fire damage. Kiara deals 1 target 3 melee damage.",
+        "Flavor Text": "       Gotta make it hot like a volcano  \n     strike a match and burn it up!",
+        "Misc": "",
+        "Quote Link": "-- Kiara, sparks"
+    },
+    {
+        "Card Name": "Re-Debut",
+        "Tags": "Ongoing, Limited",
+        "Count": "2",
+        "HP": "",
+        "Card Text": "When Kiara would be reduced to 0 HP, prevent that damage and regain 5 HP instead.\nThen, move each Hero card in her play area other than this card to their associated Hero's hand, play up to 2 cards and destroy this card.",
+        "Flavor Text": "\"You can't get me down, I'm a phoenix! You can't get a phoenix down that easily!\"",
+        "Misc": "",
+        "Quote Link": "-- Kiara, revival stream, 2020/12/09"
+    },
+    {
+        "Card Name": "Sparks Light the Flame",
+        "Tags": "One-Shot",
+        "Count": "4",
+        "HP": "",
+        "Card Text": "Kiara deals 1 Hero target in her play area 2 fixed fire damage.\nIf she deals damage this way, summon 1 Ongoing card and draw 1 card.",
+        "Flavor Text": "                  sparks light the flame                                     so don't wait                     start a fire today!",
+        "Misc": "",
+        "Quote Link": "-- Kiara, Sparks"
+    },
+    {
+        "Card Name": "To the Usual Room!",
+        "Tags": "One-Shot",
+        "Count": "3",
+        "HP": "",
+        "Card Text": "Destroy 1 target with 3 or less HP.\nKiara deals up to X targets 2 fire damage each, where X = the destroyed target's HP.",
+        "Flavor Text": "\"My cute little owl... I might want to show you the usual room though. A good place for birbs to learn what they did wrong.\"",
+        "Misc": "",
+        "Quote Link": "-- Kiara, mario party, 2021/11/06"
+    },
+    {
+        "Card Name": "True Form",
+        "Tags": "Ongoing, Limited",
+        "Count": "2",
+        "HP": "",
+        "Card Text": "After you play a card from your hand, Kiara may deal each non-Hero target 1 fire damage.\nSTART PHASE\nEither destroy this card or Kiara deals herself 3 fixed psychic damage.\nPLAY PHASE\nYou may play an additional card this phase.",
+        "Flavor Text": "\"How big am I in phoenix form? When people see me, they scream and run away! Don't underestimate me!\"",
+        "Misc": "",
+        "Quote Link": "-- Kiara, deathloop, 2022/01/05"
+    },
+    {
+        "Card Name": "",
+        "Tags": "",
+        "Count": "40"
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "Title": "Ceres Fauna",
+        "Keywords": "Character Card",
+        "Count": "",
+        "HP": "31",
+        "GameText": "Power - Mother Nature: Discover 1 Sapling card. Draw 1 card.",
+        "Quote": "",
+        "Attribution": "Standard"
+    },
+    {
+        "Title": "",
+        "Keywords": "Incap",
+        "Count": "",
+        "HP": "",
+        "GameText": "- An environment target deals 1 target 2 melee damage.\n- Choose a target, until your next turn, that target is immune to damage dealt by environment targets.\n- Destroy an environment card."
+    },
+    {
+        "Title": "Eternal Regrowth",
+        "Keywords": "One-Shot",
+        "Count": "4",
+        "HP": "",
+        "GameText": "Draw 1 card.\nYou may discard or destroy 1 Sapling card. If you do, you may summon Nemu or 1 Ongoing card.",
+        "Quote": "\"I'm not that old! Only four and a half... Four and a half billion.\"",
+        "Attribution": "-- Ceres Fauna, debut stream, 2021/08/22",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/circleoflife2.png"
+    },
+    {
+        "Title": "Food Chain",
+        "Keywords": "Ongoing, Limited",
+        "Count": "2",
+        "HP": "",
+        "GameText": "After this card is played, you may play or salvage 1 Sapling card.\n+1 damage dealt by Sapling cards.",
+        "Quote": "Consuming food prepared by a yandere may result in changed states of being, including drowsiness, happiness or turning into a tree.",
+        "Attribution": "-- Kirin's Omurice, by ceres fauna",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/foodchain2.png"
+    },
+    {
+        "Title": "Golden Apple",
+        "Keywords": "Item, Relic, Limited",
+        "Count": "2",
+        "HP": "",
+        "GameText": "START PHASE\nUp to 5 Hero targets may regain 1 HP each.\nEND PHASE\nYou may salvage 1 card. If that card is a Sapling card, you may play it.",
+        "Quote": "\"Wow, Sana really did a number on you, didn't she? I had to go and revive the whole earth using just a bit of my golden apple. Hehe.\"",
+        "Attribution": "-- Ceres Fauna, debut stream, 2021/08/22",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/goldenapple.png"
+    },
+    {
+        "Title": "Konfauna!",
+        "Keywords": "One-Shot, Greeting",
+        "Count": "4",
+        "HP": "",
+        "GameText": "Draw 1 card.\nDiscover 1 Ongoing card.\nPlay 1 Sapling card.",
+        "Quote": "\"Konfauna! Hello my little saplings!\"",
+        "Attribution": "-- Ceres Fauna?, what's this???, 2022/04/01",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/konfauna.png"
+    },
+    {
+        "Title": "Let Me Stay Here",
+        "Keywords": "Ongoing, Limited",
+        "Count": "3",
+        "HP": "",
+        "GameText": "After this card is played, each ally regains 1 HP, and you may discover 1 Sapling card.\nDamage dealt to Hero characters may be redirected to Sapling cards. \nSTART PHASE\nDestroy this card.",
+        "Quote": "Waiting quietly, shutting my eyes and I say​ ​\n​onegai, motto, let me stay here…​ ​",
+        "Attribution": "-- Ceres Fauna, let me stay here",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/letmestayhere.png",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "93"
+    },
+    {
+        "Title": "Nature's Care",
+        "Keywords": "Ongoing, Limited",
+        "Count": "2",
+        "HP": "",
+        "GameText": "After a Sapling card is destroyed, you may discard 1 card. If you do, salvage 1 Sapling card.\nSTART PHASE\nYou may play 1 Sapling card.",
+        "Quote": "\"You're planted in my garden. I'm taking care of you in my greenhouse. So doooon't get any wrong ideas now. You belong to me.\"",
+        "Attribution": "-- ceres fauna, subnautica, 2022/01/26",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/naturesregrowth.png"
+    },
+    {
+        "Title": "Nemu",
+        "Keywords": "Pet, Kirin",
+        "Count": "1",
+        "HP": "6",
+        "GameText": "POWER: You may discard or destroy a Sapling card. If you do, up to 3 targets regain 2 HP each.\nSTART PHASE\nYou may salvage 1 Sapling card. If you do, this card deals Ceres Fauna 1 fixed psychic damage.",
+        "Quote": "\"She tends to fall asleep whenever I talk. She's also a bit spoiled. Hmm, who could I have spoiled her...?\"",
+        "Attribution": "-- ceres fauna, who????, 2022/02/21",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/nemu.jpg",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "95"
+    },
+    {
+        "Title": "Promise of Nature",
+        "Keywords": "One-Shot",
+        "Count": "3",
+        "HP": "",
+        "GameText": "3 Hero characters may each regain 3 HP.\n3 Heroes may each discard 1 card. Each Hero that discarded a card this way draws up to 2 cards.",
+        "Quote": "\"Will you return to nature? It's a simple question.\"",
+        "Attribution": "-- Ceres Fauna, HoloCouncil game show, 2022/02/22",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/blessingsofnature.png"
+    },
+    {
+        "Title": "Taken by Nature",
+        "Keywords": "Ongoing, Limited",
+        "Count": "3",
+        "HP": "",
+        "GameText": "Bury a non-Hero target with 5 or fewer HP.\nDiscover or play 1 Sapling card.\nFauna deals that Sapling card 1 fixed infernal damage.",
+        "Quote": "\"You should be with me. You belong with me.\"",
+        "Attribution": "-- Ceres Fauna, debut stream, 2021/08/22",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/takenbynature.png"
+    },
+    {
+        "Title": "The Council - Nature",
+        "Keywords": "ongoing, limited",
+        "Count": "2",
+        "HP": "",
+        "GameText": "After this card is played, each ally target regains 1 HP.\nDamage dealt by Environment targets may be redirected to Sapling cards.\nPOWER: You may destroy 1 Sapling card. If you destroy a card this way, destroy 1 Environment card.",
+        "Quote": "\"As much as I would love for you to return to nature, Mumei... I think the people need you.\"",
+        "Attribution": "-- Ceres Fauna, Jump King, 2022/03/10",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/council-fauna.png",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "96"
+    },
+    {
+        "Title": "Wrath of Nature",
+        "Keywords": "Ongoing, Limited",
+        "Count": "2",
+        "HP": "",
+        "GameText": "After a Sapling card is destroyed, Fauna may deal 1 target 3 melee damage.\nPOWER: You may destroy 1 Sapling card. If you destroy a card this way, destroy up to 1 Ongoing card.",
+        "Quote": "\"I am the slap god now!\"    \"She's gone insane! Mumei, save me!\"",
+        "Attribution": "-- Fauna and Bae, off collab, 2022/12/28",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/faunaslap.jpg",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "95"
+    },
+    {
+        "Title": "Blossom",
+        "Keywords": "Sapling",
+        "Count": "4",
+        "HP": "4",
+        "GameText": "END PHASE\nThis card and 1 ally target regain 1 HP each.",
+        "Quote": "\"Hmmm, I will give you fresh compost whenever there is a bad sapling.\"",
+        "Attribution": "-- Ceres Fauna, minecraft, 2022/07/14",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/blossom.png"
+    },
+    {
+        "Title": "Sprout",
+        "Keywords": "Sapling",
+        "Count": "4",
+        "HP": "4",
+        "GameText": "END PHASE\nThis card deals 1 target 2 toxic damage.",
+        "Quote": "\"I will water you, I will trim your dead leaves, I will feed you nutritious fertilizer.\"",
+        "Attribution": "-- Ceres Fauna, minecraft, 2022/07/14",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/sprout.png"
+    },
+    {
+        "Title": "Faunatic",
+        "Keywords": "Sapling",
+        "Count": "4",
+        "HP": "4",
+        "GameText": "END PHASE\nThis card deals 2 targets 1 toxic damage each.",
+        "Quote": "\"Benefits to being a sapling? You will be immersed in nature.\"",
+        "Attribution": "-- Ceres Fauna, minecraft, 2022/07/14",
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/faunatic.png"
+    },
+    {
+        "Title": "",
+        "Keywords": "",
+        "Count": "40",
+        "HP": "",
+        "GameText": "This is a really long field that I'm using to test conditional formatting on number of words being greater than 60. Sixty actually is a large number of words if you think about it. I'm already out of filler text to put here, and I'm pretty sure I'm not at 30 yet. But I'm bad at counting. So here we continue to go rambling until I think I hit sixty, because I actually just realized that conditional formatting probably doesn't occur until I hit enter. So here's a few more words and hopefully I stick this landing."
+    }
+]
