@@ -65,7 +65,7 @@
         "Keywords": "Item",
         "Count": "2",
         "HP": "",
-        "GameText": "After this card is played, draw 2 cards.\nPOWER: Discard up to 3 cards. For each card discarded this way, Mumei deals up to 2 targets 1 irreducible damage each.",
+        "GameText": "After this card is played, draw 2 cards.\nPOWER: Discard up to 3 cards. For each card discarded this way, Mumei deals up to 2 targets 1 irreducible projectile damage each.",
         "Quote": "\"Look at my feathers! Nothing is left unharmed! Hehe~\"",
         "Attribution": "-- Nanashi Mumei, holocure, 2022/06/26",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Mumei/feathers.jpg"
@@ -107,7 +107,7 @@
     {
         "Title": "Nameless",
         "Keywords": "Ongoing, Limited",
-        "Count": "3",
+        "Count": "2",
         "HP": "",
         "GameText": "After this card is played, discover 1 Ongoing card from an ally Hero's deck.\nREACTION: You may discard up to 2 cards. -X to the damage, where X is the number of cards discarded this way.",
         "Quote": "Within this world,​ ahh​ ​​​​​you are somewhere Now,​ ​​​​​​I'll keep going​ ​​​​​​as \"Mumei\"​.",
@@ -120,7 +120,7 @@
     {
         "Title": "Never Stop Moomin'",
         "Keywords": "Ongoing, Limited",
-        "Count": "2",
+        "Count": "3",
         "HP": "",
         "GameText": "DRAW PHASE\nYou may draw 1 additional card this phase.\nEND PHASE\nIf you discarded a card this turn, Mumei deals 1 target 3 projectile damage. Otherwise, she deals 1 Hero target 3 projectile damage.",
         "Quote": "\"You better have not stopped moomin'! If you weren't before, you are now!\"",

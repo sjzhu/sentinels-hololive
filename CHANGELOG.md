@@ -1,4 +1,16 @@
 # Changelog
+## 0.14.1
+- Ame
+  - Time Shuffle
+    - Add clarification on what happens to revealed card.
+- Kronii
+  - Moment cards changed to salvage top card of trash instead of any card
+  - Boros
+    - Prevent damage changed to after damage heal
+- Mumei
+  - Flying Feathers
+    - Damage type changed from untyped to projectile
+
 ## 0.14 (ALPHA FOR RELEASE)
 Massive number of mostly cosmetic changes:
 

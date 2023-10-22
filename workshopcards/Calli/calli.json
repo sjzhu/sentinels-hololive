@@ -126,7 +126,7 @@
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/murderiskawaii.png"
     },
     {
-        "Title": "Reaper Rapper",
+        "Title": "Reaper/Rapper",
         "Keywords": "One-Shot",
         "Count": "2",
         "HP": "",
@@ -134,7 +134,10 @@
         "Quote": "Reaper or Rapper? Either is fine.",
         "Attribution": "-- Calli, reaper/rapper",
         "BoldedTerms": "rap, reap",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/deadbeats.png"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Calli/deadbeats.png",
+        "ImageX": "",
+        "ImageY": "",
+        "GameTextSize": "97"
     },
     {
         "Title": "Red",
