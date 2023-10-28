@@ -65,7 +65,7 @@
         "Keywords": "Item",
         "Count": "2",
         "HP": "",
-        "GameText": "After this card is played, draw 2 cards.\nPOWER: Discard up to 3 cards. For each card discarded this way, Mumei deals up to 2 targets 1 irreducible projectile damage each.",
+        "GameText": "After this card is played, draw 2 cards.\nPOWER: Discard up to 2 cards. For each card discarded this way, Mumei deals up to 2 targets 1 irreducible projectile damage each.",
         "Quote": "\"Look at my feathers! Nothing is left unharmed! Hehe~\"",
         "Attribution": "-- Nanashi Mumei, holocure, 2022/06/26",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Mumei/feathers.jpg"
@@ -81,7 +81,7 @@
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Mumei/friend.png",
         "ImageX": "",
         "ImageY": "",
-        "GameTextSize": "81"
+        "GameTextSize": "99"
     },
     {
         "Title": "Hand Lamp",
@@ -177,7 +177,7 @@
         "Keywords": "Ongoing, Limited",
         "Count": "2",
         "HP": "",
-        "GameText": "After this card is played, you may discover 1 Item card.\nAfter a Hero discards any number of cards, they may draw 1 card.\nPOWER: You and an ally Hero may each discard 1 card and draw 1 card.",
+        "GameText": "After this card is played, you may discover 1 Item card.\nAfter a Hero discards a card for the first time each turn, they may draw 1 card.\nPOWER: You and an ally Hero may each discard 1 card and draw 1 card.",
         "Quote": "\"Civilization is temporary, humanity is temporary, you are all going to die one day!\"",
         "Attribution": "-- Nanashi Mumei, crunchyroll interview, 2022/04/18",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Mumei/councilcivilization.png",

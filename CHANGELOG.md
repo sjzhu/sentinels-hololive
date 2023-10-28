@@ -1,4 +1,12 @@
 # Changelog
+## 0.14.2
+- Kronii
+  - My Own Time
+    - Heal nerfed to 1/2 of trash
+- Mumei
+  - The Council - Civilization
+    - Passive nerfed to only first time discard
+
 ## 0.14.1
 - Ame
   - Time Shuffle
