@@ -1,4 +1,26 @@
 # Changelog
+## 0.14.3
+- Ame
+  - Base Power
+    - Draw 3 -> play 1 revealed card
+  - Creative Force of Will + Smol Ame
+    - Discard changed to reveal/replace to maintain intel
+  - Industrious Spirit + Magnifying Glass
+    - Swapped on play effects because it made sense
+- Bae
+  - Base Power
+    - Changed to draw or discover an Ongoing with ally draw possibility
+    - Gets her off the ground faster, and she's no longer reliant on Play Dice, so collecting isn't important
+  - Chaotic Tactics
+    - Power changed to Ongoing from trash and play top of deck
+  - Play Dice
+    - Trigger changed to card replaced in deck -> shuffle and damage
+    - Power changed to reveal and replace/discard top card of deck
+  - Toxictaro and You Wanna Go?
+    - Heal added to destruction effect
+  - Zoomer Rat
+    - Draw 2 replace with power usage
+
 ## 0.14.2
 - Kronii
   - My Own Time

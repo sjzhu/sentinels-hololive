@@ -4,7 +4,7 @@
         "Keywords": "Character Card",
         "Count": "",
         "HP": "25",
-        "GameText": "Power - Chaotic Leader: 1 Hero plays the top card of their deck. If that Hero is an ally, collect 1 Ongoing card.",
+        "GameText": "Power - Chaotic Leader: Either draw 1 card or discover 1 Ongoing card. If no card was played this way, 1 ally Hero may draw 1 card.",
         "Quote": "",
         "Attribution": "Standard"
     },
@@ -43,7 +43,7 @@
         "Keywords": "Ongoing, Limited",
         "Count": "3",
         "HP": "",
-        "GameText": "When you would play a card that shares the name of a card in play, you may first destroy the card in play. If you do, Bae deals up to 3 targets 2 infernal damage each.\nPOWER: Discover 1 Ongoing card. ",
+        "GameText": "When you would play a card that shares the name of a card in play, you may first destroy the card in play. If you do, Bae deals up to 3 targets 2 infernal damage each.\nPOWER: Put up to 1 Ongoing card from your trash on top of your deck. Play the top card of your deck.",
         "Quote": "          I got the tactics I need          \r\nPatience is just not for me",
         "Attribution": "-- Gura and Bae, sweet appetite",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/chaoticappetite.png"
@@ -77,7 +77,7 @@
         "Keywords": "Ongoing, Limited",
         "Count": "3",
         "HP": "",
-        "GameText": "After a revealed card is replaced in a deck, you may shuffle that deck.\nAfter a deck is shuffled, Bae deals 1 target 1 irreducible infernal damage.\nPOWER: You may shuffle 1 trash into its associated deck.",
+        "GameText": "After a revealed card is replaced in a deck, you may shuffle that deck. After you do, Bae deals 1 target 2 infernal damage.\nPOWER: Reveal the top card of a deck. Either replace or discard that card.",
         "Quote": "For this moment I am truly really me!",
         "Attribution": "-- Bae, play dice",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/playdiceback.png"
@@ -122,7 +122,7 @@
         "Keywords": "Ongoing",
         "Count": "3",
         "HP": "",
-        "GameText": "When this card is destroyed, play the top card of 1 ally Hero's deck.\nAfter one of your cards is destroyed, Bae may deal 1 target 2 infernal damage and destroy this card.\nREACTION: Bae deals the attacker 2 infernal damage. Destroy this card.",
+        "GameText": "When this card is destroyed, play the top card of 1 ally Hero's deck and Bae regains 2 HP.\nAfter one of your cards is destroyed, Bae may deal 1 target 2 infernal damage and destroy this card.\nREACTION: Bae deals the attacker 2 infernal damage. Destroy this card.",
         "Quote": "\"You are all beaches. You are all mother freaking beaches. I will not have my Mario Kart legacy like this!!\"",
         "Attribution": "-- Bae, mario kart, 2022/01/05",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/trythatagain.jpg",
@@ -145,7 +145,7 @@
         "Keywords": "Ongoing",
         "Count": "4",
         "HP": "",
-        "GameText": "After this card is played, select 1 target. Bae deals that target 3 infernal damage.\nWhen this card is destroyed, play the top card of 1 ally Hero's deck.\nSTART PHASE\nThat target deals Bae 3 melee damage. Destroy this card.",
+        "GameText": "After this card is played, select 1 target. Bae deals that target 3 infernal damage.\nWhen this card is destroyed, play the top card of 1 ally Hero's deck and Bae regains 2 HP.\nSTART PHASE\nThat target deals Bae 3 melee damage. Destroy this card.",
         "Quote": "                  \"Lovers' quarrel?\"                    \"Bae, I mean, waifu killed me with an axe.\"",
         "Attribution": "-- ina and irys, minecraft, 2021/09/28",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/youwannago2.jpg",
@@ -158,7 +158,7 @@
         "Keywords": "One-Shot",
         "Count": "3",
         "HP": "",
-        "GameText": "Discover 1 Limited card. If no card was played this way, play the top card of your deck.\nYou may discard 1 card. If you do, draw 2 cards.",
+        "GameText": "Discover 1 Limited card. If no card was played this way, play the top card of your deck.\nYou may discard 1 card. If you do, you may use 1 power.",
         "Quote": "\"Do you understand that there was a point in human history where cellphones didn't exist? Can that enter your consciousness? ... I can't talk this way to a senpai.\"",
         "Attribution": "-- vesper noir, boomer vs zoomer, 2022/09/02",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/zoomerrat.png"

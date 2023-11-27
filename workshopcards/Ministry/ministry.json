@@ -55,7 +55,7 @@
         "Keywords": "Ministry",
         "Count": "1",
         "HP": "27",
-        "GameText": "💪 BOAST\r\nPut the top card of (H)-2 Hero decks under Muman.\nEND PHASE \nMuman deals X Hero targets with the highest HP 2 melee damage each, where X is the number of cards under this card. Destroy all cards under this card.",
+        "GameText": "💪 BOAST\r\nPut the top card of (H)-2 Hero decks under Muman.\nEND PHASE \nMuman deals X Hero targets with the highest HP 2 melee damage each, where X is 2 plus the number of cards under this card. Destroy all cards under this card.",
         "Quote": "\"I want a *stable* relationship with you.\"",
         "Attribution": "-- Muman, ministry meeting, 2022/01/25",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Ministry/muman.png",
