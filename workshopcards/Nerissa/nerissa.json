@@ -1,0 +1,134 @@
+[
+    {
+        "Title": "Nerissa Ravencroft",
+        "Keywords": "Hero, Demon",
+        "Count": "",
+        "HP": "27",
+        "GameText": "POWER: Nerissa deals 1 target 👿 sonic damage. 1 target recovers 🎶 HP.",
+        "Quote": "",
+        "Attribution": "Standard"
+    },
+    {
+        "Title": "",
+        "Keywords": "",
+        "Count": "",
+        "HP": "",
+        "GameText": "Nerissa has a 👿(DEVIL) value of 1 and a 🎶(DIVA) value of 1."
+    },
+    {
+        "Title": "",
+        "Keywords": "Incap"
+    },
+    {},
+    {
+        "Title": "Alluring Charm",
+        "Keywords": "Ongoing, Limited",
+        "Count": "2",
+        "HP": "",
+        "GameText": "REACTION: Nerissa deals the attacker 👿 psychic damage.\nREACTION: -🎶 to the damage."
+    },
+    {
+        "Title": "Ascended Fan",
+        "Keywords": "Ongoing, Voice",
+        "Count": "3",
+        "HP": "",
+        "GameText": "After this card is played, Nerissa deals 1 target 👿 sonic damage.\nWhen a Hero target would deal damage, you may make it +🎶. Then, after damage increased this way was dealt, destroy this card."
+    },
+    {
+        "Title": "Collab Princess",
+        "Keywords": "One-Shot",
+        "Count": "4",
+        "HP": "",
+        "GameText": "Each Hero draws 1 card.\nIf 👿 is greater than 🎶, you may use 1 power.\nOtherwise, 1 ally Hero may play 1 card."
+    },
+    {
+        "Title": "Demon of Soup",
+        "Keywords": "One-Shot",
+        "Count": "4",
+        "HP": "",
+        "GameText": "Up to 🎶 Hero targets regain 2 HP each.\nIf no targets regain HP this way, discover 1 Ongoing card.\nEither draw 1 card or play 1 Staff card."
+    },
+    {
+        "Title": "Hiya, Darlings!",
+        "Keywords": "One-Shot, Greeting",
+        "Count": "4",
+        "HP": "",
+        "GameText": "Draw 1 card.\nEither discover 1 Voice card or summon 1 Staff card.\nYou may use 1 power."
+    },
+    {
+        "Title": "Madness of Song",
+        "Keywords": "Ongoing, Voice",
+        "Count": "3",
+        "HP": "",
+        "GameText": "Play this card in a non-Hero play area.\n-1 damage dealt by targets in this play area.\nEND PHASE\nNerissa draws 👿 cards. Destroy this card."
+    },
+    {
+        "Title": "Master Key",
+        "Keywords": "Item, Relic, Limited",
+        "Count": "2",
+        "HP": "",
+        "GameText": "POWER: Destroy 1 Ongoing card. Discard 1 card.\nDRAW PHASE\nYou may draw an additional card this phase."
+    },
+    {
+        "Title": "Mic Staff",
+        "Keywords": "Item, Relic, Staff",
+        "Count": "1",
+        "HP": "",
+        "GameText": "After this card is played, put all other Staff cards in your hand.\n+2 to 🎶. -1 to 👿.\nPOWER: Play or Discover 1 Voice card. 1 Hero target regains 🎶 HP."
+    },
+    {
+        "Title": "Nerizza",
+        "Keywords": "Ongoing, Voice",
+        "Count": "3",
+        "HP": "",
+        "GameText": "Play this card next to a target.\nWhen that target would deal damage to Nerissa, redirect that damage.\nEND PHASE\nThat target deals itself 👿 fixed psychic damage. Destroy this card."
+    },
+    {
+        "Title": "No-pan Nee-san",
+        "Keywords": "Ongoing, Limited",
+        "Count": "2",
+        "HP": "",
+        "GameText": "REACTION: +👿 to the damage. Then, if Nerissa is dealt damage, play 1 card.\nEND PHASE\nNerissa regains 🎶 HP."
+    },
+    {
+        "Title": "Otherworldly Pipes",
+        "Keywords": "One-Shot",
+        "Count": "3",
+        "HP": "",
+        "GameText": "Salvage any number of Voice cards.\nEither play 1 Voice card or use 1 power."
+    },
+    {
+        "Title": "Songstress",
+        "Keywords": "Ongoing, Limited",
+        "Count": "2",
+        "HP": "",
+        "GameText": "After a Voice card is played from your hand, you may play 1 non-Voice card.\nPOWER: Either draw 2 cards or collect 1 Voice card."
+    },
+    {
+        "Title": "Spear Staff",
+        "Keywords": "Item, Relic, Staff",
+        "Count": "1",
+        "HP": "",
+        "GameText": "After this card is played, put all other Staff cards in your hand.\n+2 to 👿. -1 to 🎶.\nPOWER: Play or discover 1 Voice card. Nerissa deals 1 target 👿 melee damage."
+    },
+    {
+        "Title": "Stunning Tones",
+        "Keywords": "Ongoing, Voice",
+        "Count": "3",
+        "HP": "",
+        "GameText": "Play this card next to a target.\nWhen that target would deal damage, you may prevent that damage. If you do, destroy this card.\nWhen this card is destroyed, reveal the top card of that target's associated deck. Either play or discard that card."
+    },
+    {
+        "Title": "Unrelenting Simp",
+        "Keywords": "Ongoing, Voice",
+        "Count": "3",
+        "HP": "",
+        "GameText": "Play this card in a Hero play area.\n+1 damage dealt by targets in this play area.\nEND PHASE\n1 target in this area regains 🎶 HP. Destroy this card."
+    },
+    {},
+    {
+        "Title": "",
+        "Keywords": "",
+        "Count": "40"
+    }
+]
