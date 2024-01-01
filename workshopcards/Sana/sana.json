@@ -20,13 +20,13 @@
         "Keywords": "Relic",
         "Count": "1",
         "HP": "6",
-        "GameText": "This card's allies are immune to melee damage dealt by Sana.\nSTART PHASE\nYou may restore this card to its maximum HP. If you do, Sana deals herself X fixed psychic damage, where X is the amount of HP restored this way.",
+        "GameText": "This card's allies are immune to melee damage dealt by Sana.\nWhen this card is destroyed, either destroy 1 Environment target or this card deals each Hero target 1 melee damage.",
         "Quote": "\"Without my limiter, I would grow too big and destroy the earth! Do you want to see, chat?\"",
         "Attribution": "-- Tsukumo Sana, debut stream, 2021/08/22",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Sana/limiter.png",
         "ImageX": "",
         "ImageY": "",
-        "GameTextSize": "93"
+        "GameTextSize": "100"
     },
     {},
     {
