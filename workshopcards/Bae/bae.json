@@ -122,13 +122,13 @@
         "Keywords": "Ongoing",
         "Count": "3",
         "HP": "",
-        "GameText": "When this card is destroyed, play the top card of 1 ally Hero's deck and Bae regains 2 HP.\nAfter one of your cards is destroyed, Bae may deal 1 target 2 infernal damage and destroy this card.\nREACTION: Bae deals the attacker 2 infernal damage. Destroy this card.",
+        "GameText": "When this card is destroyed, Bae regains 2 HP, then play the top card of 1 ally Hero's deck.\nAfter one of your cards is destroyed, Bae may deal 1 target 2 infernal damage and destroy this card.\nREACTION: Bae deals the attacker 2 infernal damage. Destroy this card.",
         "Quote": "\"You are all beaches. You are all mother freaking beaches. I will not have my Mario Kart legacy like this!!\"",
         "Attribution": "-- Bae, mario kart, 2022/01/05",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/trythatagain.jpg",
         "ImageX": "",
         "ImageY": "",
-        "GameTextSize": "87"
+        "GameTextSize": "86"
     },
     {
         "Title": "Wazzzup!",
@@ -145,13 +145,13 @@
         "Keywords": "Ongoing",
         "Count": "4",
         "HP": "",
-        "GameText": "After this card is played, select 1 target. Bae deals that target 3 infernal damage.\nWhen this card is destroyed, play the top card of 1 ally Hero's deck and Bae regains 2 HP.\nSTART PHASE\nThat target deals Bae 3 melee damage. Destroy this card.",
+        "GameText": "After this card is played, select 1 target. Bae deals that target 3 infernal damage.\nWhen this card is destroyed, Bae regains 2 HP, then play the top card of 1 ally Hero's deck.\nSTART PHASE\nThat target deals Bae 3 melee damage. Destroy this card.",
         "Quote": "                  \"Lovers' quarrel?\"                    \"Bae, I mean, waifu killed me with an axe.\"",
         "Attribution": "-- ina and irys, minecraft, 2021/09/28",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Bae/youwannago2.jpg",
         "ImageX": "",
         "ImageY": "",
-        "GameTextSize": "90"
+        "GameTextSize": "86"
     },
     {
         "Title": "Zoomer Rat",

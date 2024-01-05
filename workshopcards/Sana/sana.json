@@ -169,7 +169,7 @@
         "Keywords": "Suddenly, One-Shot",
         "Count": "2",
         "HP": "",
-        "GameText": "Sana deals Sana's Limiter 3 fixed melee damage.\nSana deals each target 2 melee damage.\nYou may use 1 power.",
+        "GameText": "Sana deals Sana's Limiter 3 fixed melee damage.\nSana deals each Hero target 2 melee damage.\nYou may use 1 power.",
         "Quote": "\"If I sneeze, all the Earth's volcanoes will erupt apparently... But it's okay!\"",
         "Attribution": "-- Tsukumo Sana, holoscopes, 2021/12/10",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Sana/sneeze.png",

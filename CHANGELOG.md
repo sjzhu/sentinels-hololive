@@ -1,4 +1,21 @@
 # Changelog
+## 0.14.4
+- Bae
+  - Toxictaro and You Wanna Go?
+    - Heal effect and top deck effect ordering to make play smoother
+- Fauna
+  - Blossom
+    - Buffed to heal target 2 and heal self 1 if target is ally
+  - Promise of Nature
+    - Added possible power usage if no draw
+- Kronii
+  - Unwind Time
+    - Swapped damage for power usage
+- Sana
+  - Sana's Limiter
+    - Removed START PHASE effect for destruction trigger
+  - Sneeze
+    - Only hits Hero targets now
 ## 0.14.3
 - Ame
   - Base Power

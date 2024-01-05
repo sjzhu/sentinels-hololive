@@ -96,7 +96,7 @@
         "Keywords": "One-Shot",
         "Count": "3",
         "HP": "",
-        "GameText": "3 Hero characters may each regain 3 HP.\n3 Heroes may each discard 1 card. Each Hero that discarded a card this way draws up to 2 cards.",
+        "GameText": "3 Hero characters may each regain 3 HP.\n3 Heroes may each discard 1 card. Each Hero that discarded a card this way draws up to 2 cards. If you did not draw a card this way, use 1 power.",
         "Quote": "\"Will you return to nature? It's a simple question.\"",
         "Attribution": "-- Ceres Fauna, HoloCouncil game show, 2022/02/22",
         "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Fauna/blessingsofnature.png"
