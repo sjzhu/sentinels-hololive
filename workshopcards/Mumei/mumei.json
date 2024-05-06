@@ -85,13 +85,19 @@
     },
     {
         "Title": "Hand Lamp",
-        "Keywords": "Item",
-        "Count": "2",
         "HP": "",
+        "Keywords": "Item",
+        "BoldedTerms": "",
         "GameText": "After this card is played, reveal the top 2 cards of 1 deck. Bury or replace those cards.\nPOWER: Reveal the top card of up to 2 decks. You may discard 1 of those revealed cards. Replace the rest. If you discarded no cards this way, play 1 card.",
+        "GameTextSize": "87",
         "Quote": "       \"Thank you for messaging me and saying             you were scared. I got excited! To help!\"        \"...\"",
+        "QuoteTextSize": "95",
         "Attribution": "-- Mumei and Bae, つぐのひ, 2021/10/20",
-        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Mumei/handlamp.png"
+        "ImageURL": "https://media.githubusercontent.com/media/sjzhu/sentinels-hololive/main/assets/images/Mumei/handlamp.png",
+        "ImageX": "0",
+        "ImageY": "0",
+        "ImageZoom": "100",
+        "Suddenly": "false"
     },
     {
         "Title": "History of Violence",

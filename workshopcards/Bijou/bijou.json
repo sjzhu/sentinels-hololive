@@ -4,9 +4,18 @@
         "Keywords": "Hero",
         "Count": "",
         "HP": "25",
-        "GameText": "POWER - Jewel of Emotions: 1 Hero target regains 2 HP. If that target is in an ally's play area, Bijou regains 1 HP and draws 1 card."
+        "GameText": "POWER - Jewel of Emotions: Either discover 1 Pebble card, or Bijou deals 1 target 2 melee damage."
     },
     {},
+    {
+        "Title": "Biboo Tax",
+        "Keywords": "One-Shot",
+        "Count": "2",
+        "HP": "",
+        "GameText": "Discard and/or destroy any number of Pebble cards.\nBijou deals 1 target X infernal damage, where X is 2 times the number of Pebble cards in your trash.\nBury all Pebble cards in your trash.",
+        "Quote": "\"I have come to understand Biboo tax as like, I am dropping people's sanity by spreading my cursed memes everywhere.\"",
+        "Attribution": "-- Koseki Bijou, minecraft collab, 2023/11/19"
+    },
     {
         "Title": "Bonbijou!",
         "Keywords": "One-Shot, Greeting",
@@ -19,7 +28,21 @@
         "Keywords": "One-Shot",
         "Count": "3",
         "HP": "",
-        "GameText": "After this card is played, you may play or salvage 1 Pebble card.\nBijou deals 1 target 3 psychic damage. \nBijou may deal 1 Hero target 2 fixed psychic damage. If she deals damage this way, 1 Hero may use 1 power."
+        "GameText": "Play or salvage 1 Pebble card.\nBijou deals 1 target 3 psychic damage. \nBijou may deal 1 Hero target 2 fixed psychic damage. If she deals damage this way, 1 Hero may use 1 power."
+    },
+    {
+        "Title": "Deez-",
+        "Keywords": "Ongoing",
+        "Count": "3",
+        "HP": "",
+        "GameText": "After a Pebble card is destroyed, Bijou may deal herself 2 fixed psychic damage. If she is dealt damage this way, play that Pebble card from the trash.\nSTART PHASE\nDraw 2 cards. Destroy this card."
+    },
+    {
+        "Title": "Emo Rock",
+        "Keywords": "Ongoing, Limited",
+        "Count": "2",
+        "HP": "",
+        "GameText": "After this card is played, you may play or salvage 1 Pebble card.\n+1 damage dealt by Bijou.\nPOWER: Bijou deals 1 target 3 melee damage. Either 1 ally regains 2 HP or Bijou deals 1 ally character 1 fixed psychic damage. If damage is dealt this way to a Hero character, the associated Hero draws 1 card."
     },
     {
         "Title": "Gaming Rock",
@@ -33,7 +56,7 @@
         "Keywords": "Item, Relic, Limited",
         "Count": "2",
         "HP": "",
-        "GameText": "-1 damage dealt to Bijou.\nPOWER: Collect 1 Ongoing card. You may destroy 1 Pebble card. If you do, play 1 card.",
+        "GameText": "-1 damage dealt to Bijou.\nPOWER: You may destroy 1 Pebble card. If you do, summon 1 Ongoing card. Otherwise, collect 1 Ongoing card.",
         "Quote": "\"I'm not bald! I just wanted to put my crown down!\"",
         "Attribution": "search for bald bijou"
     },
@@ -42,42 +65,28 @@
         "Keywords": "Ongoing, Limited",
         "Count": "2",
         "HP": "",
-        "GameText": "After this card is played, you may play or salvage 1 Pebble card.\nREACTION: Bijou deals the attacker 3 melee damage. Either destroy 1 Pebble card or destroy this card.\nREACTION: Salvage 1 Pebble card."
-    },
-    {
-        "Title": "Kira Kira Koseki!",
-        "Keywords": "Ongoing, Limited",
-        "Count": "2",
-        "HP": "",
-        "GameText": "After this card is played, you may play or salvage 1 Pebble card.\n+1 damage dealt by Bijou.\nPOWER: Bijou deals 1 target 3 melee damage. Either 1 ally regains 2 HP or Bijou deals 1 ally character 1 fixed psychic damage. If damage is dealt this way, the associated Hero draws 1 card."
+        "GameText": "After this card is played, you may play or salvage 1 Pebble card.\nREACTION: Bijou deals the attacker 3 melee damage. Either destroy 1 Pebble card or destroy this card.\nREACTION: Discover 1 Pebble card. Destroy this card."
     },
     {
         "Title": "Pebble",
         "Keywords": "Item, Pebble",
         "Count": "10",
         "HP": "",
-        "GameText": "Play this next to a Hero target, then draw 1 card.\nThat target gains this reaction:\nREACTION: Prevent the damage. Destroy this card."
+        "GameText": "Play this next to a Hero target.\nAfter this card is played, if it was played from your hand, discover 1 Item card. Otherwise, draw 1 card.\nThat target gains this reaction:\nREACTION: Prevent the damage. This Hero draws 1 card. Destroy this card."
     },
     {
         "Title": "Rock Hard",
         "Keywords": "Ongoing",
         "Count": "2",
         "HP": "",
-        "GameText": "After this card is played, you may play or salvage 1 Pebble card.\n-X damage dealt to Hero targets, where X is the number of Pebble cards in their play area.\nSTART PHASE\nPlay or salvage 1 Pebble card. Destroy this card."
-    },
-    {
-        "Title": "Sparkling Madness",
-        "Keywords": "SUDDENLY!, One-Shot",
-        "Count": "2",
-        "HP": "",
-        "GameText": "Destroy any number of Pebble cards.\nEach Hero target deals themselves 1 fixed psychic damage for each Pebble card in their play area.\nDraw 1 card for each Pebble card in your trash.\nShuffle your trash into your deck."
+        "GameText": "After this card is played, you may play or discover 1 Pebble card.\n-X damage dealt to Hero targets, where X is the number of Pebble cards in their play area.\nSTART PHASE\nPlay or discover 1 Pebble card. Destroy this card."
     },
     {
         "Title": "Together Strong",
         "Keywords": "One-Shot",
         "Count": "3",
         "HP": "",
-        "GameText": "Salvage all Pebble cards in your trash. \nYou may play any number of Pebble cards.\nEach Hero target regains 2 HP for each Pebble card in their play area."
+        "GameText": "Discard any number of Pebble cards.\nPlay any number of Pebble cards from your trash.\nEach Hero target regains 2 HP for each Pebble card in their play area."
     },
     {
         "Title": "Unflappable",
@@ -93,14 +102,8 @@
         "Keywords": "One-Shot",
         "Count": "3",
         "HP": "",
-        "GameText": "Bijou deals 1 target 5 melee damage.\nEither destroy 1 Pebble card, or Bijou deals herself 2 fixed psychic damage."
-    },
-    {
-        "Title": "",
-        "Keywords": "Ongoing",
-        "Count": "3",
-        "HP": "",
-        "GameText": "After a Pebble card is destroyed, Bijou may deal herself 2 fixed psychic damage. If she is dealt damage this way, play that Pebble card from the trash.\nSTART PHASE\nDraw 2 cards. Destroy this card."
+        "GameText": "Bijou deals 1 target 5 melee damage.\nEither destroy 1 Pebble card, or Bijou deals herself 2 fixed psychic damage.",
+        "Quote": "\"VIOLENCE!\""
     },
     {
         "Title": "",
