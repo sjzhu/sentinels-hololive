@@ -7,6 +7,8 @@
         "GameText": "POWER - Jewel of Emotions: Either discover 1 Pebble card, or Bijou deals 1 target 2 melee damage."
     },
     {},
+    {},
+    {},
     {
         "Title": "Biboo Tax",
         "Keywords": "One-Shot",
@@ -42,7 +44,8 @@
         "Keywords": "Ongoing, Limited",
         "Count": "2",
         "HP": "",
-        "GameText": "After this card is played, you may play or salvage 1 Pebble card.\n+1 damage dealt by Bijou.\nPOWER: Bijou deals 1 target 3 melee damage. Either 1 ally regains 2 HP or Bijou deals 1 ally character 1 fixed psychic damage. If damage is dealt this way to a Hero character, the associated Hero draws 1 card."
+        "GameText": "After this card is played, you may play or salvage 1 Pebble card.\n+1 damage dealt by Bijou.\nPOWER: Bijou deals 1 target 3 melee damage. Either 1 ally regains 2 HP or Bijou deals 1 ally character 1 fixed psychic damage. If damage is dealt this way to a Hero character, the associated Hero draws 1 card.",
+        "Quote": "\"Don't talk to me, I'm sad! :D\""
     },
     {
         "Title": "Gaming Rock",
