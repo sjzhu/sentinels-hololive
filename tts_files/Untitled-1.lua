@@ -328,7 +328,7 @@ Villains = {
   Setup1_Special = 2,
   Setup1_Not = 'Relic Spirit',
   Setup2 = 'Ongoing',
-  Setup2_Count = 0,
+  Setup2_Count = '0',
   Set = "Dis"
   },
   {
@@ -338,7 +338,7 @@ Villains = {
   Name1 = 'Dreamer',
   Health = 6,
   Setup1 = 'Nightmare',
-  Setup1_Count = 2,
+  Setup1_Count = 1,
   Set = "Dis"
   },
   {
@@ -423,11 +423,11 @@ Villains = {
   Name1 = 'Ruler of Aeternus',
   Health = -1,
   Setup1 = 'Prince',
-  Setup1_Count = 0,
+  Setup1_Count = 1,
   --Setup1_Special = 1,
-  -- Setup2 = 'Demon',
-  -- Setup2_Count = 2,
-  -- Setup2_Not = 'Prince',
+  Setup2 = 'Demon',
+  Setup2_Count = 2,
+  Setup2_Not = 'Prince',
   --Setup3 = 'Burden of the Crown',
   --Setup3_count = 'Special',
   --Setup3_Special = 1,
@@ -1715,11 +1715,11 @@ for i = #Villain_Deck.getObjects(),1,-1 do
 
 --Setup_Search(Villain_Deck, Setup1_deck, Setup1_count, Setup1_remove, Setup1_Position, Setup1_rotation)
   --Pulls the second Setup cards
-Setup_Search(Villain_Deck, Setup_Table.Setup2, Setup_Table.Setup2_Count, Setup_Table.Setup2_Not, Setup_Table.Setup2_Position, Setup_Table.Setup2_rotation, Setup_Table.Setup2_Special)
+Setup_Search(Villain_Deck, Setup_Table.Setup2, Setup2_count, Setup_Table.Setup2_Not, Setup_Table.Setup2_Position, Setup_Table.Setup2_rotation, Setup_Table.Setup2_Special)
 --Pulls the third Setup cards
-Setup_Search(Villain_Deck, Setup_Table.Setup3, Setup_Table.Setup3_Count, Setup_Table.Setup3_Not, Setup_Table.Setup3_Position, Setup_Table.Setup3_rotation, Setup_Table.Setup3_Special)
+Setup_Search(Villain_Deck, Setup_Table.Setup3, Setup3_count, Setup_Table.Setup3_Not, Setup_Table.Setup3_Position, Setup_Table.Setup3_rotation, Setup_Table.Setup3_Special)
 --Pulls the fourth Setup cards
-Setup_Search(Villain_Deck, Setup_Table.Setup4, Setup_Table.Setup4_Count, Setup_Table.Setup4_Not, Setup_Table.Setup4_Position, Setup_Table.Setup4_rotation, Setup_Table.Setup4_Special)
+Setup_Search(Villain_Deck, Setup_Table.Setup4, Setup4_count, Setup_Table.Setup4_Not, Setup_Table.Setup4_Position, Setup_Table.Setup4_rotation, Setup_Table.Setup4_Special)
 --Pulls the Side Deck Setup cards
 --May need to prep these variables, unsure
 if Villain_Side_Deck ~= nil then
@@ -1746,41 +1746,41 @@ end
 
 SetupH_remove = Setup_Table.SetupH_Not
 SetupH_deck = Setup_Table.SetupH
-    for i = #Villain_Deck.getObjects(),1,-1 do
-      if SetupH_count == 0 then
-        break
-      else
-        if (string.find(string.upper(Villain_Deck.getObjects()[i].description), string.upper(SetupH_deck))
-                or string.find(string.upper(Villain_Deck.getObjects()[i].name), string.upper(SetupH_deck)))
-                and SetupH_count > 0 then
+for i = #Villain_Deck.getObjects(),1,-1 do
+  if SetupH_count == 0 then
+    break
+  else
+    if (string.find(string.upper(Villain_Deck.getObjects()[i].description), string.upper(SetupH_deck))
+            or string.find(string.upper(Villain_Deck.getObjects()[i].name), string.upper(SetupH_deck)))
+            and SetupH_count > 0 then
 
-            if SetupH_remove != nil then
-              if (string.find(string.upper(Villain_Deck.getObjects()[i].description), string.upper(SetupH_remove))
-              or string.find(string.upper(Villain_Deck.getObjects()[i].name), string.upper(SetupH_remove)))
-              then goto continue
-              end
-            end
-            --looks for unique Setup requirements
-            if Setup_Table.SetupH_Position == nil then
-              Setup_Position = Vec_sum(Send_to, {Position_adjust,0,-11.4})
-              Position_adjust = Position_adjust + 5.7
-            else
-              Setup_Position = Setup_Table.SetupH_Position
-            end
-            Take_Params = {
-              position  = Setup_Position,
-              rotation  = SetupH_rotation,
-              index     = i-1,
-              flip      = true,
-              smooth    = false
-            }
-            Villain_Deck.takeObject(Take_Params)
-            SetupH_count = SetupH_count - 1
-
-            ::continue::
+        if SetupH_remove != nil then
+          if (string.find(string.upper(Villain_Deck.getObjects()[i].description), string.upper(SetupH_remove))
+          or string.find(string.upper(Villain_Deck.getObjects()[i].name), string.upper(SetupH_remove)))
+          then goto continue
           end
         end
+        --looks for unique Setup requirements
+        if Setup_Table.SetupH_Position == nil then
+          Setup_Position = Vec_sum(Send_to, {Position_adjust,0,-11.4})
+          Position_adjust = Position_adjust + 5.7
+        else
+          Setup_Position = Setup_Table.SetupH_Position
+        end
+        Take_Params = {
+          position  = Setup_Position,
+          rotation  = SetupH_rotation,
+          index     = i-1,
+          flip      = true,
+          smooth    = false
+        }
+        Villain_Deck.takeObject(Take_Params)
+        SetupH_count = SetupH_count - 1
+
+        ::continue::
       end
+    end
+  end
 
       if Setup_Table.Setup_Tokens != nil then
         Position_adjust = Position_adjust + 1
@@ -1988,13 +1988,12 @@ end
 -------------------------------shuffle deck-------------------------------------
 
 function Setup_Search(Deck, Setup_search, Setup_count, Setup_remove, SetupS_Position, Setup_rotation, Setup_special)
+
   if Setup_count == nil then
     Setup_count = 0
     Setup_search = 0
   elseif Setup_count == 'Special' then
     Setup_count = Setup_special
-  else
-    Setup_count = Hero_Count - Setup_count
   end
 
   if Setup_rotation == nil then
